@@ -1,0 +1,8 @@
+**/node_modules
+**/__pycache__
+**/*.db
+.env
+.git
+05_evaluation/reports
+# the agent gets the WangchanBERTa folder through the docker-compose volume, no need to copy ~250 MB into the image
+04_flood_nlp_model/artifacts/floodwcb_model

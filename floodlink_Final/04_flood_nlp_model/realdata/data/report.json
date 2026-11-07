@@ -1,0 +1,14 @@
+{
+  "comments_parsed": 6122,
+  "with_author": 6121,
+  "chatter_removed": 2077,
+  "duplicate_groups": 5321,
+  "groups_with_copies": 341,
+  "largest_group": 42,
+  "to_label": 5321,
+  "to_label_chatter": 1694,
+  "has_image_only_text": 1007,
+  "pii_replacements": 5555,
+  "median_len": 84,
+  "p95_len": 468
+}

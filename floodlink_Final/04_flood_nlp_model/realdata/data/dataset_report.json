@@ -1,0 +1,54 @@
+{
+  "rows": 4832,
+  "synthetic_in_train": 1389,
+  "train": 5095,
+  "dev": 654,
+  "test": 472,
+  "test_human_reviewed": 472,
+  "message_type": {
+    "irrelevant": 2416,
+    "help_request": 2365,
+    "donation_offer": 34,
+    "status_update_resolved": 13,
+    "hazard_report": 4
+  },
+  "flags": {
+    "cannot_swim": 9,
+    "chronic_illness": 213,
+    "sick_now": 91,
+    "bedridden": 114,
+    "pregnant": 38,
+    "disabled_blind": 44,
+    "injured": 26,
+    "in_labor": 2,
+    "heart": 64,
+    "wheelchair": 25,
+    "dialysis": 22
+  },
+  "needs": {
+    "evacuation": 1323,
+    "food": 1062,
+    "water": 790,
+    "medical": 141,
+    "power": 166,
+    "medicine": 98,
+    "milk": 42
+  },
+  "priority_llm": {
+    "red": 591,
+    "green": 394,
+    "yellow": 648,
+    "orange": 732
+  },
+  "llm_vs_rules_priority_agreement": 0.711,
+  "below_minimum": {
+    "bedridden": "114/150",
+    "dialysis": "22/100",
+    "pregnant": "38/80",
+    "in_labor": "2/30",
+    "injured": "26/80",
+    "status_update_resolved": "13/150",
+    "hazard_report": "4/80",
+    "donation_offer": "34/80"
+  }
+}

@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+*.db
+node_modules/
+dist/
+.pytest_cache/
+05_evaluation/reports/predictions_*.jsonl
+04_flood_nlp_model/artifacts/floodnlp_v2/
+
+# raw copied comments contain real names/phones — never commit
+04_flood_nlp_model/realdata/raw*.txt
+04_flood_nlp_model/realdata/data/labels.jsonl.bak
+
+# exported WangchanBERTa model (~250 MB) — download from Drive, never commit
+04_flood_nlp_model/artifacts/floodwcb_model/

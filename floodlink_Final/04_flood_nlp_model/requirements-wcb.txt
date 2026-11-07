@@ -1,0 +1,8 @@
+# WangchanBERTa model (floodwcb.py) on CPU inside the agent container.
+# transformers is pinned to the version the Colab notebook trained/exported with (see artifacts/floodwcb_model/config.json
+# "transformers_version"); if you retrain with another version, change it here too.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.5
+transformers==5.22.0
+sentencepiece>=0.2
+protobuf>=4

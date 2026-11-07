@@ -1,0 +1,27 @@
+{
+  "version": "v1.1-charngram+lexicon",
+  "trained_at": "2026-11-02 21:31",
+  "n_train": 8000,
+  "n_features": 18311,
+  "config": {
+    "ngram": [
+      1,
+      4
+    ],
+    "C": 6.0,
+    "C_multi": 8.0,
+    "tag_weight": 0.6,
+    "thr_flags": 0.5,
+    "thr_needs": 0.5,
+    "use_lexicon": true,
+    "help_bias": 0.3
+  },
+  "train_seconds": 8.2,
+  "val": {
+    "message_type_acc": 1.0,
+    "water_level_acc": 1.0,
+    "flags_micro_f1": 0.998,
+    "needs_micro_f1": 0.999
+  },
+  "latency_ms_per_message": 5.43
+}

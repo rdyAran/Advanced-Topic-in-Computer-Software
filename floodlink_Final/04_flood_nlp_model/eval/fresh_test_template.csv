@@ -1,0 +1,4 @@
+writer,text,message_type,priority,flags,needs,water_level
+ตัวอย่าง (ลบแถวนี้),"ช่วยด้วยค่ะ แม่อายุ 78 เดินไม่ได้ อยู่บ้านชั้นเดียว น้ำถึงอกแล้ว ซ.ควนลัง 3 โทร 08x-xxx-xxxx",help_request,red,wheelchair,evacuation,chest
+ตัวอย่าง (ลบแถวนี้),"ขอบคุณทีมเรือที่มารับพ่อแม่ผมเมื่อคืน ตอนนี้ปลอดภัยแล้วครับ",status_update_resolved,,,,
+ตัวอย่าง (ลบแถวนี้),"ใครจะบริจาคน้ำดื่ม เอามาส่งที่วัดคลองเรียนได้นะคะ",donation_offer,,,,

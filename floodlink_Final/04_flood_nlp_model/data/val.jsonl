@@ -1,0 +1,800 @@
+{"text": "ช่วยด้วยค่ะ ซ.ครูจีน 1 ถนนครูจีน คนแก่ 83 ปี น้ำถึงสะโพก", "message_type": "help_request", "flags": [], "needs": [], "water_level": "waist"}
+{"text": "รบกวนประสานกู้ภัย, ป้าอายุ 70, รวม 8 คน, น้ำระดับเอว, ช่วยไปรับที, น้ำดื่มยังมีพอ, 2 คืนแล้วว", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "waist"}
+{"text": "ฝากแชร์หน่อย คลองแห ซ.คลองแห 2 คนแก่ 95 ปี อยู่กัน 6 คน นำ้ระดับเอว น้ำขวดหมด", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "waist"}
+{"text": "ถนนครูจีน ซ.ครูจีน 1\nหลานอายุ 5 ขวบ\nปู่ 84 ปี\nรวม 7 คน\nพี่สาวพิการทางสายตา\nwater waist high\n2 คืนแล้ว\nโทร 087-xxx-2268", "message_type": "help_request", "flags": ["disabled_blind"], "needs": [], "water_level": "waist"}
+{"text": "warning:\nคลองเตย\nมีจระเข้หลุดออกมา\navoid this route", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "แถวถนนครูจีน, ในบ้านมี เจ็ด คน, ออกจากหมู่บ้านม่ายได้, พาออกไปที่ปลอดภัยที, โทร 088-xxx-3758", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": null}
+{"text": "เพื่อนส่งข้อความมาว่า\nหลังตลาดเขต 8 เขต 8\nรวม 5 คน\nน้ำท่วมเต็มชั้นล่าง\nขาดน้ำดื่ม\nโทร 081-xxx-9385", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "floor1"}
+{"text": "ตอนนี้\nบ้านพรุ ถ.กาญจนวนิช\nป้า 70 ปี\nรวม 1 คน\nยายตาบอด\nบ้านชั้นเดียวจมมิดแล้ว\nยาเบาหวานหมด\nโทร 089-xxx-2279", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["medicine"], "water_level": "floor1"}
+{"text": "near PSU Kho Hong เด็ก 10 ขวบ เด็ก เก้า ขวบ ทุกคนแข็งแรงดี น้ำมิดหน้าต่างชั้นล่าง ไม่มีไฟชาร์จมือถือ ติดมา 1 วันแล้วว", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "floor1"}
+{"text": "รับบริจาคเสื้อผ้า ติดต่อได้ที่เพจ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ตอนนี้ ลุงอายุ 80 ผู้ใหญ่ 3 คน นำ้มิดหน้าต่างชั้นล่าง ติดมา 4 วันแล้ว ติดต่อ 098xxx3528", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor1"}
+{"text": "help!\nบ้านเลขที่ 265 ซ.คลองเตย 3 คลองเตย\nเด็ก 3 เดือน\nคุณยายอายุ 87\nผู้ใหญ่ 3 คน\nขึ้นไปรอบนหลังคาแล้วว", "message_type": "help_request", "flags": [], "needs": [], "water_level": "roof"}
+{"text": "ถนนครูจีน ใกล้วัดครูจีน, kid 12 years old, เด็ก หนึ่ง เดือน, grandma 74 y/o, รวม 9 คน, ออกจากหมู่บ้านไม่ได้", "message_type": "help_request", "flags": [], "needs": [], "water_level": null}
+{"text": "SOS\nbaby 1 months\ngrandma 83 y/o\nผู้ใหญ่ 4 คน\nพี่สาวนอนป่วยมาหลายเดือน ลุกไม่ขึ้น\nชั้นล่างจมทั้งหมด\nไฟดับ โทรศัพท์ใกล้ดับ\nno drinking water\nโทร 085-xxx-6712", "message_type": "help_request", "flags": ["bedridden"], "needs": ["power", "water"], "water_level": "floor1"}
+{"text": "รับบริจาคเสื้อผ้า,ซ.ทุ่งเสา4ทุ่งเสา", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ซ.คลองแห 2 คลองแห, ลูก 1 ขวบ, ทารกแรกเกิด อายุ 4 วัน, 7 people, พ่อป่วยติดเตียง, น้ำท่วมมิดชั้น 1, ติดต่อ 095xxx6551", "message_type": "help_request", "flags": ["bedridden"], "needs": [], "water_level": "floor1"}
+{"text": "คลองเตยซ.คลองเตย3\nปู่เก้าสิบห้า\nในบ้านมี2คน\nมีหญิงตั้งครรภ์อยู่ด้วย\nม่ายมียาลดไข้\nนำ้ดื่มหมด\nยังไม่อยากออกจากบ้าน\nติดต่อ099xxx6359", "message_type": "help_request", "flags": ["pregnant"], "needs": ["medicine", "water"], "water_level": null}
+{"text": "please help ซ.ครูจีน 1 ถนนครูจีน พ่ออายุ 74 1 people ป้าเป็นอัมพฤกษ์ครึ่งซีก ลุยน้ำระดับอก ขาดมาม่า 3 คืนแล้วว", "message_type": "help_request", "flags": ["bedridden"], "needs": ["food"], "water_level": "chest"}
+{"text": "ใครอยู่ใกล้ช่วยทีแถวถนนเพชรเกษมลุง77ปีอยู่กัน7คนwaterwaisthighneedrescueติดต่อ099xxx7448", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "waist"}
+{"text": "ช่วยด้วยค่ะแถวคอหงส์คนแก่71ปีอยู่กัน7คนภรรยาเดินไม่ได้นำ้เข้าห้องนอนชั้น2ขอเจ็ตสกีมารับsinceyesterday", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["evacuation"], "water_level": "floor2"}
+{"text": "ลบโพสต์ได้แล้ว family ที่ถนนเพชรเกษม ญาติมารับไปอยู่ด้วยแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "🙏 ชวยด้วย\nบ้านเลขที่ 73 ใกล้วัดครูจีน ถนนครูจีน\nในบ้านมี สาม คน\nยาย is blind\nน้ำท่วมเต็มชั้นล่าง\nไม่มีอะไรจะกิน\nขอพาวเวอร์แบงค์", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["food", "power"], "water_level": "floor1"}
+{"text": "ดูไลฟ์อยู่", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ใกล้อบต.ควนลังควนลังหลานอายุ8ขวบเด็กอ่อนหนึ่งเดือนคนแก่75ปีรวม3คนป้าป่วยหัวใจเมียน้ำคร่ำเดินน้ำถึงเข่าชวยมารับออกไปทีโทร082-xxx-6150", "message_type": "help_request", "flags": ["heart", "pregnant"], "needs": ["evacuation"], "water_level": "knee"}
+{"text": "ระวัง!\nซ.นำ้น้อย 1 น้ำน้อย\nคันกั้นน้ำเริ่มรั่ว", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ถนนครูจีน ใกล้วัดครูจีน ผู้ใหญ่ 4 คน น้ำท่วมชั้นล่างหมดแล้ว อยากอพยพออก need medicine ไม่มีอะไรจะกิน", "message_type": "help_request", "flags": [], "needs": ["evacuation", "medicine", "food"], "water_level": "floor1"}
+{"text": "เพื่อนส่งข้อความมาว่า\nแถวเขต 8\nในบ้านมี 9 คน\nน้ำท่วมถึงชั้นบนแล้ว\nneed rescue\nขอนมสำหรับเด็ก\nขอพาวเวอร์แบงค์\nน้ำดื่มยังมีพอ", "message_type": "help_request", "flags": [], "needs": ["evacuation", "milk", "power"], "water_level": "floor2"}
+{"text": "ลุงต้องทำ dialysis, ภรรยาใช้รถเข็น, น้ำถึงตาตุ่ม, อินซูลินหมด, อยากออกจากบ้าน, phone battery dying, โทร 085-xxx-6698", "message_type": "help_request", "flags": ["dialysis", "wheelchair"], "needs": ["medicine", "evacuation", "power"], "water_level": "knee"}
+{"text": "ญาติโทรมาบอกว่า\nควนลัง ใกล้ อบต.ควนลัง\ngrandma 77 y/o\n6 people\nนำ้ถึงเอว\nขาดน้ำดื่ม", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "waist"}
+{"text": "บ้านเลขที่ 262 ซ.ครูจีน 1 ถนนครูจีน ในบ้านมี 3 คน อยู่ตึกแถวชั้น 3 แบตเหลือ 5% ไม่มีน้ำกิน โทร 081-xxx-4398", "message_type": "help_request", "flags": [], "needs": ["power", "water"], "water_level": null}
+{"text": "สงสารคนแก่กับเด็กมาก", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนมาก!!\nแถวคลองเตย\nkid 5 years old\nลูกเพิ่งเกิดได้ 25 วัน\nผู้ใหญ่ สี่ คน\nอาหารหมด\nphone battery dying\nรอเรือมารับ\nติดต่อ 098xxx5174", "message_type": "help_request", "flags": [], "needs": ["food", "power", "evacuation"], "water_level": null}
+{"text": "แถวน้ำน้อย, อยู่กัน 6 คน, คุณยายป่วยไตวายต้องฟอกเลือด, ชั้นล่างน้ำเต็ม, ขอเจ็ตสกีมารับ, น้ำดื่มยังมีพอ, 2 คืนแล้ว", "message_type": "help_request", "flags": ["dialysis"], "needs": ["evacuation"], "water_level": "floor1"}
+{"text": "มีพาวเวอร์แบงค์แจก คลองแห ใครต้องการทักมา", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ใครอยู่ใกล้ช่วยที เมียท้องแก่จะคลอดแล้วว นำ้ขึ้นถึงพื้นชั้นสอง ยาประจำตัวหมด โทร 088-xxx-5484", "message_type": "help_request", "flags": ["pregnant"], "needs": ["medicine"], "water_level": "floor2"}
+{"text": "ชวยกันแชร์เยอะๆ แชร์ไปแล้ววนะ", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนมาก!!, แถวทุ่งเสา, ผู้ใหญ่ 2 คน, คุณยาย uses a wheelchair, อยู่ตึกแถวชั้น 3, no drinking water, ยังไม่ต้องอพยพ", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["water"], "water_level": null}
+{"text": "ซ.ศรีภูวนารถ 2 เขต 8 grandma 88 y/o ในบ้านมี 1 คน คุณตาหัวใจไม่ดี เจ็บหน้าอก ชั้นล่างจมทั้งหมด ไม่มียาลดไข้ แบตจะหมด", "message_type": "help_request", "flags": ["heart"], "needs": ["medicine", "power"], "water_level": "floor1"}
+{"text": "ทำข้าวกล่องแจกได้ 300 กล่อง", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ถนนครูจีน ใกล้วัดครูจีน รวม 8 คน ต้องปีนขึ้นหลังคา โทร 081-xxx-9852", "message_type": "help_request", "flags": [], "needs": [], "water_level": "roof"}
+{"text": "คุณยาย, ที่Khlong Hae, ญาติมารับไปอยู่ด้วยแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "please help\nแถวบ้านพรุ\nอยู่กัน 3 คน\nพี่ชายแผลติดเชื้อ บวมแดง\nอยู่ตึกแถวชั้น 3\nยาหมด\nphone battery dying\nไม่มีอาหาร\nติดต่อ 099xxx3001", "message_type": "help_request", "flags": ["injured"], "needs": ["medicine", "power", "food"], "water_level": null}
+{"text": "ใครอยู่หาดใหญ่บ้างปลอดภัยไหม", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "สงสารคนแก่กับเด็กมาก", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ญาติโทรมาบอกว่า near PSU Kho Hong อยู่กัน 5 คน ไม่มีใครป่วย นำ้ท่วมถึงชั้นบนแล้ว", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor2"}
+{"text": "เขต 8 หลังตลาดเขต 8, ในบ้านมี 4 คน, น้ำถึงตาตุ่ม", "message_type": "help_request", "flags": [], "needs": [], "water_level": "knee"}
+{"text": "บ้านเลขที่ 280 ซ.ครูจีน 1 ถนนครูจีน เด็ก 8 ขวบ หลานอายุ 10 ขวบ นำ้รอบบ้านลึกระดับเอว ม่ายมียาลดไข้ ขอเจ็ตสกีมารับ น้ำเปล่าหมดแล้ว", "message_type": "help_request", "flags": [], "needs": ["medicine", "evacuation", "water"], "water_level": "waist"}
+{"text": "รบกวนประสานกู้ภัย, แถวเขต 8, หลานอายุ 8 ขวบ, newborn 19 days old, ผู้ใหญ่ ห้า คน, water chest deep, ยาหมด, นำ้ขวดหมด", "message_type": "help_request", "flags": [], "needs": ["medicine", "water"], "water_level": "chest"}
+{"text": "ลบโพสต์ได้แล้ว พ่อแม่ ที่เขต 8 has been rescued", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ใกล้ อบต.ควนลัง ควนลัง ผู้ใหญ่ 2 คน ground floor fully flooded ติดต่อ 097xxx9636", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor1"}
+{"text": "ขอความช่วยเหลือด่วน\nบ้านเลขที่ 231 ซ.สังทิศ 1 คอหงส์\nพ่อเจ็ดสิบห้า\nรวม 4 คน\nนั่งอยู่บนหลังคาบ้าน\nยาประจำตัวหมด\nsince yesterday\nติดต่อ 090xxx4582", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "roof"}
+{"text": "ในบ้านมี 7 คน, นมเด็กหมด, ช่วยไปรับที", "message_type": "help_request", "flags": [], "needs": ["milk", "evacuation"], "water_level": null}
+{"text": "help!, คลองเตย ริมคลอง ร.1, ทารกแรกเกิด อายุ 25 วัน, grandma 72 y/o, อยู่กัน สาม คน, ชั้นล่างน้ำเต็ม, ไม่ได้กินข้าวมาทั้งวัน, โทร 087-xxx-6670", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "floor1"}
+{"text": "9 people ม่ายมีใครป่วย น้ำท่วมชั้นล่างหมดแล้วว ขาดอาหาร", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "floor1"}
+{"text": "แถวKhlong Hae, คนแก่ 74 ปี, ป้าหัวใจเต้นผิดจังหวะ, ตาเป็นคนไข้ไต นัดฟอกเลือดเมื่อวานแต่ไปไม่ได้, ต้องปีนขึ้นหลังคา, ติดต่อ 097xxx2736", "message_type": "help_request", "flags": ["heart", "dialysis"], "needs": [], "water_level": "roof"}
+{"text": "บ้านเลขที่ 266 ซ.คลองเตย 3 คลองเตย ป้าอายุ 80 ในบ้านมี 4 คน น้ำสูงประมาณหัวเข่า ยาหมด โทร 082-xxx-5295", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "knee"}
+{"text": "เพื่อนส่งข้อความมาว่า แถวน้ำน้อย รวม 2 คน พี่ชายโดนรถที่ลอยมาชน ขึ้นไปรอบนหลังคาแล้ว อาหารมีพอ", "message_type": "help_request", "flags": ["injured"], "needs": [], "water_level": "roof"}
+{"text": "อาสาเรือฝากบอก น้ำน้อย หมู่ 3 น้ำน้อย น้ำลึกเกินเมตร รถเล็กอย่าเข้า เลี่ยงไปทางอื่น", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "🙏 ช่วยด้วย\nบ้านพรุ หลังวัดบ้านพรุ\nป้า 93 ปี\n3 people\nน้ำมิดอกแล้ว\nขอนมสำหรับเด็ก\nขอน้ำดื่ม\nติดต่อ 097xxx8632", "message_type": "help_request", "flags": [], "needs": ["milk", "water"], "water_level": "chest"}
+{"text": "เพื่อนส่งข้อความมาว่า แถวKho Hong เด็ก 9 ขวบ ผู้ใหญ่ 8 คน นำ้รอบบ้านลึกระดับเอว please send a boat น้ำเปล่าหมดแล้วว ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": [], "needs": ["evacuation", "water"], "water_level": "waist"}
+{"text": "ถ.กาญจนวนิช บ้านพรุ ลูก 6 ขวบ คนแก่ 88 ปี ผู้ใหญ่ สี่ คน น้าติดเตียง นำ้ถึงหน้าอก ไม่มีอะไรจะกิน", "message_type": "help_request", "flags": ["bedridden"], "needs": ["food"], "water_level": "chest"}
+{"text": "แจ้งแทนญาติครับ คุณยายอายุ 62 บ้านชั้นเดียวจมมิดแล้ว ยาใกล้หมด ยังไม่ต้องอพยพ since yesterday ติดต่อ 091xxx3682", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "floor1"}
+{"text": "เตือนภัย, Khlong Hae soi 2, มีรถจมอยู่ใต้น้ำ เรือผ่านม่ายได้, เลี่ยงไปทางอื่น", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "แถวKho Hong, คนแก่ 77 ปี, อยู่กัน 7 คน, water waist high, อยากอพยพออก, ม่ายมีน้ำกิน, ยาหมด, โทร 089-xxx-8635", "message_type": "help_request", "flags": [], "needs": ["evacuation", "water", "medicine"], "water_level": "waist"}
+{"text": "บ้านข้างๆ ยังติดอยู่ ใกล้ตลาดน้ำ คลองแห kid 8 years old หลานอายุ หนึ่ง ขวบ รวม 3 คน น้ำรอบบ้านลึกระดับเอว น้ำดื่มหมด ติดต่อ 098xxx5167", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "waist"}
+{"text": "มีเจ็ตสกีพร้อมคนขับ ถนนครูจีน", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "help!, บ้านพรุ หลังวัดบ้านพรุ, พ่อ 90 ปี, น้ำขึ้นชั้น 2 แล้ว, ขาดมาม่า, please send a boat, since yesterday", "message_type": "help_request", "flags": [], "needs": ["food", "evacuation"], "water_level": "floor2"}
+{"text": "ขอบคุณทีมกู้ภัยมากค่ะ\nคนท้อง\nคลอดที่โรงพยาบาลแล้วว แม่ลูกปลอดภัย", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ฝากแชร์หน่อย ถนนเพชรเกษม ซ.เพชรเกษม 12 ตา 97 ปี ในบ้านมี หนึ่ง คน ป้านอนป่วยมาหลายเดือน ลุกไม่ขึ้น ลุงเพิ่งผ่าตัดหัวใจ water waist high need rescue ตั้งแต่เมื่อวาน ติดต่อ 095xxx4839", "message_type": "help_request", "flags": ["bedridden", "heart"], "needs": ["evacuation"], "water_level": "waist"}
+{"text": "แจ้งเตือน, near PSU Kho Hong, เสาไฟล้มขวางทาง, ใครลุยน้ำแถวนั้นระวังด้วย", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนมาก!! บ้านเลขที่ 170 ซ.ควนลัง 5 ควนลัง หลานอายุ สิบ ขวบ อยู่กัน สาม คน พี่สาวขาลีบ สามีตาบอดทั้งสองข้าง น้ำท่วมถึงคอ ขอยาด้วย โทร 081-xxx-5496", "message_type": "help_request", "flags": ["wheelchair", "disabled_blind"], "needs": ["medicine"], "water_level": "chest"}
+{"text": "ผู้ใหญ่ 1 คน, water chest deep, โทร 084-xxx-2921", "message_type": "help_request", "flags": [], "needs": [], "water_level": "chest"}
+{"text": "ฝากแชร์หน่อย, ตรงข้ามโรงเรียน ถนนเพชรเกษม, ลูก 2 ขวบ, ย่า 85 ปี, อยู่กัน 2 คน, พี่สาวใส่ขดลวดหัวใจ, คุณยายต้องทำ dialysis, water chest deep, ขาดนม", "message_type": "help_request", "flags": ["heart", "dialysis"], "needs": ["milk"], "water_level": "chest"}
+{"text": "ด่วนมาก!! บ้านเลขที่ 185 ใกล้ตลาดน้ำ คลองแห อยู่กัน ห้า คน ป้า is blind น้ำถึงสะโพก ไม่มีอะไรจะกิน", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["food"], "water_level": "waist"}
+{"text": "แจ้งแทนญาติคับ, ติดคลองอู่ตะเภา ทุ่งเสา, คุณยาย 84 ปี, อยู่กัน ห้า คน, น้ำถึงเอว, need medicine, น้ำขวดหมด, since yesterday, ติดต่อ 094xxx2027", "message_type": "help_request", "flags": [], "needs": ["medicine", "water"], "water_level": "waist"}
+{"text": "ใกล้ อบต.ควนลัง ควนลัง ขึ้นไปรอบนหลังคาแล้วว ขาดน้ำดื่ม ข้าวก็หมด ติดต่อ 094xxx1281", "message_type": "help_request", "flags": [], "needs": ["water", "food"], "water_level": "roof"}
+{"text": "please help หลานอายุ แปด ขวบ เด็ก 9 ขวบ ทุกคนแข็งแรงดี นำ้สูงเกือบมิดหัว โทร 086-xxx-6623", "message_type": "help_request", "flags": [], "needs": [], "water_level": "chest"}
+{"text": "please help ลูกอ่อน 3 เดือน อยู่กัน 9 คน น้ำท่วมเต็มชั้นล่าง ไม่มีอะไรจะกิน นมเด็กหมด 2 คืนแล้วว", "message_type": "help_request", "flags": [], "needs": ["food", "milk"], "water_level": "floor1"}
+{"text": "คลองแห ซ.คลองแห 2 อยู่กัน 2 คน น้ำสูงเกือบมิดหัว", "message_type": "help_request", "flags": [], "needs": [], "water_level": "chest"}
+{"text": "แจ้งเตือน\nแถวคลองแห\nน้ำวนแรงตรงคอสะพาน\nอย่าใช้ทางนี้", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "แจ้งปิดเคส พ่อแม่ ที่ถนนครูจีน ถึงโรงพยาบาลเรียบร้อยแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "อัปเดต: ผู้ป่วยติดเตียง ปลอดภัยแล้วนะคะ", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ฝากแชร์หน่อย, น้ำน้อย ซ.น้ำน้อย 1, หลานอายุ 9 ขวบ, ลูก 8 ขวบ, 4 people, ภรรยาต้องทำ dialysis, สามีเป็นโรคหัวใจ, ชั้นล่างน้ำเต็ม", "message_type": "help_request", "flags": ["dialysis", "heart"], "needs": [], "water_level": "floor1"}
+{"text": "ขอบคุณทุกคนที่แชร์ บ้านที่แจ้งไว้ ที่ถนนเพชรเกษม คลอดที่โรงพยาบาลแล้วว แม่ลูกปลอดภัย", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านข้างๆ ยังติดอยู่, Khlong Hae soi 2, รวม 4 คน, ground floor fully flooded, รอเรือมารับ, โทร 085-xxx-2603", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "floor1"}
+{"text": "ตอนนี้ เขต 8 หลังตลาดเขต 8 พ่อเจ็ดสิบสาม ชั้นล่างไม่เหลือแล้ว แบตเหลือ 5% 2 คืนแล้ว", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "floor1"}
+{"text": "ผู้ใหญ่ 4 คน\nคุณตาหัวใจเต้นผิดจังหวะ\nน้ำถึงอก\nติดต่อ 092xxx5531", "message_type": "help_request", "flags": ["heart"], "needs": [], "water_level": "chest"}
+{"text": "ญาติโทรมาบอกว่า,แถวทุ่งเสา,คนแก่82ปี,3people,ปู่ป่วยติดเตียง,groundfloorfullyflooded,needmedicine", "message_type": "help_request", "flags": ["bedridden"], "needs": ["medicine"], "water_level": "floor1"}
+{"text": "ควนลังซ.ควนลัง5แม่เจ็ดสิบเอ็ดลุงusesawheelchairน้ำถึงสะโพกขอพาวเวอร์แบงค์ติดมา1วันแล้วติดต่อ095xxx9110", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["power"], "water_level": "waist"}
+{"text": "ด่วนมาก!!\nfloodreachedsecondfloor", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor2"}
+{"text": "บ้านเลขที่ 15 ริมคลอง ร.1 คลองเตย 6 people ยายต้องมีคนพลิกตัวให้ ย่าตาบอดทั้งสองข้าง น้ำดื่มหมด", "message_type": "help_request", "flags": ["bedridden", "disabled_blind"], "needs": ["water"], "water_level": null}
+{"text": "พ่อแม่, ที่Kho Hong, อยู่ศูนย์อพยพแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ใครอยู่ใกล้ช่วยที แถวควนลัง เด็ก 6 ขวบ ลูก 1 ขวบ คุณยายอายุ หกสิบสอง 7 people หนีขึ้นชั้นบนนำ้ก็ตามมา phone battery dying ตั้งแต่เมื่อวาน ติดต่อ 092xxx2808", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "floor2"}
+{"text": "ในบ้านมี6คนน้ำดื่มหมดโทร088-xxx-3860", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": null}
+{"text": "ใครอยู่ใกล้ช่วยทีแถวควนลังในบ้านมี2คนน้ำท่วมถึงคอข้าวสารหมดแล้วติดต่อ092xxx6321", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "chest"}
+{"text": "แถวควนลัง อยู่กัน 4 คน พี่ชายตาบอดทั้งสองข้าง น้ำรอบบ้านลึกระดับเอว โทร 083-xxx-1388", "message_type": "help_request", "flags": ["disabled_blind"], "needs": [], "water_level": "waist"}
+{"text": "ขอเป็นอาสาขับเรือ\nใครขาดอะไรบอกได้", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "รับบริจาคเสื้อผ้า,ติดต่อได้ที่เพจ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ข่าวจากหน้างาน\nแถวบ้านพรุ\nตะขาบกับแมงป่องหนีนำ้ขึ้นบ้าน\nกู้ภัยกำลังเข้าไปดู", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ญาติโทรมาบอกว่า,บ้านเลขที่107ข้างโชว์รูมถนนเพชรเกษม,1people,น้ำระดับเอว,พาออกไปที่ปลอดภัยที", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "waist"}
+{"text": "ด่วนนนมาก!! แถวคลองเตย หลานอายุ 7 ขวบ ย่า 74 ปี ย่าเส้นเลือดในสมองแตก นอนติดเตียง ลุยน้ำระดับอก ไม่มีไฟชาร์จมือถือ โทร 081-xxx-5978", "message_type": "help_request", "flags": ["bedridden"], "needs": ["power"], "water_level": "chest"}
+{"text": "ฝากแชร์หน่อย แถวทุ่งเสา ในบ้านมี 4 คน นั่งอยู่บนหลังคาบ้าน แบตเหลือ 5% need medicine", "message_type": "help_request", "flags": [], "needs": ["power", "medicine"], "water_level": "roof"}
+{"text": "เพื่อนส่งข้อความมาว่า\nบ้านเลขที่ 140 หมู่ 3 น้ำน้อย น้ำน้อย\ngrandma 75 y/o\nน้ำขึ้นชั้น 2 แล้ว\nขาดนม\nยังม่ายอยากออกจากบ้าน", "message_type": "help_request", "flags": [], "needs": ["milk"], "water_level": "floor2"}
+{"text": "เพื่อนส่งข้อความมาว่า, ควนลัง ใกล้ อบต.ควนลัง, ปู่ 89 ปี, รวม 7 คน, น้ำท่วมมิดชั้น 1, ไม่มีน้ำกิน, ของกินยังเหลือเยอะ, ตั้งแต่เมื่อวาน, ติดต่อ 097xxx9342", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "floor1"}
+{"text": "ขอความช่วยเหลือด่วน แถวเขต 8 หลานอายุ 10 ขวบ kid 8 years old 10 people แม่ตาบอดทั้งสองข้าง น้ำสูงเลยเอวแล้ว ออกซิเจนใกล้หมด โทร 086-xxx-2144", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["medicine"], "water_level": "waist"}
+{"text": "ทำข้าวแกงแจก 200 ห่อ, น้ำน้อย ซ.น้ำน้อย 1, ใครขาดอะไรบอกได้", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "warning: แถวถนนเพชรเกษม สะพานไม้พังแล้ว อย่าใช้ทางนี้", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนมาก!! บ้านเลขที่ 227 soi 2 Khlong Hae เด็ก 6 ขวบ คนแก่ 90 ปี พี่สาว has heart disease น้ำท่วมชั้นล่างหมดแล้ว ยาประจำตัวหมด", "message_type": "help_request", "flags": ["heart"], "needs": ["medicine"], "water_level": "floor1"}
+{"text": "ลบโพสต์ได้แล้ว\nคนท้อง\nปลอดภัยแล้วนะคะ", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ช่วยด้วยค่ะ Kho Hong near PSU ขอยาด้วย", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": null}
+{"text": "ขอความช่วยเหลือด่วน\nบ้านเลขที่ 251 หลังวัดบ้านพรุ บ้านพรุ\nอยู่กัน 9 คน\nน้ำท่วมถึงคอ\nน้ำเปล่าหมดแล้ว\nsince yesterday\nติดต่อ 099xxx7464", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "chest"}
+{"text": "แถวน้ำน้อย ลูกสาวกำหนดคลอดสัปดาห์นี้ ยาเบาหวานหมด", "message_type": "help_request", "flags": ["pregnant"], "needs": ["medicine"], "water_level": null}
+{"text": "warning: คอหงส์ ถ.ปุณณกัณฑ์ ตะขาบกับแมงป่องหนีน้ำขึ้นบ้าน ใครลุยน้ำแถวนั้นระวังด้วย", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ตอนนี้ ควนลัง ใกล้ อบต.ควนลัง เด็ก 5 ขวบ คุณยายอายุ 83 ในบ้านมี ห้า คน phone battery dying", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": null}
+{"text": "ตอนนี้\nผู้ใหญ่ แปด คน\nไม่มีใครป่วย\nน้ำสูงเกือบมิดหัว\nติดมา สาม วันแล้ว", "message_type": "help_request", "flags": [], "needs": [], "water_level": "chest"}
+{"text": "สงสารคนแก่กับเด็กมาก", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "แจ้งแทนญาติครับบ้านเลขที่285soi2KhlongHae6peopleน้ำรอบบ้านลึกระดับเอวติดมา5วันแล้วโทร083-xxx-8750", "message_type": "help_request", "flags": [], "needs": [], "water_level": "waist"}
+{"text": "บ้านเลขที่ 183 หลังตลาดเขต 8 เขต 8 คนแก่ 75 ปี รวม 9 คน ground floor fully flooded ไม่มียาลดไข้ ยังไม่ต้องอพยพ ตั้งแต่เมื่อวาน โทร 083-xxx-7467", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "floor1"}
+{"text": "มีเจ็ตสกีพร้อมคนขับ, คลองเตย, ส่งไปที่ไหนดีครับ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ขอเป็นอาสาขับเรือ Kho Hong near PSU ใครขาดอะไรบอกได้", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ทีมกู้ภัยแจ้ง ถนนเพชรเกษม น้ำลึกเกินเมตร รถเล็กอย่าเข้า", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "kid 10 years old, แม่ 74 ปี, น้ำเข้าห้องนอนชั้น 2, รอเรือมารับ", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "floor2"}
+{"text": "มีชุดชูชีพ 50 ตัวให้ยืม, ทุ่งเสา ติดคลองอู่ตะเภา, ต้องติดต่อใคร", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "เพื่อนส่งข้อความมาว่า, ถนนเพชรเกษม ข้างโชว์รูม, ลุงหกสิบสี่, ในบ้านมี 1 คน, ภรรยาต้องมีคนพลิกตัวให้, พี่ชายตาบอด, น้ำสูงเกือบมิดหัว, อาหารหมด, need rescue, ติดต่อ 091xxx6338", "message_type": "help_request", "flags": ["bedridden", "disabled_blind"], "needs": ["food", "evacuation"], "water_level": "chest"}
+{"text": "ขอเป็นอาสาขับเรือ\nตรงข้ามโรงเรียน ถนนเพชรเกษม\nใครอยากชาร์จแบตมาได้", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "🙏 ช่วยด้วย หลานอายุ 4 ขวบ ตาเก้าสิบ รวม 6 คน น้ำถึงเอว ไม่มีอะไรจะกิน ไม่มีไฟชาร์จมือถือ", "message_type": "help_request", "flags": [], "needs": ["food", "power"], "water_level": "waist"}
+{"text": "ซ.ทุ่งเสา4ทุ่งเสารวม6คนคุณยายisinjured,bleedingน้ำมิดหน้าต่างชั้นล่างช่วยมารับออกไปที2คืนแล้ว", "message_type": "help_request", "flags": ["injured"], "needs": ["evacuation"], "water_level": "floor1"}
+{"text": "บ้านเลขที่ 162 soi 2 Khlong Hae ในบ้านมี หนึ่ง คน ชั้นล่างไม่เหลือแล้ว ยาเหลือ 2 วัน ช่วยไปรับที โทร 083-xxx-1669", "message_type": "help_request", "flags": [], "needs": ["medicine", "evacuation"], "water_level": "floor1"}
+{"text": "help!\nซ.ทุ่งเสา 4 ทุ่งเสา\ngrandma 79 y/o\nรวม 2 คน\nพ่อไตไม่ทำงาน ตัวเริ่มบวมน้ำ\nน้ำมิดหน้าต่างชั้นล่าง\nsince yesterday", "message_type": "help_request", "flags": ["dialysis"], "needs": [], "water_level": "floor1"}
+{"text": "บ้านพรุ ถ.กาญจนวนิช ลูก 6 ขวบ ผู้ใหญ่ ห้า คน ยายลื่นล้ม ขาหัก ground floor fully flooded อาหารหมด since yesterday ติดต่อ 092xxx6198", "message_type": "help_request", "flags": ["injured"], "needs": ["food"], "water_level": "floor1"}
+{"text": "kid 1 years old หลานอายุ 1 ขวบ ผู้ใหญ่ 9 คน พี่ชายถูกไฟดูด น้ำมิดหน้าต่างชั้นล่าง อยากอพยพออก ไฟดับ โทรศัพท์ใกล้ดับ ยาความดันหมด", "message_type": "help_request", "flags": ["injured"], "needs": ["evacuation", "power", "medicine"], "water_level": "floor1"}
+{"text": "แชร์ไปแล้วนะ, ขอให้นำ้ลดไวๆ", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "pleasehelpแถวคอหงส์grandma92y/oอยู่กันห้าคนwaterwaisthighไม่มีน้ำกินติดมา3วันแล้วติดต่อ092xxx9014", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "waist"}
+{"text": "ฝากแชร์หน่อย ถ.กาญจนวนิช บ้านพรุ ป้าอายุ 92 อยู่กัน เก้า คน เมียน้ำคร่ำเดิน น้ำถึงตาตุ่ม ขาดมาม่า ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": ["pregnant"], "needs": ["food"], "water_level": "knee"}
+{"text": "แถวคลองแห grandma 68 y/o อยู่กัน 6 คน ทุกคนโอเค water knee deep ยาประจำตัวหมด 4 คืนแล้ว ติดต่อ 095xxx1176", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "knee"}
+{"text": "มีเจ็ตสกีพร้อมคนขับ\nแถวถนนเพชรเกษม\nติดต่อได้ที่เพจ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนมาก!!, เขต 8 หลังตลาดเขต 8, ลูกเพิ่งเกิดได้ 17 วัน, อยู่กัน หก คน, ม่ายมีผู้ป่วยนะ, น้ำมิดหน้าต่างชั้นล่าง, ยาเบาหวานหมด, ไฟดับ โทรศัพท์ใกล้ดับ, ขอน้ำดื่ม, ติดต่อ 099xxx9491", "message_type": "help_request", "flags": [], "needs": ["medicine", "power", "water"], "water_level": "floor1"}
+{"text": "หลัง ม.อ. คอหงส์ ลูก 6 ขวบ รวม 7 คน พ่อหลังผ่าตัดสมอง นอนอย่างเดียว อยู่ตึกแถวชั้น 3 ของกินหมดเกลี้ยง อยากอพยพออก", "message_type": "help_request", "flags": ["bedridden"], "needs": ["food", "evacuation"], "water_level": null}
+{"text": "แจ้งแทนญาติครับ Khlong Hae soi 2 อยู่กัน 9 คน มีผู้ป่วยติดเตียง ไฟดับ มือถือจะดับ 4 คืนแล้วว โทร 086-xxx-5598", "message_type": "help_request", "flags": ["bedridden"], "needs": ["power"], "water_level": null}
+{"text": "ขอให้ทุกคนปลอดภัย 🙏\nเมื่อไหร่ฝนจะหยุด", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "🙏 ช่วยด้วย\nบ้านเลขที่ 67 ซ.ควนลัง 5 ควนลัง\nย่าหกสิบสี่\nน้ำท่วมเต็มชั้นล่าง\nขอเรือมารับ\nขาดมาม่า", "message_type": "help_request", "flags": [], "needs": ["evacuation", "food"], "water_level": "floor1"}
+{"text": "ด่วนมาก!!\nซ.เพชรเกษม 12 ถนนเพชรเกษม\nพ่อหกสิบสาม\n3 people\nน้ำรอบบ้านลึกระดับเอว\nน้ำดื่มหมด\nโทร 084-xxx-9830", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "waist"}
+{"text": "ด่วนมาก!! ซ.ควนลัง 5 ควนลัง ปู่ 93 ปี รวม 4 คน ชั้นล่างจมทั้งหมด ไฟดับ โทรศัพท์ใกล้ดับ 4 คืนแล้ว ติดต่อ 097xxx2190", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "floor1"}
+{"text": "ญาติโทรมาบอกว่า เขต 8 หลังตลาดเขต 8 หลานอายุ 7 ขวบ grandma 64 y/o คุณยายใส่ขดลวดหัวใจ ภรรยาขาลีบ บ้านชั้นเดียวจมมิดแล้ว ไม่ได้กินข้าวมาทั้งวัน ยาใกล้หมด ยังไม่อยากออกจากบ้าน", "message_type": "help_request", "flags": ["heart", "wheelchair"], "needs": ["food", "medicine"], "water_level": "floor1"}
+{"text": "หมู่ 3 น้ำน้อย น้ำน้อย\nหลานอายุ 11 ขวบ\n4 people\nหนีขึ้นดาดฟ้า\nแบตเหลือ 5%\nติดต่อ 095xxx7746", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "roof"}
+{"text": "แถวเขต 8, ไฟรั่วลงน้ำ, avoid this route", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ขอบคุณทุกคนที่แชร์ family ที่คลองแห ญาติมารับไปอยู่ด้วยแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ถ.กาญจนวนิช บ้านพรุ, คุณตาเก้าสิบ, เมียท้องแก่จะคลอดแล้ว, น้ำเข้าชั้นสองแล้ว, since yesterday, โทร 089-xxx-7117", "message_type": "help_request", "flags": ["pregnant"], "needs": [], "water_level": "floor2"}
+{"text": "อัพเดตเคส คนท้อง ที่น้ำน้อย ได้รับความช่วยเหลือแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "🙏 ชวยด้วย, บ้านเลขที่ 245 ซ.เพชรเกษม 12 ถนนเพชรเกษม, น้ำเข้าชั้นสองแล้วว, 3 คืนแล้ว, โทร 083-xxx-7615", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor2"}
+{"text": "บ้านเลขที่ 42 ซ.คลองแห 2 คลองแห อยู่กัน 1 คน นำ้ท่วมระดับเข่า ขอเรือมารับ ติดมา 2 วันแล้ว ติดต่อ 093xxx5577", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "knee"}
+{"text": "แถวถนนครูจีน เมียท้องแก่จะคลอดแล้ว ย่า needs dialysis น้ำขึ้นถึงพื้นชั้นสอง โทร 084-xxx-4609", "message_type": "help_request", "flags": ["pregnant", "dialysis"], "needs": [], "water_level": "floor2"}
+{"text": "ฝากแชร์หน่อย\nถ.กาญจนวนิช บ้านพรุ\nในบ้านมี 3 คน\nนำ้ถึงอก\nออกซิเจนใกล้หมด\nno food\nน้ำขวดหมด\nติดต่อ 096xxx5866", "message_type": "help_request", "flags": [], "needs": ["medicine", "food", "water"], "water_level": "chest"}
+{"text": "บ้านข้างๆ ยังติดอยู่ โทร 082-xxx-2668", "message_type": "help_request", "flags": [], "needs": [], "water_level": null}
+{"text": "help! near PSU Kho Hong คนแก่ 72 ปี รวม 2 คน ลุงหัวแตก พ่อพิการแขนขา น้ำสูงประมาณหัวเข่า พาออกไปที่ปลอดภัยที ไม่มีไฟชาร์จมือถือ", "message_type": "help_request", "flags": ["injured", "wheelchair"], "needs": ["evacuation", "power"], "water_level": "knee"}
+{"text": "ตอนนี้\nแถวทุ่งเสา\ngrandma 80 y/o\nสามีป่วยไตวายต้องฟอกเลือด\nน้ำสูงเกือบมิดหัว\nม่ายมีอะไรจะกิน\nติดมา 1 วันแล้ว", "message_type": "help_request", "flags": ["dialysis"], "needs": ["food"], "water_level": "chest"}
+{"text": "ซ.น้ำน้อย 1 น้ำน้อย กระแสน้ำแรงมาก เรือเล็กพลิกไปแล้ว avoid this route", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านเลขที่ 288 หลังตลาดเขต 8 เขต 8\nหลานอายุ 3 ขวบ\nหนีขึ้นชั้นบนน้ำก็ตามมา\nไม่ได้กินข้าวมาทั้งวัน\nโทร 085-xxx-4781", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "floor2"}
+{"text": "⚠️ แถวคลองแห มีงูเยอะ ใครลุยนำ้แถวนั้นระวังด้วย", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ช่วยด้วยค่ะ, บ้านเลขที่ 155 ซ.ศรีภูวนารถ 2 เขต 8, รวม 7 คน, ลุยนำ้ระดับอก, no drinking water", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "chest"}
+{"text": "SOSgrandma93y/oในบ้านมี3คนพี่ชายต้องฟอกไตยายพิการทางสายตาชั้นล่างนำ้เต็มขอน้ำดื่ม", "message_type": "help_request", "flags": ["dialysis", "disabled_blind"], "needs": ["water"], "water_level": "floor1"}
+{"text": "ระวัง!\nหลังวัดบ้านพรุ บ้านพรุ\nเสาไฟล้มขวางทาง", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ทีมกู้ภัยแจ้ง\nซ.คลองแห 2 คลองแห\nคันกั้นนำ้เริ่มรั่ว\nชาวบ้านแถวนั้นเตรียมย้ายของขึ้นที่สูง", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "แจ้งแทนญาติครับ ซ.คลองแห 2 คลองแห ลูก 1 ขวบ ลูก 2 ขวบ ภรรยาเป็นโรคหัวใจ we are on the roof อยากอพยพออก แบตจะหมด ออกซิเจนใกล้หมด ติดมา 3 วันแล้ว โทร 087-xxx-7880", "message_type": "help_request", "flags": ["heart"], "needs": ["evacuation", "power", "medicine"], "water_level": "roof"}
+{"text": "help!, ติดคลองอู่ตะเภา ทุ่งเสา, อยู่กัน 3 คน, ลุงนอนป่วยมาหลายเดือน ลุกไม่ขึ้น, น้ำถึงอก, ของกินยังเหลือเยอะ, ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": ["bedridden"], "needs": [], "water_level": "chest"}
+{"text": "ริมคลอง ร.1 คลองเตย ยายอายุ 85 อยู่กัน 4 คน พี่สาวเริ่มมีอาการจะคลอด น้ำท่วมชั้นล่างหมดแล้ว ยาใกล้หมด ติดมา 4 วันแล้ว โทร 088-xxx-9597", "message_type": "help_request", "flags": ["pregnant"], "needs": ["medicine"], "water_level": "floor1"}
+{"text": "น้ำน้อย หมู่ 3 น้ำน้อย\nลูก 12 ขวบ\nในบ้านมี 10 คน\nน้ำขึ้นชั้น 2 แล้ว\nหิวมาก\nน้ำกินยังพอ", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "floor2"}
+{"text": "ระวัง! แถวKho Hong มีจระเข้หลุดออกมา", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "แจ้งเตือน ถนนครูจีน ซ.ครูจีน 1 สะพานไม้พังแล้ว ชาวบ้านแถวนั้นเตรียมย้ายของขึ้นที่สูง", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านเลขที่ 182 ริมคลอง ร.1 คลองเตย อยู่กัน สอง คน flood reached second floor ขอนมสำหรับเด็ก ยาเบาหวานหมด ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": [], "needs": ["milk", "medicine"], "water_level": "floor2"}
+{"text": "ลุงเจ็ดสิบสาม น้ำระดับเอว phone battery dying โทร 081-xxx-1865", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "waist"}
+{"text": "แถวคลองแห, เด็ก เก้า ขวบ, ลูก 11 ขวบ, 10 people, คุณยายพิการทางสายตา, น้ำมิดหน้าต่างชั้นล่าง, อยากออกจากบ้าน, ติดต่อ 091xxx3407", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["evacuation"], "water_level": "floor1"}
+{"text": "baby 9 months, ลูก 8 ขวบ, อยู่กัน 4 คน, ไม่มีอะไรจะกิน, ขอเรือมารับ, ติดมา 3 วันแล้ว", "message_type": "help_request", "flags": [], "needs": ["food", "evacuation"], "water_level": null}
+{"text": "แจ้งแทนญาติครับ\nบ้านเลขที่ 224 soi 2 Khlong Hae\nในบ้านมี หก คน\nพี่สาวหัวใจไม่ดี เจ็บหน้าอก\nน้ำปริ่มหลังคา\nยาใกล้หมด\nขาดมาม่า\n4 คืนแล้ว", "message_type": "help_request", "flags": ["heart"], "needs": ["medicine", "food"], "water_level": "roof"}
+{"text": "ดูไลฟ์อยู่", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ชวยด้วยค่ะ แถวคลองแห แม่อายุ 71 ย่ามีโรคหัวใจประจำตัว ลุยน้ำระดับอก ขาดน้ำดื่ม ขอเรือมารับ ขอพาวเวอร์แบงค์ 3 คืนแล้วว ติดต่อ 093xxx6456", "message_type": "help_request", "flags": ["heart"], "needs": ["water", "evacuation", "power"], "water_level": "chest"}
+{"text": "🙏 ช่วยด้วย คลองแห ใกล้ตลาดนำ้ หลานอายุ แปด ขวบ ลูก 6 ขวบ อยู่กัน หก คน ยายเป็นคนไข้ไต นัดฟอกเลือดเมื่อวานแต่ไปม่ายได้ น้ำถึงสะโพก หิวมาก ไฟดับ มือถือจะดับ โทร 088-xxx-9649", "message_type": "help_request", "flags": ["dialysis"], "needs": ["food", "power"], "water_level": "waist"}
+{"text": "บ้านเลขที่ 41 หลังวัดบ้านพรุ บ้านพรุ\nอยู่กัน เจ็ด คน\nสามีป่วยติดเตียง\nน้ำท่วมชั้นล่างหมดแล้วว\nขาดน้ำดื่ม\nยังไม่ต้องอพยพ\nติดต่อ 090xxx9541", "message_type": "help_request", "flags": ["bedridden"], "needs": ["water"], "water_level": "floor1"}
+{"text": "เป็นกำลังใจให้ทุกคนช่วยกันแชร์เยอะๆ", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ฝากแชร์หน่อย แถวบ้านพรุ อยู่กัน หนึ่ง คน ลุง has heart disease น้ำถึงเอว ยาหมด ติดต่อ 098xxx9957", "message_type": "help_request", "flags": ["heart"], "needs": ["medicine"], "water_level": "waist"}
+{"text": "แจ้งแทนญาติครับ, น้ำน้อย หมู่ 3 น้ำน้อย, อยู่กัน 8 คน, พี่ชาย uses a wheelchair, we are on the roof, ติดมา สาม วันแล้วว", "message_type": "help_request", "flags": ["wheelchair"], "needs": [], "water_level": "roof"}
+{"text": "ถนนครูจีน ใกล้วัดครูจีน, สะพานไม้พังแล้ว", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ช่วยกันแชร์เยอะๆ\nเป็นกำลังใจให้ทุกคน", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ลบโพสต์ได้แล้วบ้านที่แจ้งไว้hasbeenrescued", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ฝากแชร์หน่อย แถวKhlong Hae kid 10 years old ผู้ใหญ่ หก คน พ่อ had a stroke, can't get up น้ำถึงตาตุ่ม ยาเบาหวานหมด ขอข้าวกล่อง ติดต่อ 094xxx4939", "message_type": "help_request", "flags": ["bedridden"], "needs": ["medicine", "food"], "water_level": "knee"}
+{"text": "บ้านข้างๆ ยังติดอยู่ ซ.เพชรเกษม 12 ถนนเพชรเกษม พ่อหกสิบเก้า 9 people คุณยาย is blind บ้านชั้นเดียวจมมิดแล้ว น้ำเปล่าหมดแล้ว", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["water"], "water_level": "floor1"}
+{"text": "help! ไม่มีผู้ป่วยนะ นำ้สูงเกือบมิดหัว phone battery dying ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "chest"}
+{"text": "บ้านข้างๆ ยังติดอยู่ บ้านเลขที่ 34 ใกล้ อบต.ควนลัง ควนลัง พ่ออายุ 64 ผู้ใหญ่ 3 คน water chest deep โทร 089-xxx-4959", "message_type": "help_request", "flags": [], "needs": [], "water_level": "chest"}
+{"text": "please help, ใกล้วัดครูจีน ถนนครูจีน, ผู้ใหญ่ 3 คน, แม่เส้นเลือดในสมองแตก นอนติดเตียง, หนีขึ้นดาดฟ้า, ขอเรือมารับ, โทร 083-xxx-8887", "message_type": "help_request", "flags": ["bedridden"], "needs": ["evacuation"], "water_level": "roof"}
+{"text": "ฝากแชร์หน่อย, คลองเตย ซ.คลองเตย 3, ปู่เก้าสิบสี่, อยู่กัน 2 คน, น้ำระดับเอว, since yesterday, ติดต่อ 092xxx4688", "message_type": "help_request", "flags": [], "needs": [], "water_level": "waist"}
+{"text": "update: family ถึงโรงพยาบาลเรียบร้อยแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "แถวบ้านพรุ\nท่อนไม้ลอยเต็มทาง\nอย่าใช้ทางนี้", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านข้างๆ ยังติดอยู่ บ้านเลขที่ 215 ใกล้ตลาดน้ำ คลองแห หลานอายุ 7 ขวบ 5 people สามีสายตาพิการ ชั้นล่างม่ายเหลือแล้ว phone battery dying นมสูตรหมด อินซูลินหมด น้ำกินยังพอ", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["power", "milk", "medicine"], "water_level": "floor1"}
+{"text": "เป็นกำลังใจให้ทุกคน", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนมาก!!\nบ้านเลขที่ 132 near PSU Kho Hong\nพ่อเก้าสิบหก\nอยู่กัน 7 คน\nป้าตาบอด\nน้ำท่วมถึงชั้นบนแล้ว\nตั้งแต่เมื่อวาน\nโทร 086-xxx-5691", "message_type": "help_request", "flags": ["disabled_blind"], "needs": [], "water_level": "floor2"}
+{"text": "ใครอยู่ใกล้ช่วยที,แถวน้ำน้อย,ผู้ใหญ่7คน,พี่สาวน้ำคร่ำเดิน,น้ำถึงสะโพก,ไม่มีไฟชาร์จมือถือ,ขาดมาม่า,needbabymilk,ติดมาหนึ่งวันแล้ว", "message_type": "help_request", "flags": ["pregnant"], "needs": ["power", "food", "milk"], "water_level": "waist"}
+{"text": "ญาติโทรมาบอกว่า grandma 70 y/o ทุกคนโอเค น้ำเข้าชั้นสองแล้วว ช่วยไปรับที หิวมาก ติดต่อ 093xxx1700", "message_type": "help_request", "flags": [], "needs": ["evacuation", "food"], "water_level": "floor2"}
+{"text": "🙏 ช่วยด้วย ใกล้ตลาดน้ำ คลองแห คุณยายอายุ แปดสิบ ผู้ใหญ่ ห้า คน พี่ชาย had a stroke, can't get up น้ำระดับเอว phone battery dying ติดต่อ 098xxx5746", "message_type": "help_request", "flags": ["bedridden"], "needs": ["power"], "water_level": "waist"}
+{"text": "มีรถกระบะยกสูงว่าง\nใครขาดอะไรบอกได้", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ฝากแชร์หน่อย, ซ.คลองแห 2 คลองแห, ลูกอ่อน 1 เดือน, 2 people, water chest deep, need rescue, เหลือมาม่าห่อเดียว, แบตจะหมด", "message_type": "help_request", "flags": [], "needs": ["evacuation", "food", "power"], "water_level": "chest"}
+{"text": "update: พ่อแม่ ที่คอหงส์ ปลอดภัยแล้วนะคะ", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ทำข้าวกล่องแจกได้ 300 กล่อง, ซ.ครูจีน 1 ถนนครูจีน, ต้องติดต่อใคร", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ตอนนี้\nแถวควนลัง\n1 people\nทุกคนแข็งแรงดี\nground floor fully flooded\nขาดมาม่า\nขอพาวเวอร์แบงค์\nไม่มียาลดไข้\nนำ้ดื่มยังมีพอ", "message_type": "help_request", "flags": [], "needs": ["food", "power", "medicine"], "water_level": "floor1"}
+{"text": "มีรถกระบะยกสูงว่าง, ถนนครูจีน, ต้องติดต่อใคร", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "มีเครื่องปั่นไฟให้ยืม 5 เครื่อง แถวทุ่งเสา ติดต่อได้ที่เพจ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "เขต8ซ.ศรีภูวนารถ2ในบ้านมี9คนชั้นล่างนำ้เต็มตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor1"}
+{"text": "ตอนนี้\nซ.คลองเตย 3 คลองเตย\nชั้นล่างนำ้เต็ม\nม่ายมีน้ำกิน\nโทร 082-xxx-3790", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "floor1"}
+{"text": "หลานอายุ 3 ขวบ\nหลานอายุ 9 ขวบ\ngrandma 71 y/o\nรวม 7 คน\nน้ำท่วมชั้นล่างหมดแล้ว\nplease send a boat", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "floor1"}
+{"text": "บ้านข้างๆ ยังติดอยู่, บ้านเลขที่ 252 ข้างโชว์รูม ถนนเพชรเกษม, 6 people, มีหญิงตั้งครรภ์อยู่ด้วย, นั่งอยู่บนหลังคาบ้าน, ข้าวสารหมดแล้ว, รอเรือมารับ, ติดต่อ 094xxx6910", "message_type": "help_request", "flags": ["pregnant"], "needs": ["food", "evacuation"], "water_level": "roof"}
+{"text": "ช่วยด้วยค่ะ, near PSU Kho Hong, 4 people, ลูกสาวกำหนดคลอดสัปดาห์นี้, ชั้นล่างไม่เหลือแล้ว, no drinking water, ไฟดับ โทรศัพท์ใกล้ดับ, ติดต่อ 099xxx8694", "message_type": "help_request", "flags": ["pregnant"], "needs": ["water", "power"], "water_level": "floor1"}
+{"text": "help!, ซ.นำ้น้อย 1 น้ำน้อย, คุณตาแปดสิบสาม, ในบ้านมี สี่ คน, พี่ชายติดเตียง, water chest deep, ติดมา 2 วันแล้ว, โทร 081-xxx-7224", "message_type": "help_request", "flags": ["bedridden"], "needs": [], "water_level": "chest"}
+{"text": "🙏 ชวยด้วย แถวควนลัง น้ำเข้าห้องนอนชั้น 2 ขอข้าวกล่อง แบตเหลือ 5% 3 คืนแล้ว โทร 086-xxx-8371", "message_type": "help_request", "flags": [], "needs": ["food", "power"], "water_level": "floor2"}
+{"text": "ด่วนมาก!!, ลูก 5 ขวบ, grandma 62 y/o, อยู่กัน เก้า คน, ยาประจำตัวหมด, since yesterday", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": null}
+{"text": "🙏 ช่วยด้วย แถวถนนเพชรเกษม ในบ้านมี 3 คน water chest deep ไม่มีอาหาร", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "chest"}
+{"text": "อาสาเรือฝากบอก\nแถวคลองเตย\nน้ำวนแรงตรงคอสะพาน\navoid this route", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "please help, บ้านเลขที่ 25 หมู่ 3 นำ้น้อย น้ำน้อย, พ่อ 78 ปี, รวม 2 คน, ทุกคนแข็งแรงดี, นมสูตรหมด, น้ำขวดหมด, ยังไม่ต้องอพยพ", "message_type": "help_request", "flags": [], "needs": ["milk", "water"], "water_level": null}
+{"text": "ซ.เพชรเกษม12ถนนเพชรเกษม\nในบ้านมี5คน\nนำ้มิดอกแล้ว\n3คืนแล้ว\nติดต่อ090xxx5832", "message_type": "help_request", "flags": [], "needs": [], "water_level": "chest"}
+{"text": "ญาติโทรมาบอกว่า บ้านเลขที่ 300 หลัง ม.อ. คอหงส์ อยู่กัน 6 คน น้ำขึ้นชั้น 2 แล้ว ยังม่ายอยากออกจากบ้าน ติดต่อ 094xxx8591", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor2"}
+{"text": "help! คอหงส์ ถ.ปุณณกัณฑ์ ป้าเก้าสิบเอ็ด 1 people มีคนท้อง 6 เดือน water chest deep ติดมา 1 วันแล้ว", "message_type": "help_request", "flags": ["pregnant"], "needs": [], "water_level": "chest"}
+{"text": "ด่วนนนมาก!! ถนนเพชรเกษม ซ.เพชรเกษม 12 ตาเพิ่งผ่าตัดหัวใจ น้ำเข้าชั้นสองแล้ว ไม่มีไฟชาร์จมือถือ ยาเบาหวานหมด 3 คืนแล้ว ติดต่อ 096xxx2889", "message_type": "help_request", "flags": ["heart"], "needs": ["power", "medicine"], "water_level": "floor2"}
+{"text": "แจ้งแทนญาติครับ, หมู่ 3 น้ำน้อย น้ำน้อย, แม่อายุ 75, ในบ้านมี 4 คน, หนีขึ้นชั้นบนน้ำก็ตามมา, ไฟดับ มือถือจะดับ, ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "floor2"}
+{"text": "นำ้น้อย ซ.น้ำน้อย 1, หลานอายุ สิบสอง ขวบ, หลานอายุ 9 ขวบ, รวม 7 คน, หนีขึ้นชั้นบนน้ำก็ตามมา, phone battery dying, ออกซิเจนใกล้หมด, อาหารมีพอ, ตั้งแต่เมื่อวาน, โทร 089-xxx-3760", "message_type": "help_request", "flags": [], "needs": ["power", "medicine"], "water_level": "floor2"}
+{"text": "ทุ่งเสา ซ.ทุ่งเสา 4, คุณตาเก้าสิบหก, รวม 6 คน, น้ำรอบบ้านลึกระดับเอว, น้ำเปล่าหมดแล้วว, โทร 089-xxx-3024", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "waist"}
+{"text": "เพื่อนส่งข้อความมาว่า\nคลองเตย ริมคลอง ร.1\nอยู่กัน 8 คน\nพี่สาวครรภ์ 8 เดือน\nขาดอาหาร\nยาหมด\nติดต่อ 094xxx4847", "message_type": "help_request", "flags": ["pregnant"], "needs": ["food", "medicine"], "water_level": null}
+{"text": "kid 7 years old, หลานอายุ 11 ขวบ, อยู่กัน หก คน, หนีขึ้นดาดฟ้า", "message_type": "help_request", "flags": [], "needs": [], "water_level": "roof"}
+{"text": "ญาติโทรมาบอกว่า,ซ.น้ำน้อย1น้ำน้อย,ทารก8เดือน,ตา61ปี,ในบ้านมี7คน,น้ำถึงเอว,ยาความดันหมด,โทร085-xxx-1390", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "waist"}
+{"text": "ทีมกู้ภัยแจ้ง, แถวถนนเพชรเกษม, ถนนทรุด, ใครลุยน้ำแถวนั้นระวังด้วย", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "เด็ก 10 ขวบ เด็ก 6 ขวบ ผู้ใหญ่ เก้า คน สามีตาบอด ยาเหลือ 2 วัน ขอน้ำดื่ม โทร 088-xxx-6698", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["medicine", "water"], "water_level": null}
+{"text": "ถ.ปุณณกัณฑ์ คอหงส์\nอยู่กัน 7 คน\nพี่สาว is blind\nน้ำท่วมชั้นล่างหมดแล้วว\nแบตเหลือ 5%\nneed rescue\nขอข้าวกล่อง\nน้ำกินยังพอ\nติดมา สี่ วันแล้ว", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["power", "evacuation", "food"], "water_level": "floor1"}
+{"text": "ญาติโทรมาบอกว่า บ้านเลขที่ 268 soi 2 Khlong Hae ผู้ใหญ่ 6 คน น้ำถึงตาตุ่ม แบตจะหมด ขอเรือมารับ โทร 087-xxx-1400", "message_type": "help_request", "flags": [], "needs": ["power", "evacuation"], "water_level": "knee"}
+{"text": "แจ้งแทนญาติครับ แถวคลองเตย คนแก่ 87 ปี ผู้ใหญ่ ห้า คน เมียเริ่มมีอาการจะคลอด ยาเบาหวานหมด โทร 081-xxx-1797", "message_type": "help_request", "flags": ["pregnant"], "needs": ["medicine"], "water_level": null}
+{"text": "ขอบคุณทีมกู้ภัยมากค่ะ คนท้อง ญาติมารับไปอยู่ด้วยแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "รบกวนประสานกู้ภัย บ้านเลขที่ 170 ซ.ศรีภูวนารถ 2 เขต 8 รวม 5 คน since yesterday โทร 085-xxx-7732", "message_type": "help_request", "flags": [], "needs": [], "water_level": null}
+{"text": "ตอนนี้ บ้านเลขที่ 215 near PSU Kho Hong เด็ก 6 ขวบ หลานอายุ 9 ขวบ ตาอายุ เจ็ดสิบสี่ 8 people บ้านชั้นเดียวจมมิดแล้ว โทร 089-xxx-6394", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor1"}
+{"text": "🙏ช่วยด้วยซ.คลองแห2คลองแหปู่88ปีนำ้สูงเกือบมิดหัวขาดมาม่าน้ำดื่มยังมีพอยังม่ายต้องอพยพโทร087-xxx-6191", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "chest"}
+{"text": "🙏 ช่วยด้วย บ้านพรุ ถ.กาญจนวนิช ผู้ใหญ่ 2 คน แม่พิการทางสายตา ลูกสาวท้องได้ 7 เดือนแล้ว since yesterday", "message_type": "help_request", "flags": ["disabled_blind", "pregnant"], "needs": [], "water_level": null}
+{"text": "ขอความชวยเหลือด่วน ถนนครูจีน ใกล้วัดครูจีน รวม 6 คน ย่าพิการแขนขา นำ้มิดหน้าต่างชั้นล่าง ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": ["wheelchair"], "needs": [], "water_level": "floor1"}
+{"text": "ช่วยด้วยค่ะ แถวบ้านพรุ หลานอายุ 11 ขวบ baby 2 months รวม 5 คน ยาใกล้หมด ขาดนม ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": [], "needs": ["medicine", "milk"], "water_level": null}
+{"text": "น้ำน้อย ซ.น้ำน้อย 1 ป้าอายุ แปดสิบสี่ มีคนท้อง 9 เดือน ปู่หัวใจเต้นผิดจังหวะ อยู่บนหลังคา ช่วยไปรับที phone battery dying น้ำดื่มยังมีพอ", "message_type": "help_request", "flags": ["pregnant", "heart"], "needs": ["evacuation", "power"], "water_level": "roof"}
+{"text": "ทีมกู้ภัยแจ้ง\nถ.กาญจนวนิช บ้านพรุ\nท่อนไม้ลอยเต็มทาง\nกู้ภัยกำลังเข้าไปดู", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ญาติโทรมาบอกว่า\nควนลัง ซ.ควนลัง 5\nปู่ is injured, bleeding\nยาใกล้หมด\nขาดนำ้ดื่ม\nติดมา ห้า วันแล้ว", "message_type": "help_request", "flags": ["injured"], "needs": ["medicine", "water"], "water_level": null}
+{"text": "ขอบคุณทุกคนที่แชร์ ครอบครัวเรา ที่คลองเตย has been rescued", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ฝากแชร์หน่อย\nบ้านเลขที่ 195 ใกล้ตลาดน้ำ คลองแห\ngrandma 78 y/o\nรวม 9 คน\nตาขาลีบ", "message_type": "help_request", "flags": ["wheelchair"], "needs": [], "water_level": null}
+{"text": "บ้านเลขที่284ติดคลองอู่ตะเภาทุ่งเสาตา64ปีอยู่กัน7คนนำ้ระดับเอวอาหารหมดรอเรือมารับตั้งแต่เมื่อวานติดต่อ099xxx5687", "message_type": "help_request", "flags": [], "needs": ["food", "evacuation"], "water_level": "waist"}
+{"text": "ระวัง! ทุ่งเสา ซ.ทุ่งเสา 4 มีรถจมอยู่ใต้น้ำ เรือผ่านม่ายได้", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ขอบคุณทุกคนที่แชร์ คนท้อง ที่คลองแห has been rescued", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านเลขที่ 125 soi 2 Khlong Hae\nในบ้านมี เจ็ด คน\nพี่สาวตาบอดทั้งสองข้าง\nติดมา 5 วันแล้ว", "message_type": "help_request", "flags": ["disabled_blind"], "needs": [], "water_level": null}
+{"text": "ด่วนมาก!!\nซ.สังทิศ 1 คอหงส์\nพ่อ 92 ปี\n7 people\nนำ้ถึงเอว\nของกินหมดเกลี้ยง\nno drinking water\nไม่มีไฟชาร์จมือถือ\nติดต่อ 092xxx8630", "message_type": "help_request", "flags": [], "needs": ["food", "water", "power"], "water_level": "waist"}
+{"text": "แจ้งเตือน\nควนลัง\nท่อนไม้ลอยเต็มทาง\nกู้ภัยกำลังเข้าไปดู", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "เพื่อนส่งข้อความมาว่า ถนนเพชรเกษม ข้างโชว์รูม ผู้ใหญ่ 7 คน we are on the roof โทร 089-xxx-7546", "message_type": "help_request", "flags": [], "needs": [], "water_level": "roof"}
+{"text": "บ้านข้างๆ ยังติดอยู่, เขต 8 ซ.ศรีภูวนารถ 2, ลูก 3 ขวบ, ปู่แปดสิบสี่, ผู้ใหญ่ เจ็ด คน, ลุงป่วยติดเตียง, ลุงแผลติดเชื้อ บวมแดง, น้ำถึงอก, 1 คืนแล้ว, โทร 086-xxx-6748", "message_type": "help_request", "flags": ["bedridden", "injured"], "needs": [], "water_level": "chest"}
+{"text": "มีเจ็ตสกีพร้อมคนขับ\nแถวบ้านพรุ\nส่งไปที่ไหนดีครับ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "แจ้งเตือน, แถวคลองเตย, น้ำวนแรงตรงคอสะพาน, เลี่ยงไปทางอื่น", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "please help\nKhlong Hae soi 2\nน้ำท่วมระดับเข่า\nขาดน้ำดื่ม\nข้าวสารหมดแล้ว\nโทร 087-xxx-7771", "message_type": "help_request", "flags": [], "needs": ["water", "food"], "water_level": "knee"}
+{"text": "ระวัง! คอหงส์ หลัง ม.อ. ถนนทรุด ใครลุยน้ำแถวนั้นระวังด้วย", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "help!, หมู่ 3 น้ำน้อย น้ำน้อย, 9 people, ภรรยาต้องให้อาหารทางสายยาง, ออกจากหมู่บ้านไม่ได้", "message_type": "help_request", "flags": ["bedridden"], "needs": [], "water_level": null}
+{"text": "ใครอยู่ใกล้ชวยที\nอยู่กัน 4 คน\nน้ำท่วมเต็มชั้นล่าง\nขาดน้ำดื่ม\n3 คืนแล้ว\nติดต่อ 095xxx4877", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "floor1"}
+{"text": "บ้านเลขที่ 90 soi 2 Khlong Hae คนแก่ 94 ปี อยู่บนหลังคา ขาดอาหาร 1 คืนแล้วว", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "roof"}
+{"text": "help! บ้านเลขที่ 153 near PSU Kho Hong ผู้ใหญ่ 7 คน พี่ชายมีโรคหัวใจประจำตัว ติดต่อ 096xxx9441", "message_type": "help_request", "flags": ["heart"], "needs": [], "water_level": null}
+{"text": "ใครอยู่ใกล้ช่วยที 6 people ตาป่วยติดเตียง นำ้ระดับเอว ยาหมด ขอเรือมารับ", "message_type": "help_request", "flags": ["bedridden"], "needs": ["medicine", "evacuation"], "water_level": "waist"}
+{"text": "แจ้งแทนญาติครับ Kho Hong near PSU เด็ก 9 ขวบ ผู้ใหญ่ 3 คน ไม่มีผู้ป่วยนะ ขอน้ำดื่ม ติดต่อ 092xxx5912", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": null}
+{"text": "ใครอยู่ใกล้ช่วยที ถนนเพชรเกษม ข้างโชว์รูม ในบ้านมี 1 คน ชั้นล่างม่ายเหลือแล้วว ขอนำ้ดื่ม", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "floor1"}
+{"text": "บ้านเลขที่ 233 ตรงข้ามโรงเรียน ถนนเพชรเกษม, รวม 1 คน, ย่าถูกน้ำพัดกระแทกเสา เจ็บหนัก, น้ำถึงเข่า, since yesterday", "message_type": "help_request", "flags": ["injured"], "needs": [], "water_level": "knee"}
+{"text": "น้ำน้อยซ.น้ำน้อย1,grandma87y/o,ในบ้านมี4คน", "message_type": "help_request", "flags": [], "needs": [], "water_level": null}
+{"text": "ฝนตกอีกแล้ว เบื่อ\nเมื่อไหร่ฝนจะหยุด", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "Kho Hong สะพานไม้พังแล้ว เลี่ยงไปทางอื่น", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "Khlong Hae soi 2 ปู่ 72 ปี ตาสายตาพิการ นั่งอยู่บนหลังคาบ้าน ขาดมาม่า", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["food"], "water_level": "roof"}
+{"text": "ขอความช่วยเหลือด่วน แถวคอหงส์ ผู้ใหญ่ เจ็ด คน คุณตาเดินเองไม่ไหว water chest deep ไฟดับ โทรศัพท์ใกล้ดับ ไม่มีนมให้ลูก ยาใกล้หมด ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["power", "milk", "medicine"], "water_level": "chest"}
+{"text": "แถวคลองแห ผู้ใหญ่ 6 คน ลุงตาบอดสนิท ต้องมีคนจูง คุณตาป่วยหัวใจ ยาหมด", "message_type": "help_request", "flags": ["disabled_blind", "heart"], "needs": ["medicine"], "water_level": null}
+{"text": "help!, คอหงส์ ถ.ปุณณกัณฑ์, ในบ้านมี 2 คน, ยายเป็นคนไข้ไต นัดฟอกเลือดเมื่อวานแต่ไปม่ายได้, flood reached second floor, อยากออกจากบ้าน, โทร 086-xxx-4255", "message_type": "help_request", "flags": ["dialysis"], "needs": ["evacuation"], "water_level": "floor2"}
+{"text": "อัพเดตเคส, ผู้ป่วยติดเตียง, ที่เขต 8, ปลอดภัยแล้ววนะคะ", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ใครอยู่ใกล้ช่วยที\nแถวควนลัง\nตา75ปี\nม่ายมีผู้ป่วยนะ\nหนีขึ้นดาดฟ้า\nยาใกล้หมด\nphonebatterydying\nโทร082-xxx-9427", "message_type": "help_request", "flags": [], "needs": ["medicine", "power"], "water_level": "roof"}
+{"text": "ช่วยด้วยค่ะบ้านเลขที่89ซ.ควนลัง5ควนลังขอนมสำหรับเด็กตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": [], "needs": ["milk"], "water_level": null}
+{"text": "แจ้งปิดเคส พ่อแม่ ที่คลองเตย ปลอดภัยแล้วนะคะ", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ขอเป็นอาสาขับเรือ, คลองแห, ใครอยากชาร์จแบตมาได้", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "รบกวนประสานกู้ภัย แถวถนนครูจีน ลูก 8 ขวบ เด็ก 12 ขวบ ป้าอายุ 83 ในบ้านมี 7 คน เมียน้ำคร่ำเดิน ขอนมสำหรับเด็ก ไม่มีไฟชาร์จมือถือ", "message_type": "help_request", "flags": ["pregnant"], "needs": ["milk", "power"], "water_level": null}
+{"text": "ขอบคุณทีมกู้ภัยมากค่ะ คุณยาย ที่Kho Hong is safe now", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "มีเจ็ตสกีพร้อมคนขับ, ติดต่อได้ที่เพจ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ลบโพสต์ได้แล้ว ครอบครัวเรา ที่ถนนเพชรเกษม คลอดที่โรงพยาบาลแล้ว แม่ลูกปลอดภัย", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ข่าวจากหน้างาน คอหงส์ ซ.สังทิศ 1 ประตูระบายน้ำจะเปิดคืนนี้ น้ำจะขึ้นเร็ว ชาวบ้านแถวนั้นเตรียมย้ายของขึ้นที่สูง", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนนนมาก!!บ้านเลขที่231soi2KhlongHaeเด็ก5ขวบkid2yearsoldgrandma92y/oผู้ใหญ่4คนอินซูลินหมดอยากออกจากบ้านน้ำดื่มยังมีพอsinceyesterdayติดต่อ091xxx8811", "message_type": "help_request", "flags": [], "needs": ["medicine", "evacuation"], "water_level": null}
+{"text": "ด่วนมาก!!\nคุณตา has heart disease\nน้ำยังตื้นแค่ข้อเท้า\nยาใกล้หมด\nขอพาวเวอร์แบงค์\nโทร 082-xxx-5923", "message_type": "help_request", "flags": ["heart"], "needs": ["medicine", "power"], "water_level": "knee"}
+{"text": "บ้านข้างๆ ยังติดอยู่ บ้านเลขที่ 125 ริมคลอง ร.1 คลองเตย คนแก่ 72 ปี ในบ้านมี 1 คน ภรรยาถึงคิวฟอกไตแล้วแต่ออกไปไม่ได้ we are on the roof ขอน้ำดื่ม", "message_type": "help_request", "flags": ["dialysis"], "needs": ["water"], "water_level": "roof"}
+{"text": "🙏 ชวยด้วย เขต 8 ซ.ศรีภูวนารถ 2 อยู่กัน 4 คน ขอเรือมารับ ติดต่อ 093xxx7169", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": null}
+{"text": "help!\nบ้านเลขที่ 241 ถ.ปุณณกัณฑ์ คอหงส์\nลูก 11 ขวบ\nปู่ 61 ปี\nขึ้นไปรอบนหลังคาแล้ว\nphone battery dying\nติดมา 1 วันแล้ว", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "roof"}
+{"text": "ซ.ควนลัง 5 ควนลัง\nทารกแรกเกิด อายุ 8 วัน\nลูก 4 ขวบ\ngrandma 64 y/o\nผู้ใหญ่ เจ็ด คน\nwe are on the roof\nplease send a boat", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "roof"}
+{"text": "ฝนตกอีกแล้ว เบื่อ", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "มีชุดชูชีพ 100 ตัวให้ยืม, แถวถนนครูจีน, ใครขาดอะไรบอกได้", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ขอบคุณทุกคนที่แชร์, ครอบครัวเรา, ที่บ้านพรุ, ญาติมารับไปอยู่ด้วยแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ตอนนี้ แถวKho Hong ลูก 2 ขวบ ลุงอายุ 96 อยู่กัน 9 คน พี่สาวน้ำคร่ำเดิน ขาดอาหาร รอเรือมารับ ยาประจำตัวหมด ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": ["pregnant"], "needs": ["food", "evacuation", "medicine"], "water_level": null}
+{"text": "บ้านข้างๆ ยังติดอยู่ ในบ้านมี ห้า คน หนีขึ้นชั้นบนนำ้ก็ตามมา ขาดนม ขอเจ็ตสกีมารับ ยาเบาหวานหมด 2 คืนแล้ว ติดต่อ 096xxx4531", "message_type": "help_request", "flags": [], "needs": ["milk", "evacuation", "medicine"], "water_level": "floor2"}
+{"text": "เด็ก 3 ขวบ 8 people น้ำท่วมถึงคอ น้ำขวดหมด แบตเหลือ 5% ตั้งแต่เมื่อวาน โทร 088-xxx-5018", "message_type": "help_request", "flags": [], "needs": ["water", "power"], "water_level": "chest"}
+{"text": "อยู่กัน ห้า คน ตาเป็นโรคหัวใจ ม่ายมีไฟชาร์จมือถือ", "message_type": "help_request", "flags": ["heart"], "needs": ["power"], "water_level": null}
+{"text": "ช่วยด้วยค่ะ แถวคลองเตย ย่า 79 ปี ในบ้านมี 5 คน น้ำถึงเอว โทร 081-xxx-2979", "message_type": "help_request", "flags": [], "needs": [], "water_level": "waist"}
+{"text": "help!\nบ้านเลขที่ 251 หมู่ 3 นำ้น้อย น้ำน้อย\nลูก 7 ขวบ\nkid 3 years old\nอยู่กัน 8 คน\nพี่สาวขาพิการ ขยับเองไม่ได้\nwater chest deep\nอยากอพยพออก\nตั้งแต่เมื่อวาน\nติดต่อ 090xxx9165", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["evacuation"], "water_level": "chest"}
+{"text": "รบกวนประสานกู้ภัย, นำ้ท่วมเต็มชั้นล่าง, ข้าวสารหมดแล้ว, นมกล่องหมดแล้ว, โทร 087-xxx-8886", "message_type": "help_request", "flags": [], "needs": ["food", "milk"], "water_level": "floor1"}
+{"text": "บ้านข้างๆยังติดอยู่บ้านเลขที่260nearPSUKhoHongอยู่กันหกคนปู่ไตเสื่อมต้องไปฟอกที่โรงพยาบาลอาทิตย์ละ3ครั้งน้ำสูงเกือบมิดหัวแบตจะหมดขอน้ำดื่มตั้งแต่เมื่อวานโทร086-xxx-7478", "message_type": "help_request", "flags": ["dialysis"], "needs": ["power", "water"], "water_level": "chest"}
+{"text": "ฝากแชร์หน่อย แถวบ้านพรุ ย่าอายุ เจ็ดสิบห้า อยู่กัน 8 คน น้ำระดับเอว แบตเหลือ 5% ยาเหลือ 1 วัน โทร 086-xxx-1765", "message_type": "help_request", "flags": [], "needs": ["power", "medicine"], "water_level": "waist"}
+{"text": "ขอบคุณทุกคนที่แชร์, คนท้อง, ที่คลองเตย, ญาติมารับไปอยู่ด้วยแล้วว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ใกล้ตลาดน้ำ คลองแห kid 3 years old grandma 60 y/o น้ำถึงสะโพก ขอน้ำดื่ม ออกซิเจนใกล้หมด", "message_type": "help_request", "flags": [], "needs": ["water", "medicine"], "water_level": "waist"}
+{"text": "อัพเดตเคส คนท้อง ที่ทุ่งเสา อยู่ศูนย์อพยพแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "help! บ้านเลขที่ 228 ใกล้วัดครูจีน ถนนครูจีน kid 8 years old หลานอายุ สิบ ขวบ ลุงอายุ 93 รวม 5 คน น้ำท่วมชั้นล่างหมดแล้ว ขอพาวเวอร์แบงค์ ขอนมสำหรับเด็ก น้ำเปล่าหมดแล้ว", "message_type": "help_request", "flags": [], "needs": ["power", "milk", "water"], "water_level": "floor1"}
+{"text": "หลังวัดบ้านพรุ บ้านพรุ\nน้ำขึ้นถึงพื้นชั้นสอง\nช่วยมารับออกไปที\nแบตเหลือ 5%", "message_type": "help_request", "flags": [], "needs": ["evacuation", "power"], "water_level": "floor2"}
+{"text": "ใครอยู่ใกล้ช่วยที\nบ้านพรุ ถ.กาญจนวนิช\nในบ้านมี 6 คน\nตาเพิ่งผ่าตัดหัวใจ\nน้ำมิดอกแล้วว\nน้ำเปล่าหมดแล้ว\nอาหารมีพอ", "message_type": "help_request", "flags": ["heart"], "needs": ["water"], "water_level": "chest"}
+{"text": "grandma 98 y/o น้าถูกน้ำพัดกระแทกเสา เจ็บหนัก ต้องปีนขึ้นหลังคา ช่วยไปรับที ขอข้าวกล่อง ติดต่อ 092xxx7458", "message_type": "help_request", "flags": ["injured"], "needs": ["evacuation", "food"], "water_level": "roof"}
+{"text": "แจ้งปิดเคส\nคุณยาย\nที่ควนลัง\nถึงโรงพยาบาลเรียบร้อยแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "แถวเขต 8 คนแก่ 71 ปี ในบ้านมี แปด คน คุณตานอนป่วยมาหลายเดือน ลุกไม่ขึ้น น้ำถึงอก รอเรือมารับ", "message_type": "help_request", "flags": ["bedridden"], "needs": ["evacuation"], "water_level": "chest"}
+{"text": "ถนนเพชรเกษม ตรงข้ามโรงเรียน คนแก่ 84 ปี 3 people นำ้สูงประมาณหัวเข่า แบตเหลือ 5% ช่วยมารับออกไปที น้ำกินยังพอ โทร 081-xxx-5604", "message_type": "help_request", "flags": [], "needs": ["power", "evacuation"], "water_level": "knee"}
+{"text": "บ้านเลขที่ 260 หมู่ 3 น้ำน้อย น้ำน้อย ลูก 11 ขวบ ยายเจ็ดสิบสอง รวม 7 คน น้ำเข้าชั้นสองแล้วว no drinking water need medicine", "message_type": "help_request", "flags": [], "needs": ["water", "medicine"], "water_level": "floor2"}
+{"text": "ทำข้าวกล่องแจกได้ 300 กล่อง, คลองเตย, ติดต่อได้ที่เพจ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "please help\nแถวบ้านพรุ\nรวม 2 คน\nทุกคนโอเค\n4 คืนแล้วว", "message_type": "help_request", "flags": [], "needs": [], "water_level": null}
+{"text": "SOS\nบ้านเลขที่ 160 ซ.คลองเตย 3 คลองเตย\nkid 7 years old\nคนแก่ 86 ปี\nผู้ใหญ่ 2 คน\nน้ำขึ้นถึงพื้นชั้นสอง\nม่ายมีไฟชาร์จมือถือ\nช่วยไปรับที\nยาใกล้หมด", "message_type": "help_request", "flags": [], "needs": ["power", "evacuation", "medicine"], "water_level": "floor2"}
+{"text": "แชร์ไปแล้วนะ", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านข้างๆ ยังติดอยู่ แถวบ้านพรุ ย่าป่วยหัวใจ นำ้ขึ้นถึงพื้นชั้นสอง ไม่ได้กินข้าวมาทั้งวัน ขอพาวเวอร์แบงค์ ติดมา สอง วันแล้วว ติดต่อ 096xxx3377", "message_type": "help_request", "flags": ["heart"], "needs": ["food", "power"], "water_level": "floor2"}
+{"text": "ถนนเพชรเกษม ข้างโชว์รูม\nผู้ใหญ่ 6 คน\nลุยนำ้ระดับอก\nติดมา 4 วันแล้ว", "message_type": "help_request", "flags": [], "needs": [], "water_level": "chest"}
+{"text": "please help บ้านเลขที่ 247 หมู่ 3 น้ำน้อย น้ำน้อย หลานอายุ 5 ขวบ รวม 6 คน พ่อหัวใจเต้นผิดจังหวะ น้ำท่วมระดับเข่า พาออกไปที่ปลอดภัยที ไม่ได้กินข้าวมาทั้งวัน ติดต่อ 098xxx9689", "message_type": "help_request", "flags": ["heart"], "needs": ["evacuation", "food"], "water_level": "knee"}
+{"text": "ด่วนมาก!!, น้ำน้อย ซ.น้ำน้อย 1, หลานอายุ 1 ขวบ, หลานอายุ 9 ขวบ, คุณตาอายุ 93, ภรรยาตกจากหลังคา ขาผิดรูป, น้ำสูงเลยเอวแล้ว, ไม่มีนมให้ลูก, since yesterday, โทร 082-xxx-6004", "message_type": "help_request", "flags": ["injured"], "needs": ["milk"], "water_level": "waist"}
+{"text": "Khlong Hae soi 2\nอยู่กัน 8 คน\nป้าโดนสายไฟที่ขาดดูด\nออกจากหมู่บ้านไม่ได้\nยาประจำตัวหมด\nโทร 085-xxx-5263", "message_type": "help_request", "flags": ["injured"], "needs": ["medicine"], "water_level": null}
+{"text": "ซ.ควนลัง 5 ควนลัง น้ำสูงเกือบมิดหัว ไม่มีอาหาร ยาเบาหวานหมด please send a boat ตั้งแต่เมื่อวาน ติดต่อ 096xxx6974", "message_type": "help_request", "flags": [], "needs": ["food", "medicine", "evacuation"], "water_level": "chest"}
+{"text": "ชวยด้วยค่ะ\nแถวคอหงส์\nอยู่กัน 6 คน\nน้ำท่วมเต็มชั้นล่าง\nยาใกล้หมด\nโทร 082-xxx-8394", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "floor1"}
+{"text": "ญาติโทรมาบอกว่า\nในบ้านมี 5 คน\nคุณยายนั่งวีลแชร์\nwater chest deep\nน้ำดื่มหมด\nไฟดับ มือถือจะดับ", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["water", "power"], "water_level": "chest"}
+{"text": "มีชุดชูชีพ 50 ตัวให้ยืม\nติดต่อได้ที่เพจ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนนนมาก!!\nในบ้านมี แปด คน\nน้ำกินยังพอ\nยังไม่ต้องอพยพ", "message_type": "help_request", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านข้างๆ ยังติดอยู่ ติดคลองอู่ตะเภา ทุ่งเสา ลูกเพิ่งเกิดได้ 25 วัน น้ำถึงสะโพก ไม่ได้กินข้าวมาทั้งวัน 2 คืนแล้ว", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "waist"}
+{"text": "สู้ๆ นะชาวสงขลา เมื่อไหร่ฝนจะหยุด", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "grandma67y/oนำ้เปล่าหมดแล้วขอเจ็ตสกีมารับ4คืนแล้ว", "message_type": "help_request", "flags": [], "needs": ["water", "evacuation"], "water_level": null}
+{"text": "please help\nถนนเพชรเกษม ตรงข้ามโรงเรียน\nลูกอ่อน 5 เดือน\nอยู่กัน 8 คน\nไม่มีใครป่วย\nน้ำท่วมมิดชั้น 1\nขอยาด้วย\nติดต่อ 091xxx7807", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "floor1"}
+{"text": "ใครอยู่ใกล้ชวยที นำ้น้อย หมู่ 3 น้ำน้อย grandma 75 y/o รวม 4 คน น้ำมิดอกแล้ว ไฟดับ มือถือจะดับ น้ำกินยังพอ 1 คืนแล้ว", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "chest"}
+{"text": "help! บ้านพรุ หลังวัดบ้านพรุ พี่ชายหัวแตก ยาความดันหมด", "message_type": "help_request", "flags": ["injured"], "needs": ["medicine"], "water_level": null}
+{"text": "ขอความช่วยเหลือด่วน แถวKho Hong พ่อถูกไฟดูด น้ำสูงเกือบมิดหัว ยังไม่ต้องอพยพ", "message_type": "help_request", "flags": ["injured"], "needs": [], "water_level": "chest"}
+{"text": "🙏 ช่วยด้วย, ซ.ศรีภูวนารถ 2 เขต 8, ปู่ 68 ปี, อยู่กัน 4 คน, สามีเป็นอัมพาต นอนอยู่บนเตียงตลอด, พี่สาวขาพิการ ขยับเองม่ายได้, น้ำถึงเอว, แบตเหลือ 5%, นมสูตรหมด", "message_type": "help_request", "flags": ["bedridden", "wheelchair"], "needs": ["power", "milk"], "water_level": "waist"}
+{"text": "ทำข้าวกล่องแจกได้ 500 กล่อง ส่งไปที่ไหนดีครับ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ใครอยู่หาดใหญ่บ้าง ปลอดภัยไหม", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "รบกวนประสานกู้ภัย, Khlong Hae soi 2, ทารกแรกเกิด อายุ 10 วัน, รวม 8 คน, ลูกสาวน้ำคร่ำเดิน, น้าเป็นคนไข้ไต นัดฟอกเลือดเมื่อวานแต่ไปไม่ได้, น้ำถึงตาตุ่ม, ออกซิเจนใกล้หมด, อยากออกจากบ้าน, โทร 081-xxx-9689", "message_type": "help_request", "flags": ["pregnant", "dialysis"], "needs": ["medicine", "evacuation"], "water_level": "knee"}
+{"text": "ซ.สังทิศ 1 คอหงส์ ผู้ใหญ่ หก คน ลุงสายตาพิการ flood reached second floor ไฟดับ มือถือจะดับ ขอนมสำหรับเด็ก ขอเรือมารับ", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["power", "milk", "evacuation"], "water_level": "floor2"}
+{"text": "ถนนเพชรเกษม ข้างโชว์รูม\nพี่ชายตกจากหลังคา ขาผิดรูป\nอยู่คอนโดชั้น 6\nยาเหลือ 2 วัน\nรอเรือมารับ\nโทร 086-xxx-4267", "message_type": "help_request", "flags": ["injured"], "needs": ["medicine", "evacuation"], "water_level": null}
+{"text": "บ้านข้างๆ ยังติดอยู่ ติดคลองอู่ตะเภา ทุ่งเสา รวม 6 คน ภรรยาต้องฟอกไต นำ้มิดหน้าต่างชั้นล่าง รอเรือมารับ น้ำกินยังพอ ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": ["dialysis"], "needs": ["evacuation"], "water_level": "floor1"}
+{"text": "ทำข้าวแกงแจก 100 ห่อ, นำ้น้อย หมู่ 3 น้ำน้อย, ใครอยากชาร์จแบตมาได้", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "please help แถวถนนเพชรเกษม ผู้ใหญ่ 5 คน น้ำท่วมถึงคอ อยากอพยพออก น้ำดื่มยังมีพอ ติดมา 3 วันแล้ว โทร 086-xxx-2744", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "chest"}
+{"text": "ญาติโทรมาบอกว่า บ้านเลขที่ 106 ซ.คลองเตย 3 คลองเตย kid 11 years old รวม 10 คน น้ำสูงประมาณหัวเข่า ไม่มีน้ำกิน since yesterday", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "knee"}
+{"text": "นำ้ถึงสะโพก\nน้ำเปล่าหมดแล้ว\n3คืนแล้ว", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "waist"}
+{"text": "บ้านเลขที่ 189 ซ.ศรีภูวนารถ 2 เขต 8\nในบ้านมี 3 คน\nน้ำสูงเลยเอวแล้ว\nนมหมด\nติดมา 4 วันแล้ว", "message_type": "help_request", "flags": [], "needs": ["milk"], "water_level": "waist"}
+{"text": "🙏 ช่วยด้วย\nนำ้ถึงอก\nของกินหมดเกลี้ยง\nนมกล่องหมดแล้ว", "message_type": "help_request", "flags": [], "needs": ["food", "milk"], "water_level": "chest"}
+{"text": "อัปเดต: ผู้ป่วยติดเตียง ที่เขต 8 ปลอดภัยแล้วนะคะ", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "เพื่อนส่งข้อความมาว่า แถวKhlong Hae grandma 93 y/o น้ำถึงหน้าอก แบตจะหมด 4 คืนแล้ว ติดต่อ 098xxx4755", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "chest"}
+{"text": "บ้านข้างๆยังติดอยู่\nแถวบ้านพรุ\nผู้ใหญ่5คน\nตาusesawheelchair\nพี่สาวหลังผ่าตัดสมองนอนอย่างเดียว\nน้ำสูงเลยเอวแล้ว\nหิวมาก\n1คืนแล้ว\nติดต่อ091xxx3536", "message_type": "help_request", "flags": ["wheelchair", "bedridden"], "needs": ["food"], "water_level": "waist"}
+{"text": "ขอบคุณทุกคนที่แชร์\nผู้ป่วยติดเตียง\nที่คลองเตย\nคลอดที่โรงพยาบาลแล้วแม่ลูกปลอดภัย", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ขอความช่วยเหลือด่วน บ้านเลขที่ 193 ซ.นำ้น้อย 1 น้ำน้อย มีคนไข้ฟอกไต ขาดฟอกมา 3 วัน water waist high ไม่มีน้ำกิน ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": ["dialysis"], "needs": ["water"], "water_level": "waist"}
+{"text": "อาสาเรือฝากบอก, near PSU Kho Hong, นำ้วนแรงตรงคอสะพาน, ใครลุยน้ำแถวนั้นระวังด้วย", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านข้างๆ ยังติดอยู่, Khlong Hae soi 2, ผู้ใหญ่ 9 คน, พี่สาวแน่นหน้าอก หายใจไม่ออก, น้ำท่วมถึงชั้นบนแล้ว, no drinking water, ติดมา 3 วันแล้ว, โทร 084-xxx-8381", "message_type": "help_request", "flags": ["heart"], "needs": ["water"], "water_level": "floor2"}
+{"text": "ขอบคุณทีมกู้ภัยมากคะ\nคุณยาย\nที่ทุ่งเสา\nคลอดที่โรงพยาบาลแล้วว แม่ลูกปลอดภัย", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนมาก!!\ngrandma 67 y/o\n2 people\nน้ำขึ้นชั้น 2 แล้ว\nขอข้าวกล่อง\n3 คืนแล้ว\nโทร 086-xxx-1295", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "floor2"}
+{"text": "คลองแห ซ.คลองแห 2\nหลานอายุ 2 ขวบ\nลูก 10 ขวบ\nรวม 7 คน\nไม่มีใครป่วย\nน้ำถึงหน้าอก\nน้ำกินยังพอ", "message_type": "help_request", "flags": [], "needs": [], "water_level": "chest"}
+{"text": "ตอนนี้ ใกล้ตลาดนำ้ คลองแห หลานอายุ แปด ขวบ หลานอายุ 4 ขวบ ในบ้านมี 7 คน น้ำปริ่มหลังคา ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": [], "needs": [], "water_level": "roof"}
+{"text": "รวม 9 คน\nลุงมีโรคหัวใจประจำตัว\nน้ำเข้าชั้นสองแล้วว\nช่วยมารับออกไปที\nแบตจะหมด", "message_type": "help_request", "flags": ["heart"], "needs": ["evacuation", "power"], "water_level": "floor2"}
+{"text": "we can donate 300 life jackets\nต้องติดต่อใคร", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "🙏 ชวยด้วย 7 people ชั้นล่างน้ำเต็ม ม่ายมีน้ำกิน ติดต่อ 099xxx4956", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "floor1"}
+{"text": "ด่วนมาก!! แถวเขต 8 ลุง 81 ปี ในบ้านมี 1 คน ยายหัวแตก water waist high นมสูตรหมด น้ำกินยังพอ โทร 088-xxx-7434", "message_type": "help_request", "flags": ["injured"], "needs": ["milk"], "water_level": "waist"}
+{"text": "บ้านเลขที่ 202 ซ.ครูจีน 1 ถนนครูจีน 2 people ไม่มีใครป่วย น้ำท่วมชั้นล่างหมดแล้ว ขาดอาหาร แบตเหลือ 5% โทร 085-xxx-6829", "message_type": "help_request", "flags": [], "needs": ["food", "power"], "water_level": "floor1"}
+{"text": "ญาติโทรมาบอกว่า\nบ้านเลขที่ 282 ถ.กาญจนวนิช บ้านพรุ\nในบ้านมี 5 คน\nน้ำถึงสะโพก\nplease send a boat\nติดต่อ 095xxx1559", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "waist"}
+{"text": "please help แถวบ้านพรุ รวม 7 คน ยาหมด นำ้กินยังพอ", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": null}
+{"text": "ญาติโทรมาบอกว่า บ้านเลขที่ 26 หลังตลาดเขต 8 เขต 8 ป้า 73 ปี รวม 2 คน คุณตาเดินเองไม่ไหว น้ำขึ้นถึงพื้นชั้นสอง พาออกไปที่ปลอดภัยที ติดต่อ 093xxx7886", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["evacuation"], "water_level": "floor2"}
+{"text": "ด่วนมาก!!, คุณตาแปดสิบ, ในบ้านมี 8 คน, หนีขึ้นดาดฟ้า, รอเรือมารับ, อาหารหมด, 4 คืนแล้วว, ติดต่อ 094xxx3886", "message_type": "help_request", "flags": [], "needs": ["evacuation", "food"], "water_level": "roof"}
+{"text": "รบกวนประสานกู้ภัย\nซ.คลองแห 2 คลองแห\nkid 9 years old\nลูกอ่อน 3 เดือน\nรวม 3 คน\nwater waist high\nม่ายได้กินข้าวมาทั้งวัน\nติดมา 3 วันแล้ว", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "waist"}
+{"text": "อาสาเรือฝากบอก คลองเตย ริมคลอง ร.1 ประตูระบายน้ำจะเปิดคืนนี้ น้ำจะขึ้นเร็ว อย่าใช้ทางนี้", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "🙏 ช่วยด้วย ซ.น้ำน้อย 1 น้ำน้อย แม่ 83 ปี 6 people หนีขึ้นชั้นบนน้ำก็ตามมา ไม่ได้กินข้าวมาทั้งวัน", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "floor2"}
+{"text": "ใครอยู่ใกล้ช่วยที, หลังตลาดเขต 8 เขต 8, รวม 2 คน, นำ้มิดอกแล้ว, ยาประจำตัวหมด, ช่วยมารับออกไปที", "message_type": "help_request", "flags": [], "needs": ["medicine", "evacuation"], "water_level": "chest"}
+{"text": "ขอบคุณทีมกู้ภัยมากค่ะ คนท้อง ญาติมารับไปอยู่ด้วยแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "Khlong Hae soi 2, คนแก่ 92 ปี, รวม 1 คน, ทุกคนโอเค, น้ำเข้าชั้นสองแล้ว, อยากอพยพออก, โทร 089-xxx-1420", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "floor2"}
+{"text": "ตอนนี้ ถนนเพชรเกษม ข้างโชว์รูม ย่าอายุ แปดสิบสี่ ตาหัวใจเต้นผิดจังหวะ นำ้รอบบ้านลึกระดับเอว", "message_type": "help_request", "flags": ["heart"], "needs": [], "water_level": "waist"}
+{"text": "เพื่อนส่งข้อความมาว่า แถวนำ้น้อย หลานอายุ 6 ขวบ รวม 7 คน ม่ายมีผู้ป่วยนะ น้ำท่วมมิดชั้น 1 ช่วยมารับออกไปที ตั้งแต่เมื่อวาน ติดต่อ 094xxx7497", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "floor1"}
+{"text": "ญาติโทรมาบอกว่าใกล้วัดครูจีนถนนครูจีนในบ้านมีแปดคนเมียเริ่มมีอาการจะคลอดน้ำมิดหน้าต่างชั้นล่างยาประจำตัวหมดม่ายมีอะไรจะกินติดต่อ094xxx9509", "message_type": "help_request", "flags": ["pregnant"], "needs": ["medicine", "food"], "water_level": "floor1"}
+{"text": "ด่วนมาก!! ถนนเพชรเกษม ข้างโชว์รูม ปู่เก้าสิบแปด อยู่กัน 4 คน นำ้เริ่มเข้าบ้าน ท่วมพื้น ยาหมด no drinking water ติดต่อ 091xxx1756", "message_type": "help_request", "flags": [], "needs": ["medicine", "water"], "water_level": "knee"}
+{"text": "ตอนนี้,ใกล้ตลาดน้ำคลองแห,เด็ก1ขวบ,ทารก6เดือน,ปู่อายุเก้าสิบเจ็ด,ผู้ใหญ่2คน,พี่สาวเป็นโรคหัวใจ,ปู่ลื่นล้มขาหัก,หนีขึ้นดาดฟ้า,ไฟดับมือถือจะดับ,ม่ายได้กินข้าวมาทั้งวัน,ขอเจ็ตสกีมารับ,น้ำดื่มยังมีพอ,ติดต่อ096xxx3622", "message_type": "help_request", "flags": ["heart", "injured"], "needs": ["power", "food", "evacuation"], "water_level": "roof"}
+{"text": "เพื่อนส่งข้อความมาว่า\nใกล้ อบต.ควนลัง ควนลัง\ngrandma 95 y/o\nรวม 9 คน\nน้ำถึงสะโพก\nนมเด็กหมด\nน้ำดื่มหมด\nยังม่ายอยากออกจากบ้าน\nโทร 086-xxx-5698", "message_type": "help_request", "flags": [], "needs": ["milk", "water"], "water_level": "waist"}
+{"text": "ขอเป็นอาสาขับเรือ ส่งไปที่ไหนดีครับ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านข้างๆ ยังติดอยู่ บ้านเลขที่ 236 soi 2 Khlong Hae ลูก 5 ขวบ หลานอายุ ห้า ขวบ ปู่อายุ 69 ในบ้านมี 5 คน สามีเดินม่ายได้ น้ำมิดอกแล้ว แบตเหลือ 5%", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["power"], "water_level": "chest"}
+{"text": "ฝากแชร์หน่อย\nแถวเขต 8\nคนแก่ 72 ปี\nป้าพิการทางสายตา\nชั้นล่างนำ้เต็ม\nตั้งแต่เมื่อวาน\nติดต่อ 091xxx9905", "message_type": "help_request", "flags": ["disabled_blind"], "needs": [], "water_level": "floor1"}
+{"text": "รบกวนประสานกู้ภัย\nบ้านเลขที่ 226 ข้างโชว์รูม ถนนเพชรเกษม\nผู้ใหญ่ 6 คน\nแม่เดินไม่ได้\nนั่งอยู่บนหลังคาบ้าน\nไม่มีนมให้ลูก\nยาประจำตัวหมด", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["milk", "medicine"], "water_level": "roof"}
+{"text": "warning: แถวถนนครูจีน ประตูระบายน้ำจะเปิดคืนนี้ น้ำจะขึ้นเร็ว", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนมาก!!,หลังวัดบ้านพรุบ้านพรุ,รวม6คน,น้ำท่วมถึงชั้นบนแล้ว,ข้าวสารหมดแล้ว,1คืนแล้ว", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "floor2"}
+{"text": "SOS ถนนเพชรเกษม ตรงข้ามโรงเรียน พ่อ 76 ปี ชั้นล่างน้ำเต็ม no drinking water since yesterday", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "floor1"}
+{"text": "บ้านข้างๆ ยังติดอยู่, ถนนครูจีน ซ.ครูจีน 1, kid 2 years old, อยู่กัน 3 คน, we are on the roof, หิวมาก, ขอเรือมารับ, ตั้งแต่เมื่อวาน, ติดต่อ 093xxx7273", "message_type": "help_request", "flags": [], "needs": ["food", "evacuation"], "water_level": "roof"}
+{"text": "ขอความช่วยเหลือด่วน บ้านเลขที่ 167 หมู่ 3 น้ำน้อย น้ำน้อย คนแก่ 93 ปี 8 people ลุงสายตาพิการ ลุงต้องฟอกไต อยู่คอนโดชั้น 6 ช่วยมารับออกไปที น้ำกินยังพอ ติดต่อ 098xxx1537", "message_type": "help_request", "flags": ["disabled_blind", "dialysis"], "needs": ["evacuation"], "water_level": null}
+{"text": "Khlong Hae soi 2\nลูกอ่อน 10 เดือน\nลูก 5 ขวบ\nคนแก่ 80 ปี\nอยู่บนหลังคา\nขาดนม\nsince yesterday\nติดต่อ 096xxx8746", "message_type": "help_request", "flags": [], "needs": ["milk"], "water_level": "roof"}
+{"text": "please help ซ.ครูจีน 1 ถนนครูจีน พี่สาวตาบอดทั้งสองข้าง ลุยนำ้ระดับอก ขาดอาหาร ขาดน้ำดื่ม ติดต่อ 099xxx9001", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["food", "water"], "water_level": "chest"}
+{"text": "หน่วยงานไปไหนกันหมด สงสารคนแก่กับเด็กมาก", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "เพื่อนส่งข้อความมาว่า\nบ้านเลขที่ 65 ซ.ควนลัง 5 ควนลัง\nอยู่กัน 9 คน\nยายต้องมีคนพลิกตัวให้\nน้ำเข้าห้องนอนชั้น 2\nsince yesterday\nโทร 083-xxx-8255", "message_type": "help_request", "flags": ["bedridden"], "needs": [], "water_level": "floor2"}
+{"text": "อยู่บนหลังคา ขอพาวเวอร์แบงค์ need medicine", "message_type": "help_request", "flags": [], "needs": ["power", "medicine"], "water_level": "roof"}
+{"text": "รบกวนประสานกู้ภัย\nบ้านเลขที่ 176 ซ.ครูจีน 1 ถนนครูจีน\nเด็ก 7 ขวบ\nเด็ก สอง ขวบ\nคนแก่ 98 ปี\nน้ำรอบบ้านลึกระดับเอว\nของกินหมดเกลี้ยง\nยาเหลือ 3 วัน\nติดต่อ 092xxx5713", "message_type": "help_request", "flags": [], "needs": ["food", "medicine"], "water_level": "waist"}
+{"text": "พ่อแม่, ที่ถนนครูจีน, ปลอดภัยแล้วนะคะ", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "แจ้งแทนญาติคับ แถวทุ่งเสา คนแก่ 68 ปี water waist high ตั้งแต่เมื่อวาน โทร 085-xxx-4957", "message_type": "help_request", "flags": [], "needs": [], "water_level": "waist"}
+{"text": "ใครอยู่ใกล้ช่วยที ชั้นล่างจมทั้งหมด ขาดมาม่า ขาดน้ำดื่ม ติดต่อ 093xxx8523", "message_type": "help_request", "flags": [], "needs": ["food", "water"], "water_level": "floor1"}
+{"text": "pleasehelpแถวบ้านพรุลูก4ขวบลูก8ขวบผู้ใหญ่6คนอยู่ตึกแถวชั้น3ติดต่อ093xxx6171", "message_type": "help_request", "flags": [], "needs": [], "water_level": null}
+{"text": "SOS แถวคอหงส์ baby 2 months pregnant woman here สามีเป็นคนไข้ไต นัดฟอกเลือดเมื่อวานแต่ไปม่ายได้ น้ำถึงสะโพก ติดมา 4 วันแล้วว โทร 082-xxx-8029", "message_type": "help_request", "flags": ["pregnant", "dialysis"], "needs": [], "water_level": "waist"}
+{"text": "ชวยด้วยค่ะ แถวคลองแห เด็ก 5 ขวบ เด็ก 7 ขวบ คนแก่ 91 ปี ในบ้านมี 6 คน อยู่ตึกแถวชั้น 3 ยังไม่อยากออกจากบ้าน since yesterday", "message_type": "help_request", "flags": [], "needs": [], "water_level": null}
+{"text": "ข่าวจากหน้างาน ถนนเพชรเกษม มีหลุมใหญ่ใต้น้ำ กู้ภัยกำลังเข้าไปดู", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "🙏 ชวยด้วย soi 2 Khlong Hae ลูกเพิ่งเกิดได้ 10 วัน เด็ก 6 ขวบ รวม 3 คน ยายติดเตียง ยายต้องฟอกไต flood reached second floor ยาหมด ขอน้ำดื่ม ขาดนม อาหารมีพอ ติดต่อ 092xxx6703", "message_type": "help_request", "flags": ["bedridden", "dialysis"], "needs": ["medicine", "water", "milk"], "water_level": "floor2"}
+{"text": "help! ริมคลอง ร.1 คลองเตย 7 people นำ้สูงเลยเอวแล้วว พาออกไปที่ปลอดภัยที ติดมา 5 วันแล้ว", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "waist"}
+{"text": "ชวยด้วยคะ แถวคลองเตย เด็ก 1 ขวบ พ่ออายุ 83 น้ำท่วมชั้นล่างหมดแล้ว ของกินหมดเกลี้ยง ตั้งแต่เมื่อวาน โทร 088-xxx-6043", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "floor1"}
+{"text": "ซ.สังทิศ 1 คอหงส์\nลุง 64 ปี\nน้ำท่วมถึงชั้นบนแล้ว\nขอข้าวกล่อง\nไม่มีน้ำกิน\nติดต่อ 090xxx3110", "message_type": "help_request", "flags": [], "needs": ["food", "water"], "water_level": "floor2"}
+{"text": "เตือนภัยsoi2KhlongHaeถนนทรุดเลี่ยงไปทางอื่น", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "รบกวนประสานกู้ภัยซ.น้ำน้อย1น้ำน้อยลุงอายุ90รวม2คนไม่มีใครป่วยน้ำสูงประมาณหัวเข่านมสูตรหมดneedmedicine", "message_type": "help_request", "flags": [], "needs": ["milk", "medicine"], "water_level": "knee"}
+{"text": "หมู่ 3 น้ำน้อย น้ำน้อย, อยู่กัน 7 คน, น้ำขึ้นชั้น 2 แล้วว, ขอเรือมารับ, ไม่มีไฟชาร์จมือถือ, ติดต่อ 090xxx9433", "message_type": "help_request", "flags": [], "needs": ["evacuation", "power"], "water_level": "floor2"}
+{"text": "ซ.คลองแห 2 คลองแห\ngrandma 63 y/o\n8 people\nนำ้ขึ้นถึงพื้นชั้นสอง\nneed baby milk\nของกินหมดเกลี้ยง", "message_type": "help_request", "flags": [], "needs": ["milk", "food"], "water_level": "floor2"}
+{"text": "แถวคลองเตย ในบ้านมี 5 คน need medicine", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": null}
+{"text": "บ้านข้างๆ ยังติดอยู่ บ้านเลขที่ 83 ซ.ควนลัง 5 ควนลัง ในบ้านมี 9 คน มีผู้ป่วยติดเตียง พี่ชายพิการแขนขา ขอน้ำดื่ม โทร 081-xxx-1833", "message_type": "help_request", "flags": ["bedridden", "wheelchair"], "needs": ["water"], "water_level": null}
+{"text": "ดูไลฟ์อยู่ ดูไลฟ์อยู่", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "คลองแห ใกล้ตลาดนำ้\nตา had a stroke, can't get up\nน้า has heart disease\nหนีขึ้นชั้นบนน้ำก็ตามมา\nยังม่ายอยากออกจากบ้าน\nตั้งแต่เมื่อวาน\nโทร 088-xxx-3468", "message_type": "help_request", "flags": ["bedridden", "heart"], "needs": [], "water_level": "floor2"}
+{"text": "ฝากแชร์หน่อย\nบ้านเลขที่ 254 ริมคลอง ร.1 คลองเตย\nลูก 10 ขวบ\nผู้ใหญ่ 5 คน\nทุกคนแข็งแรงดี\nน้ำท่วมถึงชั้นบนแล้ว\nของกินหมดเกลี้ยง\nติดมา 2 วันแล้ว", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "floor2"}
+{"text": "มีรถกระบะยกสูงว่าง, ควนลัง, ติดต่อได้ที่เพจ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ระวัง!แถวKhoHongตะขาบกับแมงป่องหนีน้ำขึ้นบ้าน", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "มีเครื่องปั่นไฟให้ยืม 5 เครื่อง ทุ่งเสา ซ.ทุ่งเสา 4 ใครต้องการทักมา", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านเลขที่ 99 ซ.ศรีภูวนารถ 2 เขต 8 พ่อ had a stroke, can't get up น้ำเข้าห้องนอนชั้น 2 since yesterday", "message_type": "help_request", "flags": ["bedridden"], "needs": [], "water_level": "floor2"}
+{"text": "แจ้งเตือน, ริมคลอง ร.1 คลองเตย, นำ้วนแรงตรงคอสะพาน, กู้ภัยกำลังเข้าไปดู", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ขอบคุณทุกคนที่แชร์ คุณยาย ที่เขต 8 is safe now", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนมาก!!, ผู้ใหญ่ 2 คน, ลุยน้ำระดับอก, no food, น้ำขวดหมด, since yesterday, ติดต่อ 094xxx1512", "message_type": "help_request", "flags": [], "needs": ["food", "water"], "water_level": "chest"}
+{"text": "แถวน้ำน้อย,7people,ย่าพิการแขนขา,ชั้นล่างจมทั้งหมด,ข้าวก็หมด,น้ำดื่มยังมีพอ,ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["food"], "water_level": "floor1"}
+{"text": "จะส่งน้ำดื่ม 100 แพ็ค\nคอหงส์\nใครอยากชาร์จแบตมาได้", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ช่วยด้วยค่ะ,ทารก10เดือน,ลูกอ่อน11เดือน,grandma69y/o,บ้านชั้นเดียวจมมิดแล้ว,pleasesendaboat,ยาเบาหวานหมด,4คืนแล้ว,ติดต่อ090xxx3760", "message_type": "help_request", "flags": [], "needs": ["evacuation", "medicine"], "water_level": "floor1"}
+{"text": "ซ.สังทิศ 1 คอหงส์ ลุงอายุ 87 ผู้ใหญ่ 4 คน ทุกคนแข็งแรงดี น้ำเข้าห้องนอนชั้น 2 น้ำเปล่าหมดแล้วว โทร 087-xxx-3939", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "floor2"}
+{"text": "please help\nในบ้านมี 9 คน\nน้ำรอบบ้านลึกระดับเอว\nneed rescue\nไฟดับ มือถือจะดับ\nติดต่อ 097xxx5752", "message_type": "help_request", "flags": [], "needs": ["evacuation", "power"], "water_level": "waist"}
+{"text": "มีชุดชูชีพ300ตัวให้ยืม,ต้องติดต่อใคร", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "แถวถนนครูจีน\nอยู่กัน 5 คน\nปู่ตาบอดสนิท ต้องมีคนจูง\nน้ำท่วมระดับเข่า\nติดต่อ 092xxx8793", "message_type": "help_request", "flags": ["disabled_blind"], "needs": [], "water_level": "knee"}
+{"text": "แถวถนนเพชรเกษม\nเด็ก ห้า ขวบ\nลูก 9 ขวบ\nรวม 7 คน\nไม่มีใครป่วย\nอยู่คอนโดชั้น 6\nขอพาวเวอร์แบงค์\nน้ำเปล่าหมดแล้ว\nsince yesterday", "message_type": "help_request", "flags": [], "needs": ["power", "water"], "water_level": null}
+{"text": "บ้านเลขที่ 214 ซ.ควนลัง 5 ควนลัง, grandma 97 y/o, ในบ้านมี 5 คน, water waist high, need medicine", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "waist"}
+{"text": "help! น้ำน้อย หมู่ 3 น้ำน้อย คนแก่ 98 ปี ในบ้านมี 2 คน คุณยาย uses a wheelchair น้ำท่วมชั้นล่างหมดแล้ว need rescue โทร 088-xxx-4648", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["evacuation"], "water_level": "floor1"}
+{"text": "ชวยด้วยค่ะ, บ้านเลขที่ 35 ใกล้ตลาดน้ำ คลองแห, ทารก 9 เดือน, อยู่กัน 5 คน, พี่ชายถูกไฟดูด, นั่งอยู่บนหลังคาบ้าน, แบตเหลือ 5%, เหลือมาม่าห่อเดียว, โทร 085-xxx-9590", "message_type": "help_request", "flags": ["injured"], "needs": ["power", "food"], "water_level": "roof"}
+{"text": "คลองแหมีจระเข้หลุดออกมาavoidthisroute", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "คอหงส์ หลัง ม.อ. น้าเดินเองม่ายไหว อยู่ตึกแถวชั้น 3 นมหมด need rescue", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["milk", "evacuation"], "water_level": null}
+{"text": "รบกวนประสานกู้ภัย แถวKho Hong ไม่มีคนเจ็บ ground floor fully flooded น้ำขวดหมด ติดต่อ 098xxx4529", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "floor1"}
+{"text": "แจ้งเตือน, ซ.สังทิศ 1 คอหงส์, นำ้วนแรงตรงคอสะพาน, ชาวบ้านแถวนั้นเตรียมย้ายของขึ้นที่สูง", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "รวม 5 คน, ปู่หัวใจเต้นผิดจังหวะ, บ้านชั้นเดียวจมมิดแล้ว, ติดต่อ 097xxx8254", "message_type": "help_request", "flags": ["heart"], "needs": [], "water_level": "floor1"}
+{"text": "⚠️, ใกล้ตลาดนำ้ คลองแห, เสาไฟล้มขวางทาง, เลี่ยงไปทางอื่น", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ทำข้าวแกงแจก 200 ห่อ, ติดต่อได้ที่เพจ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "เตือนภัย\nคอหงส์ ซ.สังทิศ 1\nเสาไฟล้มขวางทาง\nเลี่ยงไปทางอื่น", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ผู้ใหญ่ สอง คน\nตาใส่ขดลวดหัวใจ\nชั้นล่างจมทั้งหมด\nไม่มียาลดไข้\nนมสูตรหมด", "message_type": "help_request", "flags": ["heart"], "needs": ["medicine", "milk"], "water_level": "floor1"}
+{"text": "มีชุดชูชีพ 200 ตัวให้ยืม", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านเลขที่ 96 ซ.ทุ่งเสา 4 ทุ่งเสา, ผู้ใหญ่ เจ็ด คน, สามีไตม่ายทำงาน ตัวเริ่มบวมนำ้, พ่อตาบอดสนิท ต้องมีคนจูง, น้ำท่วมถึงคอ, need medicine", "message_type": "help_request", "flags": ["dialysis", "disabled_blind"], "needs": ["medicine"], "water_level": "chest"}
+{"text": "เป็นกำลังใจให้ทุกคน\nดูข่าวแล้ววใจหาย", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "คลองแห ซ.คลองแห 2 6 people we are on the roof ไฟดับ มือถือจะดับ ติดต่อ 094xxx6098", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "roof"}
+{"text": "ฝากแชร์หน่อย, แถวKho Hong, รวม 9 คน, พ่อขาลีบ, อยู่บนหลังคา, ยาเบาหวานหมด, ชวยไปรับที, ติดต่อ 092xxx5347", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["medicine", "evacuation"], "water_level": "roof"}
+{"text": "มีชุดชูชีพ 300 ตัวให้ยืม ถ.ปุณณกัณฑ์ คอหงส์ ใครอยากชาร์จแบตมาได้", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ช่วยด้วยค่ะแถวทุ่งเสาbaby8monthsในบ้านมี9คนนำ้ขึ้นถึงพื้นชั้นสองขอพาวเวอร์แบงค์1คืนแล้วโทร084-xxx-8747", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "floor2"}
+{"text": "แถวคอหงส์\nรวม 1 คน\nป้าจมนำ้ หมดสติไปพักนึง\nwe are on the roof\nอยากอพยพออก\nน้ำเปล่าหมดแล้ว\nไฟดับ มือถือจะดับ\nโทร 083-xxx-7979", "message_type": "help_request", "flags": ["injured"], "needs": ["evacuation", "water", "power"], "water_level": "roof"}
+{"text": "แถวKhlong Hae ตะขาบกับแมงป่องหนีน้ำขึ้นบ้าน ใครลุยน้ำแถวนั้นระวังด้วย", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านเลขที่ 72 near PSU Kho Hong 2 people ปู่เป็นโรคหัวใจ แม่หลังผ่าตัดสมอง นอนอย่างเดียว อยู่ตึกแถวชั้น 3 ของกินหมดเกลี้ยง need rescue ขอน้ำดื่ม", "message_type": "help_request", "flags": ["heart", "bedridden"], "needs": ["food", "evacuation", "water"], "water_level": null}
+{"text": "รับบริจาคเสื้อผ้า\nเขต 8 ซ.ศรีภูวนารถ 2\nติดต่อได้ที่เพจ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "near PSU Kho Hong หลานอายุ 8 ขวบ อยู่กัน 8 คน น้ำท่วมถึงชั้นบนแล้ว phone battery dying 2 คืนแล้ว", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "floor2"}
+{"text": "ด่วนมาก!!\nแถวคลองแห\nหลานอายุ 7 ขวบ\nขึ้นไปรอบนหลังคาแล้ว", "message_type": "help_request", "flags": [], "needs": [], "water_level": "roof"}
+{"text": "ใครอยู่หาดใหญ่บ้าง ปลอดภัยไหม หน่วยงานไปไหนกันหมด", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ใครอยู่ใกล้ช่วยที ใกล้ตลาดนำ้ คลองแห kid 4 years old kid 3 years old คุณตาอายุ 98 อยู่กัน 9 คน น้ำถึงเอว ช่วยไปรับที โทร 084-xxx-5438", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "waist"}
+{"text": "help!,ผู้ใหญ่9คน,ยาใกล้หมด,ติดมา5วันแล้วว", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": null}
+{"text": "ฝากแชร์หน่อย\nแถวคลองเตย\nkid 1 years old\nลูก 7 ขวบ\nนำ้สูงเลยเอวแล้ว\nแบตจะหมด\nโทร 085-xxx-2626", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "waist"}
+{"text": "บ้านพรุ ถ.กาญจนวนิช, ป้า 73 ปี, ทุกคนแข็งแรงดี, น้ำสูงเลยเอวแล้วว, since yesterday, โทร 084-xxx-2627", "message_type": "help_request", "flags": [], "needs": [], "water_level": "waist"}
+{"text": "ลบโพสต์ได้แล้วว family ที่ถนนเพชรเกษม has been rescued", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านข้างๆ ยังติดอยู่\nบ้านเลขที่ 157 ซ.ควนลัง 5 ควนลัง\nลูกอ่อน 8 เดือน\nเด็ก หก ขวบ\nนำ้เข้าชั้นสองแล้วว\nไฟดับ โทรศัพท์ใกล้ดับ\nนมสูตรหมด\nขอเรือมารับ\nโทร 084-xxx-3312", "message_type": "help_request", "flags": [], "needs": ["power", "milk", "evacuation"], "water_level": "floor2"}
+{"text": "ทำข้าวกล่องแจกได้50กล่อง", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ฝากแชร์หน่อยบ้านเลขที่212ซ.น้ำน้อย1น้ำน้อยเด็ก6ขวบkid6yearsold8peopleน้ำรอบบ้านลึกระดับเอวโทร087-xxx-6950", "message_type": "help_request", "flags": [], "needs": [], "water_level": "waist"}
+{"text": "ด่วนนนมาก!!\nแถวเขต 8\nผู้ใหญ่ 7 คน\nแม่เดินเองม่ายไหว\nwater chest deep", "message_type": "help_request", "flags": ["wheelchair"], "needs": [], "water_level": "chest"}
+{"text": "please help\nบ้านเลขที่ 198 หมู่ 3 น้ำน้อย น้ำน้อย\nรวม 6 คน\nน้ำถึงสะโพก\nน้ำกินยังพอ\nติดต่อ 096xxx1060", "message_type": "help_request", "flags": [], "needs": [], "water_level": "waist"}
+{"text": "แจ้งปิดเคส ครอบครัวเรา ที่คลองแห กู้ภัยพาออกมาครบทุกคนแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "please help\nบ้านเลขที่ 93 หลังวัดบ้านพรุ บ้านพรุ\nรวม 9 คน\nลุยนำ้ระดับอก\nneed medicine\nไฟดับ โทรศัพท์ใกล้ดับ\nติดต่อ 094xxx9359", "message_type": "help_request", "flags": [], "needs": ["medicine", "power"], "water_level": "chest"}
+{"text": "รบกวนประสานกู้ภัย Kho Hong near PSU ทารก 4 เดือน newborn 16 days old flood reached second floor ขาดมาม่า โทร 086-xxx-2404", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "floor2"}
+{"text": "ดูไลฟ์อยู่", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "help!, บ้านเลขที่ 272 near PSU Kho Hong, รวม 8 คน, ภรรยา cannot walk, น้ำสูงเลยเอวแล้ว, นมหมด, since yesterday", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["milk"], "water_level": "waist"}
+{"text": "water waist high\nแบตเหลือ 5%", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "waist"}
+{"text": "มีพาวเวอร์แบงค์แจก, ส่งไปที่ไหนดีครับ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ถนนเพชรเกษม ซ.เพชรเกษม 12 รวม 3 คน ต้องปีนขึ้นหลังคา ขอน้ำดื่ม 3 คืนแล้ว", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "roof"}
+{"text": "เคสเด็กเล็ก, is safe now", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "update:\nคุณยาย\nที่คอหงส์\nhas been rescued", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ช่วยด้วยค่ะ บ้านเลขที่ 90 หลังตลาดเขต 8 เขต 8 ลูก 7 ขวบ คุณยายพิการแขนขา น้ำสูงประมาณหัวเข่า ไม่ได้กินข้าวมาทั้งวัน ติดมา 3 วันแล้ว", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["food"], "water_level": "knee"}
+{"text": "ทำไมน้ำท่วมทุกปี แก้ไม่ได้สักที", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "อาสาเรือฝากบอก\nแถวคลองแห\nประตูระบายนำ้จะเปิดคืนนี้ น้ำจะขึ้นเร็ว", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ฝากแชร์หน่อย\nแถวนำ้น้อย\nหลานอายุ 12 ขวบ\nภรรยาไตไม่ทำงาน ตัวเริ่มบวมน้ำ\nชั้นล่างไม่เหลือแล้ว\nขาดน้ำดื่ม\nยังไม่ต้องอพยพ\n3 คืนแล้ว\nโทร 082-xxx-2782", "message_type": "help_request", "flags": ["dialysis"], "needs": ["water"], "water_level": "floor1"}
+{"text": "อัปเดต:, คนท้อง, ญาติมารับไปอยู่ด้วยแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "เขต 8 หลังตลาดเขต 8 เสาไฟล้มขวางทาง avoid this route", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "help! บ้านเลขที่ 33 ข้างโชว์รูม ถนนเพชรเกษม ปู่อายุ เก้าสิบหก 3 people น้ำท่วมถึงคอ อยากอพยพออก น้ำขวดหมด ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": [], "needs": ["evacuation", "water"], "water_level": "chest"}
+{"text": "เพื่อนส่งข้อความมาว่า\nซ.ควนลัง 5 ควนลัง\nคุณตาเป็นอัมพาต นอนอยู่บนเตียงตลอด\nไม่มีน้ำกิน\nติดต่อ 096xxx2938", "message_type": "help_request", "flags": ["bedridden"], "needs": ["water"], "water_level": null}
+{"text": "ด่วนมาก!!, บ้านเลขที่ 256 ซ.ครูจีน 1 ถนนครูจีน, เด็ก 9 ขวบ, ทารก 10 เดือน, คนแก่ 69 ปี, นำ้มิดหน้าต่างชั้นล่าง, ขอพาวเวอร์แบงค์, น้ำเปล่าหมดแล้ว, ไม่มีอะไรจะกิน, ติดมา สี่ วันแล้ว, โทร 084-xxx-8671", "message_type": "help_request", "flags": [], "needs": ["power", "water", "food"], "water_level": "floor1"}
+{"text": "คลองแห ใกล้ตลาดนำ้\nแม่ 78 ปี\nอยู่กัน 8 คน\nน้า had a stroke, can't get up\nอยู่บนหลังคา", "message_type": "help_request", "flags": ["bedridden"], "needs": [], "water_level": "roof"}
+{"text": "บ้านเลขที่ 126 ซ.คลองเตย 3 คลองเตย kid 11 years old อยู่กัน 6 คน น้าเพิ่งผ่าตัดหัวใจ ต้องปีนขึ้นหลังคา ติดมา สี่ วันแล้วว โทร 081-xxx-7867", "message_type": "help_request", "flags": ["heart"], "needs": [], "water_level": "roof"}
+{"text": "ขอให้ทุกคนปลอดภัย 🙏", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ขอความช่วยเหลือด่วน kid 1 years old เด็ก 9 ขวบ ในบ้านมี 10 คน น้ำสูงเกือบมิดหัว ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": [], "needs": [], "water_level": "chest"}
+{"text": "ซ.ทุ่งเสา 4 ทุ่งเสา, เด็ก 6 ขวบ, ไม่มีใครป่วย, นำ้สูงเลยเอวแล้ว, หิวมาก", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "waist"}
+{"text": "help! 7 people น้ำสูงเกือบมิดหัว ม่ายมีไฟชาร์จมือถือ since yesterday", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "chest"}
+{"text": "อาสาเรือฝากบอก แถวน้ำน้อย มีจระเข้หลุดออกมา avoid this route", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ลบโพสต์ได้แล้วว\nเคสเด็กเล็ก\nissafenow", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนนนมาก!!แถวถนนครูจีนแม่อายุหกสิบในบ้านมีสามคนพ่อhasheartdiseaseแม่ป่วยหนักลุกจากเตียงไม่ได้หนีขึ้นชั้นบนน้ำก็ตามมา", "message_type": "help_request", "flags": ["heart", "bedridden"], "needs": [], "water_level": "floor2"}
+{"text": "แถวทุ่งเสา\nรวม 7 คน\nสามีต้องทำ dialysis\nground floor fully flooded\nรอเรือมารับ\nsince yesterday\nโทร 083-xxx-8473", "message_type": "help_request", "flags": ["dialysis"], "needs": ["evacuation"], "water_level": "floor1"}
+{"text": "we can donate 200 life jackets ซ.คลองแห 2 คลองแห ติดต่อได้ที่เพจ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ตอนนี้ บ้านเลขที่ 96 near PSU Kho Hong หลานอายุ 3 ขวบ ลูก 1 ขวบ คุณยาย 92 ปี รวม 4 คน water knee deep ยาใกล้หมด โทร 086-xxx-6625", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "knee"}
+{"text": "ชวยด้วยค่ะ, ใกล้ตลาดนำ้ คลองแห, grandma 91 y/o, อยู่กัน หก คน, แม่ bedridden", "message_type": "help_request", "flags": ["bedridden"], "needs": [], "water_level": null}
+{"text": "ดูไลฟ์อยู่", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "อาสาเรือฝากบอก คลองเตย ซ.คลองเตย 3 มีจระเข้หลุดออกมา เลี่ยงไปทางอื่น", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ตอนนี้ บ้านเลขที่ 197 soi 2 Khlong Hae kid 1 years old ลุง 83 ปี 3 people ปู่ cannot walk ตาเส้นเลือดในสมองแตก นอนติดเตียง น้ำเข้าชั้นสองแล้ว ไม่มีน้ำกิน ขาดมาม่า", "message_type": "help_request", "flags": ["wheelchair", "bedridden"], "needs": ["water", "food"], "water_level": "floor2"}
+{"text": "kid 4 years old ลูก 3 ขวบ คุณตา 77 ปี หนีขึ้นชั้นบนนำ้ก็ตามมา ขอเจ็ตสกีมารับ อาหารยังพอกินอีกหลายวัน since yesterday โทร 087-xxx-8110", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "floor2"}
+{"text": "ฝากแชร์หน่อย Khlong Hae soi 2 kid 7 years old คนแก่ 74 ปี รวม 8 คน คุณตาเป็นโรคหัวใจ ขึ้นไปรอบนหลังคาแล้ว อาหารหมด", "message_type": "help_request", "flags": ["heart"], "needs": ["food"], "water_level": "roof"}
+{"text": "แจ้งแทนญาติครับ,แถวKhoHong,หลานอายุสิบขวบ,เมียตั้งครรภ์ใกล้คลอด", "message_type": "help_request", "flags": ["pregnant"], "needs": [], "water_level": null}
+{"text": "เพื่อนส่งข้อความมาว่า แถวคอหงส์ kid 10 years old หลานอายุ 7 ขวบ คนแก่ 92 ปี ลูกสาวตั้งครรภ์ใกล้คลอด อยู่ตึกแถวชั้น 3 ไม่มียาลดไข้ ช่วยมารับออกไปที", "message_type": "help_request", "flags": ["pregnant"], "needs": ["medicine", "evacuation"], "water_level": null}
+{"text": "SOS, คลองแห ใกล้ตลาดน้ำ, อยู่กัน 3 คน, บ้านชั้นเดียวจมมิดแล้ว, ข้าวยังมีพอ, โทร 089-xxx-8492", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor1"}
+{"text": "ควนลัง ซ.ควนลัง 5 เด็ก สี่ เดือน kid 2 years old ผู้ใหญ่ สี่ คน น้ำเข้าห้องนอนชั้น 2 ขาดนม อาหารหมด", "message_type": "help_request", "flags": [], "needs": ["milk", "food"], "water_level": "floor2"}
+{"text": "ขอความช่วยเหลือด่วน, แถวคอหงส์, ลูก 11 ขวบ, เด็ก 1 ขวบ, grandma 83 y/o, water chest deep, นมเด็กหมด, อาหารยังพอกินอีกหลายวัน", "message_type": "help_request", "flags": [], "needs": ["milk"], "water_level": "chest"}
+{"text": "ซ.สังทิศ 1 คอหงส์ ในบ้านมี 2 คน ปู่เดินเองไม่ไหว ลุงตาบอดสนิท ต้องมีคนจูง น้ำระดับเอว since yesterday", "message_type": "help_request", "flags": ["wheelchair", "disabled_blind"], "needs": [], "water_level": "waist"}
+{"text": "please help ซ.คลองแห 2 คลองแห ย่า 94 ปี น้ำถึงเอว ออกซิเจนใกล้หมด น้ำดื่มยังมีพอ ติดต่อ 090xxx6352", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "waist"}
+{"text": "แถวคอหงส์, รวม 5 คน, ย่า uses a wheelchair, น้ำขึ้นถึงพื้นชั้นสอง, โทร 081-xxx-5452", "message_type": "help_request", "flags": ["wheelchair"], "needs": [], "water_level": "floor2"}
+{"text": "ใครอยู่ใกล้ช่วยที\nแถวถนนเพชรเกษม\nเด็กอ่อนหนึ่งเดือน\nเด็ก4ขวบ\nอยู่กันสามคน\nน้ำเข้าห้องนอนชั้น2\n2คืนแล้ว", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor2"}
+{"text": "ญาติโทรมาบอกว่า, แถวคลองเตย, 4 คืนแล้วว", "message_type": "help_request", "flags": [], "needs": [], "water_level": null}
+{"text": "แถวน้ำน้อย\nไฟรั่วลงน้ำ\nชาวบ้านแถวนั้นเตรียมย้ายของขึ้นที่สูง", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนมาก!! บ้านเลขที่ 99 ซ.คลองแห 2 คลองแห อยู่กัน 3 คน ภรรยาโดนกระแสน้ำพัดชนกำแพง แบตจะหมด", "message_type": "help_request", "flags": ["injured"], "needs": ["power"], "water_level": null}
+{"text": "แถวKho Hong\nหลานอายุ 2 ขวบ\nหลานอายุ สิบสอง ขวบ\nในบ้านมี เก้า คน\nน้ำระดับเอว\nขอน้ำดื่ม\nแบตเหลือ 5%\nโทร 081-xxx-5108", "message_type": "help_request", "flags": [], "needs": ["water", "power"], "water_level": "waist"}
+{"text": "ข่าวจากหน้างาน ถนนครูจีน น้ำวนแรงตรงคอสะพาน ชาวบ้านแถวนั้นเตรียมย้ายของขึ้นที่สูง", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ญาติโทรมาบอกว่า, บ้านเลขที่ 195 ริมคลอง ร.1 คลองเตย, ตาอายุ 88, รวม 9 คน, water knee deep, ขาดมาม่า, ติดต่อ 096xxx8121", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "knee"}
+{"text": "ขอบคุณทีมกู้ภัยมากค่ะ บ้านที่แจ้งไว้ อยู่ศูนย์อพยพแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ญาติโทรมาบอกว่า, บ้านเลขที่ 275 หมู่ 3 นำ้น้อย น้ำน้อย, หลานอายุ 6 ขวบ, คุณตาอายุ 90, ในบ้านมี เก้า คน, น้ำขึ้นชั้น 2 แล้ว, โทร 084-xxx-1303", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor2"}
+{"text": "เพื่อนส่งข้อความมาว่า คลองเตย ซ.คลองเตย 3 อยู่กัน 2 คน ไม่มีผู้ป่วยนะ น้ำสูงเกือบมิดหัว 3 คืนแล้ว โทร 086-xxx-7861", "message_type": "help_request", "flags": [], "needs": [], "water_level": "chest"}
+{"text": "แถวคลองแห, คนแก่ 87 ปี, 5 people, พี่สาวหลังผ่าตัดสมอง นอนอย่างเดียว, นำ้สูงเลยเอวแล้ว, แบตเหลือ 5%, พาออกไปที่ปลอดภัยที", "message_type": "help_request", "flags": ["bedridden"], "needs": ["power", "evacuation"], "water_level": "waist"}
+{"text": "บ้านข้างๆ ยังติดอยู่ Khlong Hae soi 2 newborn 16 days old นำ้ยังตื้นแค่ข้อเท้า ติดต่อ 094xxx2631", "message_type": "help_request", "flags": [], "needs": [], "water_level": "knee"}
+{"text": "แจ้งแทนญาติครับ ซ.สังทิศ 1 คอหงส์ 3 people แม่จมน้ำ หมดสติไปพักนึง น้ำขึ้นถึงพื้นชั้นสอง ขอน้ำดื่ม ตั้งแต่เมื่อวาน ติดต่อ 091xxx9278", "message_type": "help_request", "flags": ["injured"], "needs": ["water"], "water_level": "floor2"}
+{"text": "ทำข้าวแกงแจก 300 ห่อ, ควนลัง", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ระวัง!ควนลังมีจระเข้หลุดออกมา", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "help! บ้านเลขที่ 245 ซ.ควนลัง 5 ควนลัง อยู่บนหลังคา ไม่มีอะไรจะกิน แบตจะหมด โทร 084-xxx-2125", "message_type": "help_request", "flags": [], "needs": ["food", "power"], "water_level": "roof"}
+{"text": "แถวคอหงส์ ในบ้านมี สอง คน we are on the roof ช่วยไปรับที no food need medicine โทร 085-xxx-9631", "message_type": "help_request", "flags": [], "needs": ["evacuation", "food", "medicine"], "water_level": "roof"}
+{"text": "ระวัง!, แถวควนลัง, มีจระเข้หลุดออกมา, ใครลุยน้ำแถวนั้นระวังด้วย", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ข่าวจากหน้างาน ทุ่งเสา กระแสนำ้แรงมาก เรือเล็กพลิกไปแล้วว avoid this route", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "help!, คนแก่ 95 ปี, รวม 5 คน, น้ำรอบบ้านลึกระดับเอว, ไม่มีน้ำกิน", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "waist"}
+{"text": "ตอนนี้ 2 people เมียครรภ์ 8 เดือน น้ำท่วมเต็มชั้นล่าง no food โทร 088-xxx-3676", "message_type": "help_request", "flags": ["pregnant"], "needs": ["food"], "water_level": "floor1"}
+{"text": "please help บ้านเลขที่ 188 ใกล้วัดครูจีน ถนนครูจีน ตาเจ็ดสิบห้า ยายเป็นอัมพฤกษ์ครึ่งซีก นำ้เข้าห้องนอนชั้น 2 3 คืนแล้ว โทร 083-xxx-8258", "message_type": "help_request", "flags": ["bedridden"], "needs": [], "water_level": "floor2"}
+{"text": "🙏 ช่วยด้วย ถ.ปุณณกัณฑ์ คอหงส์ kid 4 years old ลูก 3 ขวบ grandma 96 y/o ในบ้านมี 10 คน ชั้นล่างไม่เหลือแล้วว ติดมา หนึ่ง วันแล้ว", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor1"}
+{"text": "help! ป้าอายุ 81 รวม 5 คน น้ำระดับเอว no drinking water ติดมา ห้า วันแล้ว ติดต่อ 098xxx1666", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "waist"}
+{"text": "SOS บ้านเลขที่ 32 ใกล้ อบต.ควนลัง ควนลัง 7 people พี่ชายถูกไฟดูด water waist high อยากอพยพออก ไฟดับ โทรศัพท์ใกล้ดับ โทร 085-xxx-7609", "message_type": "help_request", "flags": ["injured"], "needs": ["evacuation", "power"], "water_level": "waist"}
+{"text": "update: พ่อแม่ กู้ภัยพาออกมาครบทุกคนแล้วว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ญาติโทรมาบอกว่า แถวKhlong Hae รวม 9 คน แม่แน่นหน้าอก หายใจไม่ออก ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": ["heart"], "needs": [], "water_level": null}
+{"text": "ฝากแชร์หน่อย Khlong Hae soi 2 หนีขึ้นชั้นบนน้ำก็ตามมา ติดต่อ 095xxx8729", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor2"}
+{"text": "เพื่อนส่งข้อความมาว่า, บ้านเลขที่ 9 ซ.สังทิศ 1 คอหงส์, ลูก 1 ขวบ, ลูกสาวเริ่มมีอาการจะคลอด, นำ้สูงเลยเอวแล้วว, ไฟดับ โทรศัพท์ใกล้ดับ, since yesterday", "message_type": "help_request", "flags": ["pregnant"], "needs": ["power"], "water_level": "waist"}
+{"text": "ในบ้านมี 7 คน\nแม่แน่นหน้าอก หายใจม่ายออก\nพี่ชายล้มหัวฟาด ตอนนี้ซึมๆ\nน้ำถึงเข่า\nไม่ได้กินข้าวมาทั้งวัน\nยังไม่ต้องอพยพ", "message_type": "help_request", "flags": ["heart", "injured"], "needs": ["food"], "water_level": "knee"}
+{"text": "ทารก 2 เดือน หลานอายุ 12 ขวบ ย่าต้องให้อาหารทางสายยาง น้ำท่วมระดับเข่า ขอน้ำดื่ม since yesterday โทร 082-xxx-4415", "message_type": "help_request", "flags": ["bedridden"], "needs": ["water"], "water_level": "knee"}
+{"text": "ใครอยู่ใกล้ชวยที\nแถวKhlong Hae\nผู้ใหญ่ 7 คน\nชั้นล่างน้ำเต็ม\nยาประจำตัวหมด\nsince yesterday\nโทร 084-xxx-9643", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "floor1"}
+{"text": "ช่วยด้วยคะ ควนลัง ซ.ควนลัง 5 ทารกแรกเกิด อายุ 17 วัน ลูกอ่อน 7 เดือน 10 people ลุงตาบอดสนิท ต้องมีคนจูง น้ำเข้าชั้นสองแล้ว ขอพาวเวอร์แบงค์ no drinking water ของกินหมดเกลี้ยง", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["power", "water", "food"], "water_level": "floor2"}
+{"text": "🙏ช่วยด้วยบ้านเลขที่279ใกล้ตลาดน้ำคลองแห8peopleสามีใช้รถเข็นภรรยามีโรคหัวใจประจำตัวหนีขึ้นดาดฟ้าphonebatterydyingตั้งแต่เมื่อวานติดต่อ098xxx8124", "message_type": "help_request", "flags": ["wheelchair", "heart"], "needs": ["power"], "water_level": "roof"}
+{"text": "บ้านข้างๆ ยังติดอยู่\nไม่มีผู้ป่วยนะ\nน้ำขึ้นชั้น 2 แล้ว\nตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor2"}
+{"text": "เพื่อนส่งข้อความมาว่า ในบ้านมี แปด คน พ่อโดนรถที่ลอยมาชน นำ้เข้าชั้นสองแล้ว อินซูลินหมด ติดต่อ 096xxx3103", "message_type": "help_request", "flags": ["injured"], "needs": ["medicine"], "water_level": "floor2"}
+{"text": "ขอเป็นอาสาขับเรือ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "เป็นกำลังใจให้ทุกคน ดูไลฟ์อยู่", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "มีรถกระบะยกสูงว่าง, แถวKhlong Hae, ใครอยากชาร์จแบตมาได้", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "อัพเดตเคส ผู้ป่วยติดเตียง เรือมารับออกมาแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ลบโพสต์ได้แล้ว, บ้านที่แจ้งไว้, is safe now", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ซ.น้ำน้อย 1 น้ำน้อย ลูกสาวน้ำคร่ำเดิน อยู่คอนโดชั้น 6 ไม่มียาลดไข้ ไม่มีน้ำกิน need rescue since yesterday", "message_type": "help_request", "flags": ["pregnant"], "needs": ["medicine", "water", "evacuation"], "water_level": null}
+{"text": "ใครอยู่ใกล้ช่วยที ริมคลอง ร.1 คลองเตย รวม 6 คน คุณยายต้องฟอกไต นำ้ขึ้นชั้น 2 แล้วว since yesterday ติดต่อ 092xxx8517", "message_type": "help_request", "flags": ["dialysis"], "needs": [], "water_level": "floor2"}
+{"text": "แจ้งเตือน ซ.ครูจีน 1 ถนนครูจีน น้ำลึกเกินเมตร รถเล็กอย่าเข้า เลี่ยงไปทางอื่น", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "เป็นกำลังใจให้ทุกคน", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนมาก!! น้ำขึ้นชั้น 2 แล้ว น้ำเปล่าหมดแล้ว since yesterday", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "floor2"}
+{"text": "ตอนนี้ บ้านเลขที่ 167 ซ.สังทิศ 1 คอหงส์ ลูก 10 ขวบ เด็ก 3 เดือน คนแก่ 68 ปี น้ำท่วมเต็มชั้นล่าง รอเรือมารับ ขอข้าวกล่อง ติดต่อ 095xxx2503", "message_type": "help_request", "flags": [], "needs": ["evacuation", "food"], "water_level": "floor1"}
+{"text": "warning: แถวควนลัง ประตูระบายน้ำจะเปิดคืนนี้ น้ำจะขึ้นเร็ว กู้ภัยกำลังเข้าไปดู", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "อัปเดต: เคสเด็กเล็ก ที่ถนนเพชรเกษม ปลอดภัยแล้วนะคะ", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ฝากแชร์หน่อย, ควนลัง ซ.ควนลัง 5, อยู่ตึกแถวชั้น 3, ม่ายมีไฟชาร์จมือถือ, ไม่มีอะไรจะกิน, ออกซิเจนใกล้หมด, โทร 081-xxx-4610", "message_type": "help_request", "flags": [], "needs": ["power", "food", "medicine"], "water_level": null}
+{"text": "ชวยด้วยคะ ถนนครูจีน ใกล้วัดครูจีน เด็ก 10 ขวบ น้ำถึงสะโพก พาออกไปที่ปลอดภัยที ออกซิเจนใกล้หมด ติดต่อ 096xxx4999", "message_type": "help_request", "flags": [], "needs": ["evacuation", "medicine"], "water_level": "waist"}
+{"text": "ยาย 91 ปี\nอยู่กัน หนึ่ง คน\nทุกคนแข็งแรงดี\nน้ำเข้าชั้นสองแล้วว\nขอเจ็ตสกีมารับ\nไม่มีน้ำกิน", "message_type": "help_request", "flags": [], "needs": ["evacuation", "water"], "water_level": "floor2"}
+{"text": "ทุ่งเสา ซ.ทุ่งเสา 4, น้ำถึงเอว, น้ำกินยังพอ", "message_type": "help_request", "flags": [], "needs": [], "water_level": "waist"}
+{"text": "แจ้งแทนญาติคับ soi 2 Khlong Hae หลานอายุ สิบ ขวบ คนแก่ 62 ปี ผู้ใหญ่ เก้า คน หนีขึ้นชั้นบนน้ำก็ตามมา ไม่มีไฟชาร์จมือถือ ชวยไปรับที since yesterday ติดต่อ 098xxx3211", "message_type": "help_request", "flags": [], "needs": ["power", "evacuation"], "water_level": "floor2"}
+{"text": "บ้านข้างๆ ยังติดอยู่, kid 1 years old, คนแก่ 71 ปี, น้ำสูงเลยเอวแล้วว, น้ำดื่มหมด, 2 คืนแล้ว, โทร 083-xxx-9210", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "waist"}
+{"text": "SOS, บ้านเลขที่ 43 หลังตลาดเขต 8 เขต 8, ย่า 62 ปี, ผู้ใหญ่ 5 คน, คุณตาเพิ่งทำบายพาส, น้ำท่วมมิดชั้น 1, ไม่มีนมให้ลูก, ติดต่อ 097xxx5141", "message_type": "help_request", "flags": ["heart"], "needs": ["milk"], "water_level": "floor1"}
+{"text": "stay safe everyone", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "คลองเตย ริมคลอง ร.1, kid 5 years old, kid 4 years old, พ่ออายุ 94, ยายล้มหัวฟาด ตอนนี้ซึมๆ, น้ำสูงเลยเอวแล้ว, อยากอพยพออก, ติดต่อ 097xxx6715", "message_type": "help_request", "flags": ["injured"], "needs": ["evacuation"], "water_level": "waist"}
+{"text": "คุณยาย, has been rescued", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ญาติโทรมาบอกว่า, ติดคลองอู่ตะเภา ทุ่งเสา, kid 11 years old, เด็ก 12 ขวบ, ย่าอายุ 84, รวม 5 คน, ขอน้ำดื่ม, ติดต่อ 090xxx3486", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": null}
+{"text": "ญาติโทรมาบอกว่า ตรงข้ามโรงเรียน ถนนเพชรเกษม ย่าอายุ 91 รวม 8 คน นำ้ถึงอก แบตจะหมด ยาเบาหวานหมด โทร 082-xxx-2460", "message_type": "help_request", "flags": [], "needs": ["power", "medicine"], "water_level": "chest"}
+{"text": "ปีหน้าจะท่วมอีกไหมเนี่ย", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนมาก!! ยายเก้าสิบ ผู้ใหญ่ 8 คน ปู่ไตเสื่อม ต้องไปฟอกที่โรงพยาบาลอาทิตย์ละ 3 ครั้ง water chest deep ขอพาวเวอร์แบงค์ ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": ["dialysis"], "needs": ["power"], "water_level": "chest"}
+{"text": "อาสาเรือฝากบอก ใกล้วัดครูจีน ถนนครูจีน มีจระเข้หลุดออกมา เลี่ยงไปทางอื่น", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ถนนเพชรเกษม ตรงข้ามโรงเรียน\nปู่ cannot walk\nหนีขึ้นชั้นบนน้ำก็ตามมา\nแบตจะหมด\nน้ำดื่มหมด\nยาเหลือ 1 วัน\nโทร 086-xxx-7218", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["power", "water", "medicine"], "water_level": "floor2"}
+{"text": "เขต8ซ.ศรีภูวนารถ2\nลูก11ขวบ\ngrandma83y/o\nอยู่กัน4คน\nภรรยาขาพิการขยับเองไม่ได้\nweareontheroof\npleasesendaboat\nติดมา5วันแล้ว\nโทร086-xxx-9496", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["evacuation"], "water_level": "roof"}
+{"text": "รบกวนประสานกู้ภัย, บ้านเลขที่ 31 soi 2 Khlong Hae, รวม 5 คน, น้ำถึงหน้าอก, ยังไม่อยากออกจากบ้าน, ติดต่อ 099xxx1586", "message_type": "help_request", "flags": [], "needs": [], "water_level": "chest"}
+{"text": "SOS, ซ.ทุ่งเสา 4 ทุ่งเสา, คนแก่ 72 ปี, ป้าเป็นอัมพาต นอนอยู่บนเตียงตลอด, น้ำถึงตาตุ่ม, ขาดน้ำดื่ม, นมสูตรหมด", "message_type": "help_request", "flags": ["bedridden"], "needs": ["water", "milk"], "water_level": "knee"}
+{"text": "ขอความช่วยเหลือด่วน\nบ้านเลขที่ 267 ซ.ทุ่งเสา 4 ทุ่งเสา\npregnant woman here\nน้ำเข้าห้องนอนชั้น 2\nแบตจะหมด\nยังไม่อยากออกจากบ้าน", "message_type": "help_request", "flags": ["pregnant"], "needs": ["power"], "water_level": "floor2"}
+{"text": "ฝากแชร์หน่อย ซ.ทุ่งเสา 4 ทุ่งเสา 9 people flood reached second floor ขอเรือมารับ", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "floor2"}
+{"text": "ลูก 10 ขวบ\nคนแก่ 91 ปี\n7 people\nน้ำเข้าห้องนอนชั้น 2\nชวยมารับออกไปที\nไฟดับ มือถือจะดับ\nออกซิเจนใกล้หมด\nโทร 083-xxx-7047", "message_type": "help_request", "flags": [], "needs": ["evacuation", "power", "medicine"], "water_level": "floor2"}
+{"text": "บ้านข้างๆ ยังติดอยู่ แถวควนลัง ในบ้านมี 3 คน ปู่เป็นโรคไตระยะสุดท้าย หนีขึ้นดาดฟ้า น้ำดื่มหมด ยาเบาหวานหมด ไฟดับ โทรศัพท์ใกล้ดับ", "message_type": "help_request", "flags": ["dialysis"], "needs": ["water", "medicine", "power"], "water_level": "roof"}
+{"text": "ขอบคุณทุกคนที่แชร์, คุณยาย, ที่ถนนเพชรเกษม, ถึงโรงพยาบาลเรียบร้อยแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านเลขที่ 219 หลังวัดบ้านพรุ บ้านพรุ, ลุงแปดสิบเจ็ด, ผู้ใหญ่ สาม คน, พี่สาวน้ำคร่ำเดิน, น้ำเริ่มเข้าบ้าน ท่วมพื้น, ยาใกล้หมด, ขอเรือมารับ, since yesterday", "message_type": "help_request", "flags": ["pregnant"], "needs": ["medicine", "evacuation"], "water_level": "knee"}
+{"text": "SOS ติดคลองอู่ตะเภา ทุ่งเสา ผู้ใหญ่ 2 คน ทุกคนโอเค น้ำท่วมมิดชั้น 1 ชวยมารับออกไปที นมเด็กหมด ติดต่อ 096xxx9285", "message_type": "help_request", "flags": [], "needs": ["evacuation", "milk"], "water_level": "floor1"}
+{"text": "help!nearPSUKhoHongน้ำท่วมถึงคอขาดน้ำดื่มphonebatterydyingอยากออกจากบ้านตั้งแต่เมื่อวานโทร086-xxx-9783", "message_type": "help_request", "flags": [], "needs": ["water", "power", "evacuation"], "water_level": "chest"}
+{"text": "มีเรือพาย 1 ลำ พร้อมลงพื้นที่ Khlong Hae soi 2", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "help! ยายแปดสิบสี่ น้ำระดับเอว น้ำขวดหมด ติดต่อ 093xxx8731", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "waist"}
+{"text": "ขอเป็นอาสาขับเรือ\nถนนครูจีน\nติดต่อได้ที่เพจ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "สงสารคนแก่กับเด็กมาก", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "แถวบ้านพรุ, ผู้ใหญ่ 9 คน, น้ามีโรคหัวใจประจำตัว, พ่อป่วยหนักลุกจากเตียงไม่ได้, นำ้มิดอกแล้ว, น้ำขวดหมด, หิวมาก, phone battery dying, ยังไม่อยากออกจากบ้าน", "message_type": "help_request", "flags": ["heart", "bedridden"], "needs": ["water", "food", "power"], "water_level": "chest"}
+{"text": "แถวควนลัง ผู้ใหญ่ ห้า คน มีคนไข้ฟอกไต ขาดฟอกมา 2 วัน น้ำถึงตาตุ่ม please send a boat ยาใกล้หมด ขอน้ำดื่ม ตั้งแต่เมื่อวาน ติดต่อ 094xxx1538", "message_type": "help_request", "flags": ["dialysis"], "needs": ["evacuation", "medicine", "water"], "water_level": "knee"}
+{"text": "ฝากแชร์หน่อย\nnear PSU Kho Hong\nหลานอายุ 3 ขวบ\nผู้ใหญ่ 8 คน\nอยู่ตึกแถวชั้น 3\nไม่มีน้ำกิน\nแบตจะหมด\nติดต่อ 097xxx8039", "message_type": "help_request", "flags": [], "needs": ["water", "power"], "water_level": null}
+{"text": "รับบริจาคเสื้อผ้า", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ใกล้ตลาดน้ำ คลองแห\n1 people\nอยู่ตึกแถวชั้น 3\nเหลือมาม่าห่อเดียว\nน้ำดื่มยังมีพอ\n1 คืนแล้ว", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": null}
+{"text": "please help บ้านเลขที่ 42 ซ.ศรีภูวนารถ 2 เขต 8 ปู่อายุ 67 อยู่กัน 2 คน คุณยายลื่นล้ม ขาหัก please send a boat ติดต่อ 090xxx3052", "message_type": "help_request", "flags": ["injured"], "needs": ["evacuation"], "water_level": null}
+{"text": "ขอความชวยเหลือด่วน คลองเตย ริมคลอง ร.1 อยู่กัน 1 คน พ่อ uses a wheelchair น้ำท่วมถึงคอ ไม่มีไฟชาร์จมือถือ ขอเรือมารับ น้ำดื่มยังมีพอ 2 คืนแล้ว ติดต่อ 092xxx8523", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["power", "evacuation"], "water_level": "chest"}
+{"text": "ญาติโทรมาบอกว่า\nบ้านเลขที่ 68 หมู่ 3 น้ำน้อย น้ำน้อย\nผู้ใหญ่ 2 คน\nwater chest deep\nแบตเหลือ 5%\nยังไม่ต้องอพยพ", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "chest"}
+{"text": "ตอนนี้ถ.ปุณณกัณฑ์คอหงส์หลานอายุ6ขวบbaby6monthsรวม11คนคุณตาเดินเองไม่ไหวน้ำรอบบ้านลึกระดับเอวไม่มีนมให้ลูกตั้งแต่เมื่อวานติดต่อ095xxx2252", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["milk"], "water_level": "waist"}
+{"text": "Khlong Hae soi 2, kid 10 years old, คุณยาย 84 ปี, อยู่กัน 4 คน, นำ้ท่วมมิดชั้น 1, ขอพาวเวอร์แบงค์, no food, โทร 089-xxx-8567", "message_type": "help_request", "flags": [], "needs": ["power", "food"], "water_level": "floor1"}
+{"text": "มีชุดชูชีพ 100 ตัวให้ยืม, ถนนครูจีน, ส่งไปที่ไหนดีครับ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "น้ำน้อย หมู่ 3 น้ำน้อย\nคุณตาหัวใจเต้นผิดจังหวะ\nชั้นล่างม่ายเหลือแล้วว\nช่วยไปรับที\nโทร 084-xxx-6851", "message_type": "help_request", "flags": ["heart"], "needs": ["evacuation"], "water_level": "floor1"}
+{"text": "ใครอยู่ใกล้ช่วยที แถวKho Hong ลูก 2 ขวบ อยู่กัน 2 คน คุณตาเพิ่งผ่าตัดหัวใจ น้ำขึ้นถึงพื้นชั้นสอง need medicine โทร 086-xxx-6956", "message_type": "help_request", "flags": ["heart"], "needs": ["medicine"], "water_level": "floor2"}
+{"text": "ตอนนี้ หลังตลาดเขต 8 เขต 8 คุณตาหกสิบสาม รวม 4 คน ย่าลื่นล้ม ขาหัก นั่งอยู่บนหลังคาบ้าน รอเรือมารับ โทร 082-xxx-8719", "message_type": "help_request", "flags": ["injured"], "needs": ["evacuation"], "water_level": "roof"}
+{"text": "หน่วยงานไปไหนกันหมด,ปีหน้าจะท่วมอีกไหมเนี่ย", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ปู่ 78 ปี\nลุยน้ำระดับอก\nไม่มีไฟชาร์จมือถือ\nช่วยไปรับที\n2 คืนแล้ว", "message_type": "help_request", "flags": [], "needs": ["power", "evacuation"], "water_level": "chest"}
+{"text": "หน่วยงานไปไหนกันหมด, ดูข่าวแล้วใจหาย", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "เพื่อนส่งข้อความมาว่า บ้านพรุ หลังวัดบ้านพรุ อยู่กัน 9 คน แม่มีโรคหัวใจประจำตัว ยายบาดเจ็บ แผลลึก น้ำขึ้นชั้น 2 แล้ว no drinking water", "message_type": "help_request", "flags": ["heart", "injured"], "needs": ["water"], "water_level": "floor2"}
+{"text": "warning:\nคลองเตย\nสะพานไม้พังแล้วว\navoid this route", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ปีหน้าจะท่วมอีกไหมเนี่ย", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านเลขที่ 90 soi 2 Khlong Hae\nทารกแรกเกิด อายุ 16 วัน\nรวม 7 คน\nภรรยาโดนรถที่ลอยมาชน\nน้ำเปล่าหมดแล้ว\nอยากอพยพออก\nโทร 088-xxx-1002", "message_type": "help_request", "flags": ["injured"], "needs": ["water", "evacuation"], "water_level": null}
+{"text": "ขอความช่วยเหลือด่วน ทุ่งเสา ซ.ทุ่งเสา 4 ทารก 7 เดือน grandma 66 y/o สามีเดินเองไม่ไหว น้ำระดับเอว ช่วยมารับออกไปที ขาดมาม่า need medicine โทร 083-xxx-5805", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["evacuation", "food", "medicine"], "water_level": "waist"}
+{"text": "help! แถวเขต 8 คุณยายอายุ หกสิบเอ็ด ในบ้านมี 8 คน ไม่มีน้ำกิน 2 คืนแล้ว โทร 085-xxx-2310", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": null}
+{"text": "รบกวนประสานกู้ภัย, Kho Hong near PSU, พ่อ 92 ปี, ผู้ใหญ่ 6 คน, water chest deep, need rescue", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "chest"}
+{"text": "help!\nควนลัง ซ.ควนลัง 5\nยายขาพิการ ขยับเองไม่ได้\nชั้นล่างจมทั้งหมด\nsince yesterday", "message_type": "help_request", "flags": ["wheelchair"], "needs": [], "water_level": "floor1"}
+{"text": "ช่วยด้วยค่ะ,คลองแหใกล้ตลาดน้ำ,น้ำถึงเอว,ไฟดับมือถือจะดับ,ไม่มีน้ำกิน", "message_type": "help_request", "flags": [], "needs": ["power", "water"], "water_level": "waist"}
+{"text": "ญาติโทรมาบอกว่า บ้านเลขที่ 254 near PSU Kho Hong kid 4 years old ทุกคนแข็งแรงดี บ้านชั้นเดียวจมมิดแล้ว ขาดน้ำดื่ม ยังไม่อยากออกจากบ้าน โทร 085-xxx-3515", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "floor1"}
+{"text": "🙏 ช่วยด้วย, ยายหกสิบแปด, ขอน้ำดื่ม, ม่ายมีไฟชาร์จมือถือ, ติดต่อ 097xxx3977", "message_type": "help_request", "flags": [], "needs": ["water", "power"], "water_level": null}
+{"text": "แจ้งปิดเคส ผู้ป่วยติดเตียง ที่ถนนเพชรเกษม ได้รับความช่วยเหลือแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านเลขที่ 240 ซ.ศรีภูวนารถ 2 เขต 8, ลูก 1 ขวบ, น้าพิการทางสายตา, ขอเจ็ตสกีมารับ, no food, ตั้งแต่เมื่อวาน, ติดต่อ 097xxx8556", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["evacuation", "food"], "water_level": null}
+{"text": "ขอเป็นอาสาขับเรือ แถวเขต 8 ใครอยากชาร์จแบตมาได้", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "please help ลูกเพิ่งเกิดได้ 18 วัน ในบ้านมี 5 คน หนีขึ้นดาดฟ้า ขอข้าวกล่อง ไม่มีนมให้ลูก โทร 081-xxx-6874", "message_type": "help_request", "flags": [], "needs": ["food", "milk"], "water_level": "roof"}
+{"text": "help!\nถนนเพชรเกษม ตรงข้ามโรงเรียน\ngrandma 78 y/o\nปู่ตาบอด\nอยู่บนหลังคา\nยาหมด", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["medicine"], "water_level": "roof"}
+{"text": "เพื่อนส่งข้อความมาว่า ทุ่งเสา ซ.ทุ่งเสา 4 น้ำรอบบ้านลึกระดับเอว ไม่มีน้ำกิน since yesterday", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "waist"}
+{"text": "Khlong Hae soi 2 อยู่กัน สี่ คน นำ้มิดอกแล้ว อยากอพยพออก โทร 087-xxx-9071", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "chest"}
+{"text": "ระวัง!\nทุ่งเสา ซ.ทุ่งเสา 4\nมีงูเยอะ", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ปีหน้าจะท่วมอีกไหมเนี่ย", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "เพื่อนส่งข้อความมาว่า ซ.คลองแห 2 คลองแห ป้าอายุ 80 water chest deep ขอเรือมารับ ติดมา หนึ่ง วันแล้ว", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "chest"}
+{"text": "ขอบคุณทุกคนที่แชร์\nfamily\nที่ถนนครูจีน\nกู้ภัยพาออกมาครบทุกคนแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านข้างๆ ยังติดอยู่ แถวควนลัง ปู่เก้าสิบสอง นั่งอยู่บนหลังคาบ้าน ของกินหมดเกลี้ยง", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "roof"}
+{"text": "บ้านพรุ ถ.กาญจนวนิช\nหลานอายุ 11 ขวบ\nเด็ก 2 ขวบ\nผู้ใหญ่ 2 คน\nนำ้ถึงตาตุ่ม\nno drinking water\nยาเหลือ 3 วัน\nข้าวยังมีพอ\n4 คืนแล้ว\nติดต่อ 090xxx9186", "message_type": "help_request", "flags": [], "needs": ["water", "medicine"], "water_level": "knee"}
+{"text": "ชวยกันแชร์เยอะๆ", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "นี่แหละเมืองเรา", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "มีเครื่องปั่นไฟให้ยืม 2 เครื่อง ติดต่อได้ที่เพจ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "help! ถนนครูจีน ซ.ครูจีน 1 คุณตา 72 ปี 7 people ไม่มีใครป่วย นำ้ถึงเอว ติดมา ห้า วันแล้ว", "message_type": "help_request", "flags": [], "needs": [], "water_level": "waist"}
+{"text": "⚠️ใกล้อบต.ควนลังควนลังนำ้ลึกเกินเมตรรถเล็กอย่าเข้าอย่าใช้ทางนี้", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ใครอยู่หาดใหญ่บ้าง ปลอดภัยไหม เป็นกำลังใจให้ทุกคน", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "แถวควนลัง\ngrandma 97 y/o\nอยู่กัน เก้า คน\nน้ำท่วมชั้นล่างหมดแล้ว\nอินซูลินหมด\nติดต่อ 093xxx2818", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "floor1"}
+{"text": "อัปเดต: คนท้อง ที่น้ำน้อย ได้รับความช่วยเหลือแล้ว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "แจ้งเตือน\nnear PSU Kho Hong\nถนนทรุด\nชาวบ้านแถวนั้นเตรียมย้ายของขึ้นที่สูง", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "จะส่งน้ำดื่ม 100 แพ็ค แถวควนลัง", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ช่วยด้วยคะ\nบ้านเลขที่ 188 ถ.กาญจนวนิช บ้านพรุ\nเด็กอ่อนสิบเอ็ดเดือน\nทารก 6 เดือน\ngrandma 60 y/o\nผู้ใหญ่ สอง คน\nมีคนไข้ฟอกไต ขาดฟอกมา 5 วัน\nขึ้นไปรอบนหลังคาแล้วว\nติดมา 5 วันแล้ว\nติดต่อ 092xxx3459", "message_type": "help_request", "flags": ["dialysis"], "needs": [], "water_level": "roof"}
+{"text": "ญาติโทรมาบอกว่าบ้านเลขที่247soi2KhlongHaeรวม3คนชั้นล่างนำ้เต็มไฟดับโทรศัพท์ใกล้ดับ1คืนแล้ว", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "floor1"}
+{"text": "อาสาเรือฝากบอก\nแถวคอหงส์\nน้ำลึกเกินเมตร รถเล็กอย่าเข้า\nใครลุยน้ำแถวนั้นระวังด้วย", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ตอนนี้ Khlong Hae soi 2 เด็ก แปด ขวบ ลูก 4 ขวบ อยู่บนหลังคา น้ำเปล่าหมดแล้ว", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "roof"}
+{"text": "ทีมกู้ภัยแจ้ง ถ.กาญจนวนิช บ้านพรุ ถนนทรุด กู้ภัยกำลังเข้าไปดู", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ฝากแชร์หน่อย, บ้านเลขที่ 13 ตรงข้ามโรงเรียน ถนนเพชรเกษม, ลูก 7 ขวบ, kid 1 years old, รวม 5 คน, น้าเดินเองไม่ไหว, น้ำท่วมถึงคอ, แบตเหลือ 5%, ไม่มีนมให้ลูก, ขาดน้ำดื่ม, อาหารยังพอกินอีกหลายวัน", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["power", "milk", "water"], "water_level": "chest"}
+{"text": "ใกล้ตลาดนำ้ คลองแห\nหลานอายุ 3 ขวบ\nลูก 12 ขวบ\nคุณยายถึงคิวฟอกไตแล้ววแต่ออกไปไม่ได้\nเมียท้องแก่จะคลอดแล้ว\nช่วยมารับออกไปที\nยาหมด\nตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": ["dialysis", "pregnant"], "needs": ["evacuation", "medicine"], "water_level": null}
+{"text": "บ้านข้างๆ ยังติดอยู่, ซ.เพชรเกษม 12 ถนนเพชรเกษม, หลานอายุ 4 ขวบ, รวม 7 คน, คุณตาต้องให้อาหารทางสายยาง, ไฟดับ มือถือจะดับ, since yesterday", "message_type": "help_request", "flags": ["bedridden"], "needs": ["power"], "water_level": null}
+{"text": "แชร์ไปแล้วนะ", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "แถวคลองเตย ในบ้านมี 7 คน water chest deep ไฟดับ โทรศัพท์ใกล้ดับ ยังม่ายต้องอพยพ since yesterday โทร 088-xxx-8758", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "chest"}
+{"text": "ทำข้าวแกงแจก 100 ห่อ\nKhlong Hae soi 2\nใครอยากชาร์จแบตมาได้", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ทำไมนำ้ท่วมทุกปี แก้ไม่ได้สักที", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "มีพาวเวอร์แบงค์แจก", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "เพื่อนส่งข้อความมาว่า,บ้านเลขที่241ซ.ทุ่งเสา4ทุ่งเสา,แม่อายุเก้าสิบหก,อยู่กันแปดคน,น้ำรอบบ้านลึกระดับเอว,ไฟดับมือถือจะดับ,โทร081-xxx-4738", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "waist"}
+{"text": "ญาติโทรมาบอกว่า แถวถนนครูจีน ผู้ใหญ่ 1 คน ปู่ตาบอดสนิท ต้องมีคนจูง สามี needs dialysis น้ำถึงสะโพก ช่วยมารับออกไปที ติดต่อ 096xxx7658", "message_type": "help_request", "flags": ["disabled_blind", "dialysis"], "needs": ["evacuation"], "water_level": "waist"}
+{"text": "ฝากแชร์หน่อย ติดคลองอู่ตะเภา ทุ่งเสา ผู้ใหญ่ 6 คน ลุงต้องมีคนพลิกตัวให้ ชั้นล่างน้ำเต็ม ไม่มีอาหาร ยาหมด", "message_type": "help_request", "flags": ["bedridden"], "needs": ["food", "medicine"], "water_level": "floor1"}
+{"text": "warning:\nเขต 8 หลังตลาดเขต 8\nน้ำลึกเกินเมตร รถเล็กอย่าเข้า\nกู้ภัยกำลังเข้าไปดู", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ข่าวจากหน้างาน\nแถวคลองแห\nตะขาบกับแมงป่องหนีนำ้ขึ้นบ้าน\nเลี่ยงไปทางอื่น", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "แถวคอหงส์, ไม่มีผู้ป่วยนะ, น้ำเปล่าหมดแล้ว, อยากออกจากบ้าน, โทร 081-xxx-6207", "message_type": "help_request", "flags": [], "needs": ["water", "evacuation"], "water_level": null}
+{"text": "help!,บ้านเลขที่179ริมคลองร.1คลองเตย,ลูก2ขวบ,ลูกอ่อน4เดือน,มีคนท้อง9เดือน,ไม่มีนมให้ลูก,2คืนแล้วว", "message_type": "help_request", "flags": ["pregnant"], "needs": ["milk"], "water_level": null}
+{"text": "รบกวนประสานกู้ภัย\nตาแปดสิบแปด\nตาโดนเศษกระจกบาด เลือดออกเยอะ\nน้ำยังตื้นแค่ข้อเท้า\nขอน้ำดื่ม\nติดต่อ 096xxx7131", "message_type": "help_request", "flags": ["injured"], "needs": ["water"], "water_level": "knee"}
+{"text": "รบกวนประสานกู้ภัย บ้านเลขที่ 277 ข้างโชว์รูม ถนนเพชรเกษม น้ำท่วมเต็มชั้นล่าง ยังไม่อยากออกจากบ้าน ติดมา 4 วันแล้ว", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor1"}
+{"text": "help! ตรงข้ามโรงเรียน ถนนเพชรเกษม ในบ้านมี 6 คน ไม่มีใครป่วย น้ำท่วมถึงชั้นบนแล้ว แบตเหลือ 5% พาออกไปที่ปลอดภัยที โทร 087-xxx-7952", "message_type": "help_request", "flags": [], "needs": ["power", "evacuation"], "water_level": "floor2"}
+{"text": "ใครอยู่ใกล้ช่วยที grandma 60 y/o อยู่กัน 5 คน คุณตาตาบอด ของกินหมดเกลี้ยง ติดต่อ 092xxx4769", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["food"], "water_level": null}
+{"text": "ระวัง! ซ.คลองแห 2 คลองแห ประตูระบายน้ำจะเปิดคืนนี้ น้ำจะขึ้นเร็ว ใครลุยน้ำแถวนั้นระวังด้วย", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "⚠️ ถ.กาญจนวนิช บ้านพรุ ประตูระบายน้ำจะเปิดคืนนี้ น้ำจะขึ้นเร็ว กู้ภัยกำลังเข้าไปดู", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านข้างๆยังติดอยู่,ติดคลองอู่ตะเภาทุ่งเสา,ภรรยาตาบอด,นำ้ถึงสะโพก,4คืนแล้ว", "message_type": "help_request", "flags": ["disabled_blind"], "needs": [], "water_level": "waist"}
+{"text": "ด่วนมาก!!\nบ้านเลขที่243หมู่3น้ำน้อยน้ำน้อย\nลูก9ขวบ\nรวม2คน\nป้าเพิ่งทำบายพาส\nลุยน้ำระดับอก\nรอเรือมารับ\nsinceyesterday\nโทร088-xxx-5798", "message_type": "help_request", "flags": ["heart"], "needs": ["evacuation"], "water_level": "chest"}
+{"text": "รับบริจาคเสื้อผ้า หลังตลาดเขต 8 เขต 8 ใครต้องการทักมา", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ถนนครูจีน ซ.ครูจีน 1, ทารก 11 เดือน, kid 5 years old, อยู่กัน 8 คน, น้ำรอบบ้านลึกระดับเอว, อินซูลินหมด, since yesterday", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "waist"}
+{"text": "แถวKho Hong 2 people น้ำขึ้นถึงพื้นชั้นสอง", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor2"}
+{"text": "แถวควนลัง ย่าต้องมีคนพลิกตัวให้ นำ้ท่วมเต็มชั้นล่าง since yesterday โทร 089-xxx-8338", "message_type": "help_request", "flags": ["bedridden"], "needs": [], "water_level": "floor1"}
+{"text": "ขอบคุณทีมกู้ภัยมากคะ, ผู้ป่วยติดเตียง, ปลอดภัยแล้วนะคะ", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนมาก!!\nถ.กาญจนวนิช บ้านพรุ\nbaby 2 months\ngrandma 60 y/o\nรวม 9 คน\nพี่สาวเป็นอัมพาต นอนอยู่บนเตียงตลอด\nwater chest deep\nขอนมสำหรับเด็ก\n3 คืนแล้ว\nติดต่อ 097xxx1178", "message_type": "help_request", "flags": ["bedridden"], "needs": ["milk"], "water_level": "chest"}
+{"text": "ใครอยู่ใกล้ช่วยที\nแถวเขต 8\nลูก 11 ขวบ\nทารก 10 เดือน\nอยู่กัน เจ็ด คน\nน้ำระดับเอว\nขาดอาหาร", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "waist"}
+{"text": "please help\nหลัง ม.อ. คอหงส์\nรวม 8 คน\nแม่ตาบอด\nน้ำสูงเกือบมิดหัว", "message_type": "help_request", "flags": ["disabled_blind"], "needs": [], "water_level": "chest"}
+{"text": "รวม 7 คน นำ้สูงเลยเอวแล้ว อินซูลินหมด ไฟดับ มือถือจะดับ ยังม่ายต้องอพยพ", "message_type": "help_request", "flags": [], "needs": ["medicine", "power"], "water_level": "waist"}
+{"text": "please help บ้านเลขที่ 257 ซ.ครูจีน 1 ถนนครูจีน คุณยายเดินไม่ได้ ชั้นล่างไม่เหลือแล้วว ข้าวก็หมด ยาหมด ติดต่อ 090xxx1926", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["food", "medicine"], "water_level": "floor1"}
+{"text": "ฝากแชร์หน่อย แถวคลองเตย แม่หกสิบแปด 2 people หนีขึ้นชั้นบนน้ำก็ตามมา ยาความดันหมด need rescue", "message_type": "help_request", "flags": [], "needs": ["medicine", "evacuation"], "water_level": "floor2"}
+{"text": "อัปเดต:, ผู้ป่วยติดเตียง, ที่บ้านพรุ, อยู่ศูนย์อพยพแล้วว", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "ช่วยด้วยค่ะ, พ่อเจ็ดสิบเจ็ด, แม่ has heart disease, ขาดมาม่า, นำ้ขวดหมด, ยังไม่ต้องอพยพ", "message_type": "help_request", "flags": ["heart"], "needs": ["food", "water"], "water_level": null}
+{"text": "ญาติโทรมาบอกว่า แถวทุ่งเสา ตา 90 ปี 2 people ทุกคนแข็งแรงดี น้ำถึงสะโพก แบตเหลือ 5% ตั้งแต่เมื่อวาน ติดต่อ 098xxx9489", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "waist"}
+{"text": "ดูข่าวแล้วใจหาย", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "แชร์ไปแล้วนะ", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "SOS\nแถวควนลัง\nอยู่ตึกแถวชั้น 3", "message_type": "help_request", "flags": [], "needs": [], "water_level": null}
+{"text": "ฝากแชร์หน่อย, near PSU Kho Hong, ในบ้านมี 4 คน, คุณยาย needs dialysis, น้ำท่วมมิดชั้น 1, อินซูลินหมด, แบตจะหมด", "message_type": "help_request", "flags": ["dialysis"], "needs": ["medicine", "power"], "water_level": "floor1"}
+{"text": "บ้านเลขที่ 19 หมู่ 3 นำ้น้อย น้ำน้อย ลูก 5 ขวบ ป้าอายุ 85 อยู่บนหลังคา need rescue น้ำดื่มหมด ตั้งแต่เมื่อวาน โทร 083-xxx-5691", "message_type": "help_request", "flags": [], "needs": ["evacuation", "water"], "water_level": "roof"}
+{"text": "รอดูว่าจะท่วมนานแค่ไหน ดูไลฟ์อยู่", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ระวัง! ตรงข้ามโรงเรียน ถนนเพชรเกษม สะพานไม้พังแล้ว กู้ภัยกำลังเข้าไปดู", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "แจ้งแทนญาติครับ Khlong Hae soi 2 คุณยายอายุ 89 ภรรยาไตไม่ทำงาน ตัวเริ่มบวมน้ำ ออกจากหมู่บ้านไม่ได้ อาหารหมด 4 คืนแล้ว", "message_type": "help_request", "flags": ["dialysis"], "needs": ["food"], "water_level": null}
+{"text": "มีเครื่องปั่นไฟให้ยืม 1 เครื่อง, บ้านพรุ, ติดต่อได้ที่เพจ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "we can donate 100 life jackets, ถนนครูจีน ซ.ครูจีน 1", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "แจ้งเตือน, ซ.ศรีภูวนารถ 2 เขต 8, น้ำวนแรงตรงคอสะพาน, กู้ภัยกำลังเข้าไปดู", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ควนลัง ซ.ควนลัง 5 อยู่กัน 8 คน ชั้นล่างจมทั้งหมด ขาดนม นำ้ดื่มยังมีพอ ติดต่อ 096xxx1156", "message_type": "help_request", "flags": [], "needs": ["milk"], "water_level": "floor1"}
+{"text": "🙏 ชวยด้วย\nซ.เพชรเกษม 12 ถนนเพชรเกษม\nลุงอายุ 80\nอยู่กัน 8 คน\nนำ้ขึ้นชั้น 2 แล้วว\nไฟดับ โทรศัพท์ใกล้ดับ\nติดมา 5 วันแล้ว\nติดต่อ 099xxx3314", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "floor2"}
+{"text": "help!, แถวถนนเพชรเกษม, ปู่อายุ 79, อยู่กัน 1 คน, นำ้ท่วมระดับเข่า", "message_type": "help_request", "flags": [], "needs": [], "water_level": "knee"}
+{"text": "ใครอยู่ใกล้ชวยที แถวKho Hong รวม 3 คน น้ำถึงสะโพก ยาเบาหวานหมด ติดต่อ 092xxx7445", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "waist"}
+{"text": "ใกล้ อบต.ควนลัง ควนลัง คนแก่ 60 ปี รวม 8 คน ชั้นล่างน้ำเต็ม น้ำเปล่าหมดแล้ว ยาหมด โทร 083-xxx-3379", "message_type": "help_request", "flags": [], "needs": ["water", "medicine"], "water_level": "floor1"}
+{"text": "บ้านเลขที่ 286 ซ.คลองเตย 3 คลองเตย kid 8 years old ทารก 5 เดือน ในบ้านมี 5 คน มีหญิงตั้งครรภ์อยู่ด้วย นำ้เริ่มเข้าบ้าน ท่วมพื้น ตั้งแต่เมื่อวาน โทร 081-xxx-1916", "message_type": "help_request", "flags": ["pregnant"], "needs": [], "water_level": "knee"}
+{"text": "ขอเป็นอาสาขับเรือ คลองเตย ใครขาดอะไรบอกได้", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "SOS, แถวน้ำน้อย, ลูก 11 ขวบ, อยู่กัน 5 คน, ย่า bedridden, น้ำสูงเลยเอวแล้วว, น้ำดื่มยังมีพอ, 4 คืนแล้ว, ติดต่อ 092xxx6179", "message_type": "help_request", "flags": ["bedridden"], "needs": [], "water_level": "waist"}
+{"text": "คอหงส์ หลัง ม.อ.\nย่า 89 ปี\nในบ้านมี สี่ คน\nน้ำเข้าชั้นสองแล้วว\nยาความดันหมด\nของกินหมดเกลี้ยง", "message_type": "help_request", "flags": [], "needs": ["medicine", "food"], "water_level": "floor2"}
+{"text": "ตอนนี้ หลังวัดบ้านพรุ บ้านพรุ คนแก่ 81 ปี 2 people ไม่มีใครป่วย น้ำท่วมมิดชั้น 1 ข้าวก็หมด ขาดน้ำดื่ม", "message_type": "help_request", "flags": [], "needs": ["food", "water"], "water_level": "floor1"}
+{"text": "ใครอยู่ใกล้ช่วยที, คนแก่ 89 ปี, นำ้ท่วมเต็มชั้นล่าง, อยากอพยพออก, ตั้งแต่เมื่อวาน, โทร 085-xxx-1387", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "floor1"}
+{"text": "เพื่อนส่งข้อความมาว่า บ้านพรุ หลังวัดบ้านพรุ พ่อ 74 ปี ภรรยาจมน้ำ หมดสติไปพักนึง น้ำสูงเลยเอวแล้ว ขอเรือมารับ ยาความดันหมด since yesterday", "message_type": "help_request", "flags": ["injured"], "needs": ["evacuation", "medicine"], "water_level": "waist"}
+{"text": "แจ้งปิดเคส\nfamily\nที่เขต 8\nis safe now", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "SOS\nรวม 5 คน\nน้าป่วยติดเตียง\npregnant woman here\nชั้นล่างนำ้เต็ม\nอยากอพยพออก\nขาดน้ำดื่ม", "message_type": "help_request", "flags": ["bedridden", "pregnant"], "needs": ["evacuation", "water"], "water_level": "floor1"}
+{"text": "ระวัง!\nnear PSU Kho Hong\nกระแสน้ำแรงมาก เรือเล็กพลิกไปแล้วว\nเลี่ยงไปทางอื่น", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "เพื่อนส่งข้อความมาว่า\nแถวKho Hong\nยายอายุ 81\nสามีแผลติดเชื้อ บวมแดง\nน้ำเริ่มเข้าบ้าน ท่วมพื้น\nยาใกล้หมด\nนมเด็กหมด\nยังไม่อยากออกจากบ้าน", "message_type": "help_request", "flags": ["injured"], "needs": ["medicine", "milk"], "water_level": "knee"}
+{"text": "ญาติโทรมาบอกว่า ใกล้วัดครูจีน ถนนครูจีน grandma 86 y/o 5 people พี่สาวแขนหัก น้าเดินไม่ได้ น้ำมิดอกแล้วว no drinking water", "message_type": "help_request", "flags": ["injured", "wheelchair"], "needs": ["water"], "water_level": "chest"}
+{"text": "เพื่อนส่งข้อความมาว่า, บ้านเลขที่ 66 ใกล้ อบต.ควนลัง ควนลัง, รวม 6 คน, พี่ชายแน่นหน้าอก หายใจไม่ออก, นำ้ท่วมมิดชั้น 1, please send a boat, 2 คืนแล้วว, โทร 087-xxx-4686", "message_type": "help_request", "flags": ["heart"], "needs": ["evacuation"], "water_level": "floor1"}
+{"text": "please help\nลูก 2 ขวบ\nลูก 7 ขวบ\nปู่เก้าสิบเจ็ด\nรวม 10 คน\nพี่ชายไตม่ายทำงาน ตัวเริ่มบวมน้ำ\nภรรยาตาบอดทั้งสองข้าง\nต้องปีนขึ้นหลังคา\nนมหมด\nsince yesterday", "message_type": "help_request", "flags": ["dialysis", "disabled_blind"], "needs": ["milk"], "water_level": "roof"}
+{"text": "🙏 ชวยด้วย หมู่ 3 น้ำน้อย น้ำน้อย หลานอายุ 6 ขวบ ตาตาบอดสนิท ต้องมีคนจูง น้ำถึงเอว since yesterday", "message_type": "help_request", "flags": ["disabled_blind"], "needs": [], "water_level": "waist"}
+{"text": "รบกวนประสานกู้ภัยบ้านเลขที่44ซ.คลองเตย3คลองเตยเด็ก10เดือนย่า80ปีรวม3คนน้ำเริ่มเข้าบ้านท่วมพื้นน้ำดื่มหมดขาดมาม่ายังม่ายต้องอพยพ", "message_type": "help_request", "flags": [], "needs": ["water", "food"], "water_level": "knee"}
+{"text": "ปู่ไตเสื่อม ต้องไปฟอกที่โรงพยาบาลอาทิตย์ละ 3 ครั้ง\nนำ้สูงเกือบมิดหัว\n2 คืนแล้ว", "message_type": "help_request", "flags": ["dialysis"], "needs": [], "water_level": "chest"}
+{"text": "ขอให้ทุกคนปลอดภัย 🙏", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ช่วยด้วยค่ะ ใกล้ตลาดน้ำ คลองแห เด็ก 1 ขวบ ผู้ใหญ่ 1 คน ขอยาด้วย 4 คืนแล้ว", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": null}
+{"text": "แถวควนลัง พ่อแปดสิบสาม อยู่กัน หก คน water waist high น้ำดื่มหมด ยาเบาหวานหมด ขอพาวเวอร์แบงค์ โทร 081-xxx-6744", "message_type": "help_request", "flags": [], "needs": ["water", "medicine", "power"], "water_level": "waist"}
+{"text": "เพื่อนส่งข้อความมาว่า แถวคลองแห เด็กอ่อนหกเดือน newborn 20 days old ย่า 62 ปี 11 people นำ้เข้าห้องนอนชั้น 2 ไม่ได้กินข้าวมาทั้งวัน please send a boat ติดต่อ 096xxx6277", "message_type": "help_request", "flags": [], "needs": ["food", "evacuation"], "water_level": "floor2"}
+{"text": "นี่แหละเมืองเรา ดูไลฟ์อยู่", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "อาสาเรือฝากบอก เขต 8 น้ำลึกเกินเมตร รถเล็กอย่าเข้า กู้ภัยกำลังเข้าไปดู", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "บ้านเลขที่ 274 ถ.ปุณณกัณฑ์ คอหงส์ รวม 1 คน flood reached second floor แบตจะหมด ขอนมสำหรับเด็ก 1 คืนแล้ว ติดต่อ 090xxx2950", "message_type": "help_request", "flags": [], "needs": ["power", "milk"], "water_level": "floor2"}
+{"text": "ช่วยด้วยค่ะ\nบ้านเลขที่ 231 soi 2 Khlong Hae\ngrandma 88 y/o\nในบ้านมี สอง คน\nลุงติดเตียง\nน้ำท่วมถึงชั้นบนแล้ว\nไม่มีไฟชาร์จมือถือ\nno drinking water\nติดต่อ 097xxx2135", "message_type": "help_request", "flags": ["bedridden"], "needs": ["power", "water"], "water_level": "floor2"}
+{"text": "ช่วยด้วยค่ะ ใกล้ อบต.ควนลัง ควนลัง kid 1 years old ในบ้านมี 8 คน อยากอพยพออก อาหารยังพอกินอีกหลายวัน ติดมา 3 วันแล้ว", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": null}
+{"text": "ฝากแชร์หน่อย\nsoi 2 Khlong Hae\nคุณตา 83 ปี\nสามีโดนเศษกระจกบาด เลือดออกเยอะ\nwater waist high\nนมหมด\nไฟดับ โทรศัพท์ใกล้ดับ\nโทร 087-xxx-3858", "message_type": "help_request", "flags": ["injured"], "needs": ["milk", "power"], "water_level": "waist"}
+{"text": "ญาติโทรมาบอกว่าคลองแหซ.คลองแห2ปู่67ปีในบ้านมี2คนเมียเริ่มมีอาการจะคลอดบ้านชั้นเดียวจมมิดแล้วneedmedicineอาหารยังพอกินอีกหลายวันติดต่อ090xxx1431", "message_type": "help_request", "flags": ["pregnant"], "needs": ["medicine"], "water_level": "floor1"}
+{"text": "help! แถวถนนเพชรเกษม อยู่กัน แปด คน พี่สาวกำหนดคลอดสัปดาห์นี้ น้ำท่วมถึงชั้นบนแล้ว", "message_type": "help_request", "flags": ["pregnant"], "needs": [], "water_level": "floor2"}
+{"text": "บ้านเลขที่ 177 ถ.ปุณณกัณฑ์ คอหงส์ ตาหกสิบเก้า ในบ้านมี เจ็ด คน ทุกคนแข็งแรงดี นำ้เข้าห้องนอนชั้น 2 ขาดน้ำดื่ม ขอเจ็ตสกีมารับ โทร 081-xxx-5121", "message_type": "help_request", "flags": [], "needs": ["water", "evacuation"], "water_level": "floor2"}
+{"text": "เมื่อไหร่ฝนจะหยุด", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ซ.น้ำน้อย 1 น้ำน้อย\nในบ้านมี 4 คน\nน้ำมิดอกแล้ว\nติดต่อ 093xxx8437", "message_type": "help_request", "flags": [], "needs": [], "water_level": "chest"}
+{"text": "please help แถวคอหงส์ หลานอายุ 5 ขวบ ลูก 3 ขวบ ผู้ใหญ่ สี่ คน นำ้สูงเลยเอวแล้ว ขาดนม น้ำขวดหมด ไม่มีอะไรจะกิน โทร 082-xxx-6527", "message_type": "help_request", "flags": [], "needs": ["milk", "water", "food"], "water_level": "waist"}
+{"text": "แจ้งแทนญาติครับ บ้านเลขที่ 37 ถ.ปุณณกัณฑ์ คอหงส์ เด็ก 6 ขวบ ตา 81 ปี รวม 10 คน ภรรยาขาพิการ ขยับเองไม่ได้ สามีหลังผ่าตัดสมอง นอนอย่างเดียว บ้านชั้นเดียวจมมิดแล้ว น้ำดื่มหมด โทร 089-xxx-9565", "message_type": "help_request", "flags": ["wheelchair", "bedridden"], "needs": ["water"], "water_level": "floor1"}
+{"text": "สู้ๆ นะชาวสงขลา", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "🙏 ช่วยด้วย ถ.กาญจนวนิช บ้านพรุ ลูก 5 ขวบ อยู่กัน 8 คน แม่ is blind นำ้ท่วมถึงคอ น้ำเปล่าหมดแล้ว ยังไม่อยากออกจากบ้าน", "message_type": "help_request", "flags": ["disabled_blind"], "needs": ["water"], "water_level": "chest"}
+{"text": "🙏 ช่วยด้วย, ควนลัง ใกล้ อบต.ควนลัง, ทารกแรกเกิด อายุ 9 วัน, เด็ก 12 ขวบ, ผู้ใหญ่ สอง คน, water chest deep, ขอนำ้ดื่ม, ตั้งแต่เมื่อวาน, โทร 087-xxx-4246", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": "chest"}
+{"text": "แถวถนนครูจีน,ประตูระบายน้ำจะเปิดคืนนี้น้ำจะขึ้นเร็ว", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "เพื่อนส่งข้อความมาว่า\nบ้านเลขที่ 81 ติดคลองอู่ตะเภา ทุ่งเสา\nมีคนท้อง 6 เดือน\nมีผู้ป่วยติดเตียง\nน้ำถึงอก\nขอน้ำดื่ม\nยังไม่ต้องอพยพ\nโทร 087-xxx-9679", "message_type": "help_request", "flags": ["pregnant", "bedridden"], "needs": ["water"], "water_level": "chest"}
+{"text": "SOS, บ้านเลขที่ 183 ตรงข้ามโรงเรียน ถนนเพชรเกษม, คนแก่ 78 ปี, รวม 2 คน, น้าพิการแขนขา, นำ้ถึงสะโพก, เหลือมาม่าห่อเดียว", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["food"], "water_level": "waist"}
+{"text": "🙏ช่วยด้วย,เขต8หลังตลาดเขต8,คนแก่71ปี,ผู้ใหญ่1คน,อยากอพยพออก,ติดต่อ099xxx5795", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": null}
+{"text": "ช่วยกันแชร์เยอะๆ", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ขอความช่วยเหลือด่วนนน\nนำ้น้อย หมู่ 3 น้ำน้อย\nสามีแผลติดเชื้อ บวมแดง\nน้ำเข้าชั้นสองแล้ว\nโทร 083-xxx-4008", "message_type": "help_request", "flags": ["injured"], "needs": [], "water_level": "floor2"}
+{"text": "ใครอยู่ใกล้ช่วยที เขต 8 ซ.ศรีภูวนารถ 2 บ้านชั้นเดียวจมมิดแล้ว need medicine ตั้งแต่เมื่อวาน โทร 088-xxx-4790", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "floor1"}
+{"text": "นี่แหละเมืองเรา", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ขอความช่วยเหลือด่วน บ้านเลขที่ 193 ซ.สังทิศ 1 คอหงส์ ทารกแรกเกิด อายุ 15 วัน คนแก่ 79 ปี ขาดมาม่า ขอน้ำดื่ม โทร 085-xxx-2629", "message_type": "help_request", "flags": [], "needs": ["food", "water"], "water_level": null}
+{"text": "เป็นกำลังใจให้ทุกคน\nฝนตกอีกแล้วว เบื่อ", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "แจ้งแทนญาติครับ\nรวม 1 คน\nมีคนท้อง 7 เดือน\nป้าถึงคิวฟอกไตแล้วแต่ออกไปม่ายได้\nno food\nขาดน้ำดื่ม", "message_type": "help_request", "flags": ["pregnant", "dialysis"], "needs": ["food", "water"], "water_level": null}
+{"text": "ทำข้าวแกงแจก 50 ห่อ, แถวคลองแห, ส่งไปที่ไหนดีครับ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ด่วนมาก!! แถวควนลัง รวม 7 คน ลุงใส่ขดลวดหัวใจ นำ้ยังตื้นแค่ข้อเท้า อยากออกจากบ้าน ติดมา 5 วันแล้ว", "message_type": "help_request", "flags": ["heart"], "needs": ["evacuation"], "water_level": "knee"}
+{"text": "บ้านเลขที่ 138 ถ.ปุณณกัณฑ์ คอหงส์, คุณตาอายุ เก้าสิบสาม, ผู้ใหญ่ สอง คน, น้ำสูงเกือบมิดหัว, please send a boat, ติดต่อ 096xxx4647", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "chest"}
+{"text": "ช่วยกันแชร์เยอะๆ รอดูว่าจะท่วมนานแค่ไหน", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "please help near PSU Kho Hong อยู่กัน 8 คน สามี has heart disease ลุงนั่งวีลแชร์ พาออกไปที่ปลอดภัยที ข้าวก็หมด ไฟดับ มือถือจะดับ โทร 082-xxx-9003", "message_type": "help_request", "flags": ["heart", "wheelchair"], "needs": ["evacuation", "food", "power"], "water_level": null}
+{"text": "ขอความช่วยเหลือด่วน, ซ.คลองเตย 3 คลองเตย, ในบ้านมี 6 คน, ไม่ได้กินข้าวมาทั้งวัน, ตั้งแต่เมื่อวาน, ติดต่อ 097xxx6424", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": null}
+{"text": "บ้านเลขที่ 204 ตรงข้ามโรงเรียน ถนนเพชรเกษม ทารก 9 เดือน grandma 67 y/o อยู่กัน เจ็ด คน ต้องปีนขึ้นหลังคา need medicine 2 คืนแล้ว ติดต่อ 092xxx7383", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "roof"}
+{"text": "แถวถนนครูจีน พ่ออายุ เจ็ดสิบสี่ ในบ้านมี 1 คน น้ำปริ่มหลังคา ขาดมาม่า ติดมา ห้า วันแล้วว", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "roof"}
+{"text": "เพื่อนส่งข้อความมาว่า คลองเตย ริมคลอง ร.1 อยู่กัน หก คน คุณตาแขนหัก ออกจากหมู่บ้านไม่ได้ since yesterday", "message_type": "help_request", "flags": ["injured"], "needs": [], "water_level": null}
+{"text": "ขอความช่วยเหลือด่วน Khlong Hae soi 2 นำ้ท่วมมิดชั้น 1 ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": [], "needs": [], "water_level": "floor1"}
+{"text": "เพื่อนส่งข้อความมาว่า\nอยู่กัน 8 คน\nทุกคนโอเค\nน้ำท่วมถึงชั้นบนแล้ว\nneed medicine\nไฟดับ โทรศัพท์ใกล้ดับ\nอยากอพยพออก\nโทร 084-xxx-8599", "message_type": "help_request", "flags": [], "needs": ["medicine", "power", "evacuation"], "water_level": "floor2"}
+{"text": "ญาติโทรมาบอกว่า เขต 8 หลังตลาดเขต 8 พ่อเก้าสิบเจ็ด พ่อโดนกระแสนำ้พัดชนกำแพง flood reached second floor ขอพาวเวอร์แบงค์ ติดมา 4 วันแล้ว", "message_type": "help_request", "flags": ["injured"], "needs": ["power"], "water_level": "floor2"}
+{"text": "คลองเตย ริมคลอง ร.1\nในบ้านมี หนึ่ง คน\nเมียท้องได้ 8 เดือนแล้วว\nน้ำถึงหน้าอก\nno food\nขอพาวเวอร์แบงค์\nsince yesterday", "message_type": "help_request", "flags": ["pregnant"], "needs": ["food", "power"], "water_level": "chest"}
+{"text": "แถวทุ่งเสา ในบ้านมี 9 คน คุณตาเดินเองม่ายไหว น้ำถึงอก ยาใกล้หมด ขอน้ำดื่ม ยังไม่อยากออกจากบ้าน ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["medicine", "water"], "water_level": "chest"}
+{"text": "help! คลองแห ซ.คลองแห 2 7 people พี่สาวพิการแขนขา ตาป่วยไตวายต้องฟอกเลือด น้ำท่วมถึงคอ ไม่มีน้ำกิน ติดมา 4 วันแล้ว โทร 087-xxx-4458", "message_type": "help_request", "flags": ["wheelchair", "dialysis"], "needs": ["water"], "water_level": "chest"}
+{"text": "เขต 8 หลังตลาดเขต 8, เด็ก 4 ขวบ, ลูก 11 ขวบ, น้ำท่วมชั้นล่างหมดแล้ว, แบตเหลือ 5%, ติดต่อ 094xxx5706", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "floor1"}
+{"text": "ถ.ปุณณกัณฑ์ คอหงส์ 3 people น้ำยังตื้นแค่ข้อเท้า น้ำดื่มยังมีพอ โทร 087-xxx-2391", "message_type": "help_request", "flags": [], "needs": [], "water_level": "knee"}
+{"text": "อาสาเรือฝากบอก ซ.คลองแห 2 คลองแห มีจระเข้หลุดออกมา กู้ภัยกำลังเข้าไปดู", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ญาติโทรมาบอกว่าข้างโชว์รูมถนนเพชรเกษมผู้ใหญ่หนึ่งคนมีผู้ป่วยติดเตียงweareontheroofneedmedicine", "message_type": "help_request", "flags": ["bedridden"], "needs": ["medicine"], "water_level": "roof"}
+{"text": "ดูไลฟ์อยู่ ขอให้ทุกคนปลอดภัย 🙏", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "มีเจ็ตสกีพร้อมคนขับ เขต 8 หลังตลาดเขต 8 ส่งไปที่ไหนดีครับ", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "คลองเตย ซ.คลองเตย 3 คนแก่ 88 ปี น้ำดื่มหมด", "message_type": "help_request", "flags": [], "needs": ["water"], "water_level": null}
+{"text": "ด่วนมาก!!\nnear PSU Kho Hong\nเด็ก 3 ขวบ\nหลานอายุ 4 ขวบ\nในบ้านมี 7 คน\nปู่พิการทางสายตา\nปู่ต้องฟอกไต\nนำ้ขึ้นชั้น 2 แล้ว\nยาเบาหวานหมด\nนมสูตรหมด\nไม่มีอะไรจะกิน\nตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": ["disabled_blind", "dialysis"], "needs": ["medicine", "milk", "food"], "water_level": "floor2"}
+{"text": "ตอนนี้\nถนนเพชรเกษม ข้างโชว์รูม\nbaby 1 months\nลูกอ่อน 8 เดือน\nflood reached second floor\nplease send a boat", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "floor2"}
+{"text": "🙏 ช่วยด้วย ซ.ควนลัง 5 ควนลัง ผู้ใหญ่ 4 คน นำ้ถึงเอว เหลือมาม่าห่อเดียว ขอเรือมารับ 2 คืนแล้ว ติดต่อ 094xxx7557", "message_type": "help_request", "flags": [], "needs": ["food", "evacuation"], "water_level": "waist"}
+{"text": "มีชุดชูชีพ 300 ตัวให้ยืม ใครต้องการทักมา", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ฝากแชร์หน่อย หนีขึ้นชั้นบนนำ้ก็ตามมา ม่ายได้กินข้าวมาทั้งวัน ขอยาด้วย ขาดนม", "message_type": "help_request", "flags": [], "needs": ["food", "medicine", "milk"], "water_level": "floor2"}
+{"text": "ใครอยู่ใกล้ช่วยที ซ.นำ้น้อย 1 น้ำน้อย คนแก่ 73 ปี ในบ้านมี 6 คน", "message_type": "help_request", "flags": [], "needs": [], "water_level": null}
+{"text": "เพื่อนส่งข้อความมาว่า แถวถนนเพชรเกษม ในบ้านมี 1 คน ไม่มีผู้ป่วยนะ น้ำท่วมเต็มชั้นล่าง ช่วยไปรับที ติดต่อ 095xxx1044", "message_type": "help_request", "flags": [], "needs": ["evacuation"], "water_level": "floor1"}
+{"text": "ขอเป็นอาสาขับเรือ soi 2 Khlong Hae ใครต้องการทักมา", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "รบกวนประสานกู้ภัย แถวคลองเตย อยู่กัน หนึ่ง คน ออกซิเจนใกล้หมด แบตจะหมด ยังม่ายอยากออกจากบ้าน โทร 081-xxx-1157", "message_type": "help_request", "flags": [], "needs": ["medicine", "power"], "water_level": null}
+{"text": "มีพาวเวอร์แบงค์แจก\nใครขาดอะไรบอกได้", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}
+{"text": "ติดคลองอู่ตะเภา ทุ่งเสา, ผู้ใหญ่ 3 คน, สามีหลังผ่าตัดสมอง นอนอย่างเดียว, ขึ้นไปรอบนหลังคาแล้ว, หิวมาก, please send a boat, ตั้งแต่เมื่อวาน", "message_type": "help_request", "flags": ["bedridden"], "needs": ["food", "evacuation"], "water_level": "roof"}
+{"text": "บ้านข้างๆ ยังติดอยู่ แถวคลองแห ตา 86 ปี 3 people น้าป่วยหนักลุกจากเตียงไม่ได้ ชั้นล่างไม่เหลือแล้ว ขอเรือมารับ น้ำดื่มหมด", "message_type": "help_request", "flags": ["bedridden"], "needs": ["evacuation", "water"], "water_level": "floor1"}
+{"text": "คลองเตย ริมคลอง ร.1\nstrong current, boats capsized\nอย่าใช้ทางนี้", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ขอบคุณทุกคนที่แชร์\nบ้านที่แจ้งไว้\nที่ควนลัง\nhas been rescued", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "SOS พ่อใช้รถเข็น น้ำมิดอกแล้ว หิวมาก", "message_type": "help_request", "flags": ["wheelchair"], "needs": ["food"], "water_level": "chest"}
+{"text": "ช่วยด้วยค่ะ\nบ้านเลขที่ 288 ถ.ปุณณกัณฑ์ คอหงส์\n3 people\nwater knee deep\nติดมา 3 วันแล้ว\nติดต่อ 094xxx4296", "message_type": "help_request", "flags": [], "needs": [], "water_level": "knee"}
+{"text": "รบกวนประสานกู้ภัย\nบ้านเลขที่ 33 ซ.สังทิศ 1 คอหงส์\nคุณยาย 62 ปี\nอยู่กัน 6 คน\nคุณยายหัวแตก\nflood reached second floor\nโทร 087-xxx-6630", "message_type": "help_request", "flags": ["injured"], "needs": [], "water_level": "floor2"}
+{"text": "นี่แหละเมืองเรา", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ระวัง! ใกล้ อบต.ควนลัง ควนลัง ถนนทรุด", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "ขอความช่วยเหลือด่วน น้ำน้อย หมู่ 3 น้ำน้อย ยาย 77 ปี 5 people น้ำสูงเลยเอวแล้ว อาหารหมด ช่วยมารับออกไปที น้ำขวดหมด", "message_type": "help_request", "flags": [], "needs": ["food", "evacuation", "water"], "water_level": "waist"}
+{"text": "ถนนเพชรเกษม ข้างโชว์รูม, รวม 4 คน, อยู่ตึกแถวชั้น 3, ขาดมาม่า, โทร 085-xxx-5039", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": null}
+{"text": "ฝนตกอีกแล้ว เบื่อ\nทำไมน้ำท่วมทุกปี แก้ไม่ได้สักที", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "ขอให้ทุกคนปลอดภัย🙏", "message_type": "irrelevant", "flags": [], "needs": [], "water_level": null}
+{"text": "เตือนภัย คลองเตย มีรถจมอยู่ใต้น้ำ เรือผ่านไม่ได้ อย่าใช้ทางนี้", "message_type": "hazard_report", "flags": [], "needs": [], "water_level": null}
+{"text": "แถวถนนครูจีน water knee deep ออกซิเจนใกล้หมด โทร 087-xxx-6405", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "knee"}
+{"text": "SOS ควนลัง ซ.ควนลัง 5 grandma 75 y/o พี่สาวตั้งครรภ์ใกล้คลอด ตาหัวใจเต้นผิดจังหวะ น้ำดื่มหมด ติดมา 2 วันแล้ว โทร 089-xxx-2365", "message_type": "help_request", "flags": ["pregnant", "heart"], "needs": ["water"], "water_level": null}
+{"text": "ใครอยู่ใกล้ชวยที ถนนครูจีน ใกล้วัดครูจีน คุณตาอายุ 97 รวม 2 คน น้ำท่วมถึงชั้นบนแล้ว อาหารหมด", "message_type": "help_request", "flags": [], "needs": ["food"], "water_level": "floor2"}
+{"text": "help!\nคลองแห ซ.คลองแห 2\nอยู่กัน หก คน\nน้ำมิดหน้าต่างชั้นล่าง\nยาเบาหวานหมด", "message_type": "help_request", "flags": [], "needs": ["medicine"], "water_level": "floor1"}
+{"text": "SOS, ผู้ใหญ่ 9 คน, น้ำท่วมถึงชั้นบนแล้ว, นมสูตรหมด, รอเรือมารับ", "message_type": "help_request", "flags": [], "needs": ["milk", "evacuation"], "water_level": "floor2"}
+{"text": "ถ.กาญจนวนิช บ้านพรุ ลูก 10 ขวบ หลานอายุ 11 ขวบ 8 people น้ำปริ่มหลังคา แบตจะหมด", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "roof"}
+{"text": "help!\nแถวคลองเตย\nคนแก่ 89 ปี\nในบ้านมี แปด คน\nช่วยไปรับที\nน้ำเปล่าหมดแล้ว\nไฟดับ มือถือจะดับ", "message_type": "help_request", "flags": [], "needs": ["evacuation", "water", "power"], "water_level": null}
+{"text": "แจ้งแทนญาติคับ\nแถวควนลัง\nแม่ 75 ปี\nผู้ใหญ่ 4 คน\nน้ำท่วมระดับเข่า\nไม่มีนมให้ลูก\nไฟดับ โทรศัพท์ใกล้ดับ\nขาดน้ำดื่ม\nsince yesterday", "message_type": "help_request", "flags": [], "needs": ["milk", "power", "water"], "water_level": "knee"}
+{"text": "update: คนท้อง ปลอดภัยแล้ววนะคะ", "message_type": "status_update_resolved", "flags": [], "needs": [], "water_level": null}
+{"text": "รบกวนประสานกู้ภัย, บ้านเลขที่ 202 ซ.คลองแห 2 คลองแห, เด็ก หนึ่ง ขวบ, ผู้ใหญ่ 9 คน, น้ำเข้าชั้นสองแล้ว, ไม่มีไฟชาร์จมือถือ", "message_type": "help_request", "flags": [], "needs": ["power"], "water_level": "floor2"}
+{"text": "ทำข้าวแกงแจก 100 ห่อ ใครต้องการทักมา", "message_type": "donation_offer", "flags": [], "needs": [], "water_level": null}

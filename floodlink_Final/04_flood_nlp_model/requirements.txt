@@ -1,0 +1,4 @@
+# pinned so the saved model (artifacts/*.joblib) loads; if versions differ the agent retrains automatically (~3 s)
+scikit-learn==1.9.1
+numpy>=2.0
+joblib>=1.3

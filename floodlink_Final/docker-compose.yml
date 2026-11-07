@@ -1,0 +1,35 @@
+services:
+  web:                      # 01 — React dashboard
+    build: ./01_web_app
+    environment:
+      - API_TARGET=http://api:8000
+    ports: ["5173:5173"]
+    volumes:
+      - ./01_web_app/src:/app/src
+    depends_on: [api]
+
+  api:                      # 02 — cases, duplicates, status, stats  (+ 06 chatbot in-process)
+    build: { context: ., dockerfile: 02_api_backend/Dockerfile }
+    env_file: .env
+    environment:
+      - AGENT_URL=http://agent:8001
+      - PUBLIC_WEB_URL=${PUBLIC_WEB_URL:-http://localhost:5173}
+    ports: ["8000:8000"]
+    volumes:
+      - ./02_api_backend/api:/srv/02_api_backend/api
+      - ./06_chat_assistant:/srv/06_chat_assistant         # chatbot + places data + knowledge base
+      - ./common:/srv/common
+      - dbdata:/data
+    depends_on: [agent]
+
+  agent:                    # 03 — Intake AI Agent (own model 04 + Gemini escalation)
+    build: { context: ., dockerfile: 03_intake_ai_agent/Dockerfile }
+    env_file: .env
+    ports: ["8001:8001"]
+    volumes:
+      - ./03_intake_ai_agent/agent:/srv/03_intake_ai_agent/agent
+      - ./04_flood_nlp_model:/srv/04_flood_nlp_model      # model + teacher_labels.jsonl stay on your disk
+      - ./common:/srv/common
+
+volumes:
+  dbdata:
