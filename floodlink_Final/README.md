@@ -10,7 +10,7 @@
 
 ไฟล์โมเดลมีขนาด 186 MB เกินขีดจำกัดของ GitHub จึงต้องดาวน์โหลดแยก
 
-1. ดาวน์โหลด [floodwcb_model01.zip]([https://drive.google.com/xxxxx](https://drive.google.com/file/d/1mEyK9gE159EZlUwDqLsZo6g-fLlQEpUy/view?usp=sharing))
+1. ดาวน์โหลด [floodwcb_model01.zip](https://drive.google.com/file/d/1mEyK9gE159EZlUwDqLsZo6g-fLlQEpUy/view?usp=sharing)
 2. วางไฟล์ไว้ที่ [`04_flood_nlp_model/artifacts/`](04_flood_nlp_model/artifacts/)
 ## ขอบเขตโปรเจกต์ (v0.16)
 
