@@ -1,0 +1,5 @@
+numpy
+sentence-transformers
+faiss-cpu
+tqdm
+# LLM calls use Python's standard library (urllib) -> no extra SDK needed
